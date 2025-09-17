@@ -1,0 +1,14 @@
+leia_env/
+venv/
+*.env
+/models/
+/data/raw/
+/data/interim/
+/data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
