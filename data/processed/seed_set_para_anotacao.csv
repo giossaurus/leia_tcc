@@ -1,0 +1,1501 @@
+question,true_answer,question_id,disciplina,split
+"TEXTO DE REFERÊNCIA: Duas empresas estão transformando resíduos da cana‑de‑açúcar em celulose e papel [...]. Os estudos tiveram o apoio de pesquisadores da Universidade Federal de Viçosa (UFV), que escolheram a palha como matéria‑prima, fizeram a análise da pasta celulósica produzida [...].
+A palha de cana é um resíduo abundante no Brasil. A Companhia Nacional de Abastecimento (Conab) estima que foram colhidos 657,18 milhões de t de cana‑de‑açúcar na safra 2016/2017 [...]. Segundo Henrique Coutinho Junqueira Franco, [...], do Laboratório Nacional de Ciência e Tecnologia do Bioetanol (CTBE) [...], “a maioria do bagaço já é utilizada na cogeração de eletricidade e produção de etanol de segunda geração. Mas a palha ainda é pouco usada” [...].
+O uso de fibras alternativas, não provenientes de madeira, para a produção de celulose não é novidade. Bambu, babaçu, sisal e resíduos agrícolas já são utilizados há décadas, principalmente em países onde a disponibilidade de terras para o cultivo de árvores é baixa.
+
+ZAPAROLLI, D. Disponível em: www.revistapesquisa.fapesp.br. Acesso em: 3 jul. 2019.
+
+Qual é uma das vantagens do uso da fibra de cana‑de‑açúcar para a produção de papel?",redução da quantidade de resíduos produzidos pelo processamento da cana‑de‑açúcar.,97dd70e2f589a438187893e5790270050c13a9d73ff73f5a9b086c167da0994e9aad00cf9cd416ac65396586aa8492ba3f430fd27b53f8322719486f96c483c2,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: O Comitê Organizador das Olimpíadas no Rio em 2016 admitiu erro no tratamento da água do Parque Aquático Maria Lenk, no Parque Olímpico. A água da piscina de saltos ornamentais apareceu verde nas provas desta terça‑feira (9/8/2016). A Federação Internacional de Natação informou que produtos químicos do reservatório de água vazaram para a piscina e, como resultado, o pH da água estava fora do valor habitual, fazendo com que houvesse a descoloração.
+
+Disponível em: www.olimpiadas.uol.com.br. Acesso em: 13 maio 2019 (adaptado).
+
+Sabendo que o pH ideal da água de uma piscina se encontra entre 7,2 e 7,6, qual método pode ser usado para verificar qualitativamente se esse pH está adequado?",Utilizar um indicador ácido‑base com ponto de viragem próximo ao pH adequado.,4f824db36adb5ffa18710e8bbaa0abff8f8d5c3f841b77537284f5ebb4e7968b0be0c038a8ae734eadbe3ed1cc91d74573e5b30c9c81d39c6b136aa6de060500,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: As atividades de mineração e metalurgia são, reconhecidamente, de elevado impacto ambiental. No caso da mineração, o enorme tamanho de algumas operações, a quantidade de carga movimentada e os rejeitos gerados têm representado riscos para diversas regiões e populações, eventualmente afetadas por acidentes e mecanismos ineficientes de deposição e monitoramento. Já a metalurgia é um dos setores mais intensivos em energia e emissões de gases de efeito estufa (GEE), sendo alvo direto das ações de preservação do clima em todo o mundo. Ambos os setores também são grandes consumidores de água.
+
+Disponível em: <https://www.bndes.gov.br>. Acesso em: 14 dez. 2019.
+
+Uma medida viável para atenuar esses impactos é a:",implementação de técnicas de reutilização da água usada no processo produtivo,76f295a3885f4438407817c8188b2e448352a83d00e159f1b88bf1f886fa1e7053b45a065dbbb137abbc522dc44c4f76cc44012a4c105be9ce46298521c9a755,Ciências da Natureza,train
+"Lucas e Marcos fizeram a mesma viagem, cada um em seu carro. O carro de Lucas tem rendimento médio de 12 km por litro de gasolina, enquanto o carro de Marcos é mais econômico, tendo um rendimento médio de 2 km a mais por litro em relação ao carro de Lucas. Se Lucas gastou 70 litros de gasolina nessa viagem, quantos litros de combustível Marcos gastou, considerando que ambos percorreram a mesma distância?",60 L,65c7d3a5f99f1a23366a265eaf51f7a67c451d3975280c911c59e554fe0604b694b2f08c07755a1f045fc0edf2c740a6c658726384f1be6267c439f7f3df9795,Matemática,train
+"TEXTO DE REFERÊNCIA: TEXTO I
+Se não escrever, não vivo; fico angustiado. Escrevo diariamente, religiosamente. O dia em que não escrevo, fico com um sentimento de culpa enorme. Se ficar três dias então, fico totalmente neurótico. Tenho que estar ocupado, senão falta alguma coisa na minha vida. Escrever para mim é uma terapia.
+
+Depoimento de Dias Gomes ao Jornal da Tarde, 24 jun. 1994. In: BRITO, José Domingos de (Org.). Por que escrevo?. São Paulo: Novera Editora, 2007. p. 73.
+
+TEXTO II
+Sei também que escrevo para me livrar dos meus demônios, que se apresentam em forma de vogais e consoantes – escrever é desanuviar dos próprios assombros; jeito poético talvez de cortejar próprios destrambelhos; de zombar de si mesmo – sem abrir mão dos rompantes lúdicos; escrever para tornar águas do meu rio menos turvas.
+
+FERREIRA, Evandro Affonso. Não tive nenhum prazer em conhecê-los. Rio de Janeiro: Record, 2016. p. 167.
+
+Nos dois depoimentos metalinguísticos, o ato de escrever é descrito pelos escritores como",apaziguador,2a3e9ff56a90a80a5cf50696744ed7e2e398193274577f96e5deb70e94ff3d04edce424fd647d95f6971706964508ea23c8657f5c10a447b1964ecb74fea8944,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A visibilidade do corpo com deficiência gera reflexões sobre o papel que tem sido assumido por esses corpos, já que eles começam a ocupar espaços até então dominados pelos corpos considerados ideais. A apresentação no palco de um corpo com deficiência, longe do propósito de fomentar o sentimento de compaixão, pode levar as pessoas da plateia a dialogar/confrontar a história desse corpo com a história, os valores e (pré)conceitos do seu próprio corpo. Por esse trajeto, o dançarino pode desafiar as representações de corpo estabelecidas na dança.
+
+SANTOS, R. F.; GUTIERREZ, G. L.; ROBLES, O. J. “Dança para pessoas com deficiência: um possível elemento de transformação pessoal e social”. Revista Brasileira de Ciências do Esporte, v. 41, n. 3, jul.-set. 2019.
+
+De acordo com o texto, o melhor efeito que os corpos com deficiência que se apresentam nos palcos podem gerar é o de:",reflexão do público sobre seu próprio corpo,9f9dc88cbdf3f16c788184fd62b7453aca6591cbf5343a6c14a876c6625bd0e02d1420c891a76dcb88b1aa458ae19979b29721aff2302d0eb18efea271e81152,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: O presidente da Inova Consulting, Luís Rasquilha, alerta: trabalhos que não forem de “índole criativa e inovadora” tendem a desaparecer. Áreas de atividades operacionais e de processos repetitivos já estão sendo automatizadas, e a tendência é que as funções sejam substituídas por máquinas, visando reduzir custos e atender às necessidades do mercado. “É o caso de caixa e gerente de banco, atendente de call center, segurança de shopping, consultor financeiro, corretor de seguros e de imóveis, entre outras”, diz.
+
+FERNANDES, M. LOURENÇO, M. SARAIVA, J. Tecnologia e mudanças no mercado de trabalho fazem profissões acabarem. Correio Braziliense. Disponível em: http://especiais.correiobraziliense.com.br/. Acesso em: 7 mar. 2021.
+
+De acordo com o texto, qual será a consequência do cenário proposto?",Ampliação das desigualdades sociais.,d17684835978d5c7a38e7cee7048cd4e87a6f72a8d006ff5bba17a26b72164c650ce9ea2caed8d69da447d35a61bf419d4ae5c8e77804901152928b655782a43,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: Para estudar o alcance do sinal das emissoras de rádio, inseriu‑se o mapa de um estado em um sistema cartesiano cuja unidade é o quilômetro. Sabe‑se que, uma vez instalada uma antena de transmissão de rádio de alcance R km, a região que receberá o sinal dessa antena é representada por um círculo com centro na antena e raio R km.
+
+Nesse plano cartesiano, as regiões que recebem o sinal das emissoras A e B são representadas pelas equações
+
+x² + y² – 2x – 2y = 98  (emissora A)
+
+(x – 11)² + (y – 1)² = 100  (emissora B)
+
+Considerando essas informações, qual é a área, em km², da região que recebe simultaneamente o sinal das duas emissoras?",π(200/3) – 50√3,8676c3de31ce2c330057e3cb9e44bd663a6cc413588a99ed3c056411c8ce2b56418b0ddda3bbbc1c73d3a1ddbf56c1ffdbfff5fb027c2f50527b6849f2691d91,Matemática,train
+"TEXTO DE REFERÊNCIA: O termo gadget vem sendo usado para designar dispositivos eletrônicos portáteis, que utilizam pequenas placas de circuito, como smartphones, tablets, notebooks, HDs externos, carregadores portáteis, entre outros.
+
+Em determinada fábrica de produção de gadgets, há 180 operadores que trabalham configurando máquinas que são utilizadas para produzir placas de circuito. Todos esses operadores trabalham em um ritmo constante, independentemente das demandas da fábrica. Desse modo, caso haja diminuição da demanda ou aumento do prazo de entrega, uma parcela dos operadores ficará ociosa. Por outro lado, se a demanda aumentar ou o prazo de entrega diminuir, serão necessárias contratações temporárias. Durante um período de demanda atípica, a quantidade das placas de circuito produzidas reduziu na sua terça parte e o tempo para que os operadores produzissem essas placas aumentou em sua quinta parte.
+
+Durante esse período de demanda atípica, a quantidade necessária de operadores configurando as máquinas da fábrica era de",100,ccd9cd0d06c3f30d71f2a41eb38e6bec71cdab2386041bfc5be1609a901c29e198390f2e3a37ff11ec1004098efdd6a0dbb36692b1ecaebdd48c771d2c5673a9,Matemática,valid
+"TEXTO DE REFERÊNCIA: Conjunto habitacional com 50 casas. Cada casa consome, em média, 250 kWh ao mês (mês de 30 dias). Cada painel tem potência 265 W, rendimento 80 % e as horas diárias de irradiação úteis são 5,37 h. Sabendo esses dados, quantas placas solares, aproximadamente, a prefeitura precisará comprar para equipar todas as casas desse conjunto habitacional?",350,e2cec315588060745285887ac985c67a58cd9bf0bea6b035b6e9f4b5e49d0c62cc76919890716b0b84627e3816db7c585c1a5ea98e98c046e35c1a7a907acd0a,Ciências da Natureza,test
+"TEXTO DE REFERÊNCIA: Os indivíduos que compõem a classe dominante possuem, entre outras coisas, também consciência e, por isso, pensam; na medida em que dominam como classe e determinam todo o âmbito de uma época histórica, é evidente que eles o fazem em toda a sua extensão, portanto, entre outras coisas, que eles dominam também como pensadores, como produtores de ideias, que regulam a produção e a distribuição das ideias de seu tempo; e, por conseguinte, que suas ideias são as ideias dominantes da época.
+
+MARX, K.; ENGELS, F. A Ideologia Alemã. Tradução de Luciano Cavini Martorano, Nélio Schneider e Rubens Enderle. São Paulo: Boitempo, 2007. p. 47.
+
+Segundo o texto, Marx afirma que a ideologia, para a classe dominante, serve para:",sustentar as estruturas burguesas,b986efaa10a7a6f90c69e779401323871245f90e4e50e092b0a6acda347bbf8ca107f765acf5cf52bce4735b6c70a76605805fa55f15c77af65e13c8e7c60315,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: O projeto de uma sala comercial de formato retangular com 10 m de comprimento e 6 m de largura prevê a instalação de dois ares‑condicionados de 12 000 BTUs cada. Uma técnica foi contatada para analisar se a quantidade de ares‑condicionados indicada no projeto estava adequada para as dimensões da sala. Sabe‑se que, em um ambiente comercial, um ar‑condicionado de 12 000 BTUs atende a uma área de 15 m².
+
+Quantos aparelhos adicionais de 12 000 BTUs são necessários, segundo a técnica, para atender adequadamente a sala?",2,c8db9a9af985d73228dbd3c80010fa686fa50cac1e744ac20572410f7d85f205b7698a790093fa145262f23fffef86d0d0e9945613ec671d4d04adab6dbe45b4,Matemática,train
+"TEXTO DE REFERÊNCIA: Tabela de índices pluviométricos nos últimos três meses e variâncias:
+A: 1º mês 100 mm, 2º mês 101 mm, 3º mês 99 mm — Variância 0,67
+B: 1º mês 110 mm, 2º mês 90 mm, 3º mês 70 mm — Variância 266,67
+C: 1º mês 80 mm, 2º mês 100 mm, 3º mês 120 mm — Variância 266,67
+D: 1º mês 0 mm, 2º mês 90 mm, 3º mês 180 mm — Variância 5 400,00
+E: 1º mês 0 mm, 2º mês 100 mm, 3º mês 200 mm — Variância 6 666,67
+
+ENUNCIADO: Um grupo de amigos pretende passar um mês de férias em alguma cidade do litoral brasileiro. Consideram‑se cinco opções: cidades A, B, C, D e E. Desejam que a cidade tenha tido a menor média mensal nos meses considerados e, em caso de empate, a escolha será pela cidade cujos dados apresentam menor regularidade, ou seja, maior desvio padrão.
+
+Seguindo esses critérios, qual cidade será escolhida?",D,248074b15da76311ec1281b6b6274011ba8f80487e0061e72b602b2b526146706870c7bce3b3b83c4a07ca29e6e5138bfeeee5258f66238d153c9a94e4240d90,Matemática,train
+"TEXTO DE REFERÊNCIA: Ao longo das últimas três décadas, a Arábia Saudita tem plantado grãos, frutas e legumes no deserto. A sede dessas plantas é satisfeita por água que data da última Era do Gelo. Em um passado mais temperado, há cerca de 20 000 anos, essa água “fóssil” formou aquíferos que agora estão enterrados muito abaixo dos oceanos de areia e das formações de calcário. Os árabes alcançaram essas fontes subterrâneas e passaram a bombeá‑las após escavar poços através da rocha sedimentar por até um quilômetro abaixo da areia do deserto.
+
+Qual é o principal efeito ambiental da técnica de extração de água subterrânea utilizada para viabilizar a agricultura descrita no texto?",diminui o estoque de insumo hídrico,14937e75b13f507391a9b132c4fef836ca2f3544c239c3c2de26a3de516033e48c6ba7fca05e630674f1d1790f57edc17ee572aa9ed32e7cf182b6defdda9636,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Em uma fábrica, são realizadas manutenções em três tipos diferentes de sistemas: sistema mecânico (a cada 15 dias), sistema elétrico (a cada 40 dias) e sistema hidráulico (a cada 60 dias). Quando as três manutenções são realizadas no mesmo dia, há uma parada total na fábrica.
+
+Com base nessas informações, qual é o período, em dias, entre duas paradas totais consecutivas?",120,9bdefe9b30b4624636d5f13ac3471ccc69df48019a959946f3a22d4e1ee4fad2616064122c08614c7b065e71d60031807fe3bf911d7407eff3ee04b64464b98b,Matemática,train
+"TEXTO DE REFERÊNCIA: Cinco empresas estatais de determinado estado prestaram conta dos valores investidos em atividades de interesse público nos anos de 2019 e 2020. A tabela mostra os valores investidos por empresa.
+
+Estatal | 2019 (R$ milhões) | 2020 (R$ milhões)
+I | 800 | 920
+II | 700 | 945
+III | 590 | 708
+IV | 560 | 700
+V | 540 | 702
+
+O governo do estado decidiu que, em 2021, irá injetar recursos extras na empresa que apresentou a menor taxa de aumento no valor investido de 2019 para 2020.
+
+Segundo os valores informados, qual estatal deverá receber os recursos extras em 2021?",I,ec0d6e150a5cb89029750bf8bc7ea282189c00ba14e611aa7d2e335eb0e272c1c6e00558cf06224fb98e2bc46a2e86e2431f172d31dee510afce385439b12a02,Matemática,train
+"PELA PRIMEIRA VEZ, NA LITERATURA BRASILEIRA, UM NEGRO OUSARA DENUNCIAR OS PARADOXOS POLÍTICOS, ÉTICOS E MORAIS DA SOCIEDADE IMPERIAL. [...] [Luiz] GAMA SE DEDICARIA A TRABALHAR EM PROL DE SEUS SONHOS – UM “BRASIL AMERICANO, SEM REIS E SEM ESCRAVOS” – ATRAVÉS DO JORNALISMO, DA TRIBUNA E DOS TRIBUNAIS. “A TURBULÊNCIA CONSISTIA EM FAZER EU PARTE DO PARTIDO LIBERAL; E, PELA IMPRENSA E PELAS URNAS, PUGNAR PELA VITÓRIA DE MINHAS E SUAS IDEIAS; E PROMOVER PROCESSOS EM FAVOR DE PESSOAS LIVRES CRIMINOSAMENTE ESCRAVIZADAS; E AUXILIAR LICITAMENTE, NA MEDIDA DE MEUS ESFORÇOS, ALFORRIAS DE ESCRAVOS, PORQUE DETESTO O CATIVEIRO E TODOS OS SENHORES, PRINCIPALMENTE OS REIS.”, [DECLAROU GAMA].
+
+De acordo com o texto, a manutenção da instituição escravista se relacionava, para Luiz Gama, com o(a):",imoralidade do sistema político vigente,77fa9b701d6fe842f2dacf74c24694bae91bf585a80c2c126388c7ed42c75043de292d1f1c5bda36d4641421dff739c766e3063dc025db2cf7822a1f3f28cc19,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Nelson Mandela, in full Nelson Rolihlahla Mandela, byname Madiba, (born July 18, 1918, Mvezo, South Africa – died December 5, 2013, Johannesburg), Black nationalist and the first Black president of South Africa (1994-1999). His negotiations in the early 1990s with South African Pres. F.W. de Klerk helped end the country’s apartheid system of racial segregation and ushered in a peaceful transition to majority rule. Mandela and de Klerk were jointly awarded the Nobel Prize for Peace in 1993 for their efforts.
+
+Disponível em: www.britannica.com. Acesso em: 6 nov. 2023.
+
+Qual é o objetivo principal desse texto sobre Nelson Mandela?",educar os leitores sobre eventos e figuras históricas,e1f1e99916941bd09e200d3bad500a1e9a076e62eb99b17a2190258987b3360911b76c0b68ae4f3004dcfd8e25956929376cb596f35b9eba19c94ad6bfe09df9,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: e o Liberal – completaram sua formação em fins da década de 1830, como agremiações políticas opostas. Mas havia mesmo diferenças ideológicas ou sociais entre eles? Ficou célebre uma frase atribuída ao político pernambucano Holanda Cavalcanti: “Nada se assemelha mais a um ‘Saquarema’, do que um ‘Luzia’ no poder”.
+
+FAUSTO, Boris, _História do Brasil_. São Paulo: Edusp. 1995. p.180 (adaptado)
+
+Como o texto caracteriza a base ideológica da conjuntura política do Segundo Reinado no Brasil?",elitista e aparentemente difusa,d3a2e1b8d701b03a7701136d6f174a7cb437e373d3b52a29deca3be5131d669c872cc550ed97ff0caf6a62b60ed047836182d86fb55661586c00a4e91a6e9bdf,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: O ministro argumentou que [...]: “Não se muda o estado de um país de um momento para outro. Os nossos hábitos de três séculos, durante os quais foi mantida a escravidão entre nós, as necessidades do país, tudo enfim pedia que com um rasgo de pena não se dissesse – fica abolido o tráfico – sem que para isso nada se tivesse preparado [...], sem se fazer coisa nenhuma, nem antes nem depois da lei, sendo nosso país puramente agrícola e dependendo de braços para viver”.
+
+CHALHOUB, S. A força da escravidão: ilegalidade e costume no Brasil oitocentista. São Paulo: Companhia das Letras, 2012.
+
+De acordo com o discurso do ministro, a Lei Feijó, sancionada em 1831, refletiu principalmente qual influência?",pressão internacional pelo fim da escravidão,e0304bfbc2ef2cca2e6785bc70732e4ebecbf7263ed24646864d8e3cbf71d727db2d82090fb8b1f47acdb9be291f4ada4b7df48548a2402d93c16e4a131b3c1d,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Counting
+
+Harry Franck, from the United States
+
+of America – Census Enumerator
+
+I came to Panama planning to dig
+
+the Eighth Wonder of the World,
+
+but I was told that white men
+
+should never be seen working
+
+with shovels, so I took a police job,
+
+and now I’ve been transferred
+
+to the census.
+
+[…] 
+
+The rules of this census confound me.
+
+I’m expected to count white Jamaicans
+
+as dark and every shade of Spaniard
+
+as semi-white, so that Americans
+
+can pretend
+
+there’s only one color
+
+in each country.
+
+[…] 
+
+Counting feels just as impossible
+
+as turning solid mountains
+
+into a ditch.
+
+ENGLE, M. Counting (Harry Franck from the United States of America Census Enumerator). In: Silver People: Voices from the Panama Canal. Boston: Houghton Mifflin Harcourt, 2014. [Fragmento]
+
+Com base no poema de Margarita Engle, que aspecto o eu lírico evidencia sobre a realização dos censos no Panamá?
+",política intricada na realização dos censos,bca9438ace8a79a1435c7c8dd01c3b98eaf5f019393a49850565430b3e964f6054bdb79776cb0a2ff11b7ffbdc8f1b460e2ba78f050dfe7ca4a98a3e69fc3c62,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Um agricultor interessado em acelerar o processo de decomposição de matéria orgânica no solo, aplicou enzimas microbianas no terreno. O rótulo do produto continha a seguinte explicação:
+
+Complexo transitório (enzima + substrato)    Enzima na sua forma original
+
+Disponível em: <https://elevagro.com>. Acesso em: 21 jun. 2022.
+
+Como o agricultor deve otimizar a ação do produto?",Adequar o pH do solo ao valor mais favorável para a enzima.,8049859b8f7d325b1e6092d1ff07e7d80d46e1c3d02194aa6cec5b666fc4079fd5a8aa5cb5482bf1bc439c95e213394a335fba7b2ac2b0b7a9f0db7d4ed67c4a,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Originalmente, as carrancas eram figuras de proa usadas nas antigas embarcações que faziam o transporte fluvial de cargas no rio São Francisco nos séculos XIX e XX. Histórica e culturalmente, as carrancas do São Francisco são o produto do trabalho de artistas populares. Esculturas de estética grotesca e feições zooantropomorfas, feitas em madeira, elas teriam surgido como amuleto capaz de conter a força da natureza e afugentar as criaturas abomináveis que emergiriam das profundezas do rio para naufragar as embarcações. Essas imagens eram usadas também como estratégia rudimentar de comunicação mercadológica praticada de forma intuitiva pelos antigos barqueiros, como forma de atrair a curiosidade e chamar a atenção de potenciais clientes para os produtos vendidos nas barcas de figura, tendo em vista o comércio fluvial ambulante praticado ao longo do rio.
+
+De acordo com o texto, as carrancas conjugavam quais tipos de funções?","funções práticas, crenças religiosas e formas estéticas",788c40f51deed6d4a382642e2fd2a1161fa3f341803e3012d02f81457337139e16ed3f01badbdbacef69d1d6c6dbb4726cf0fa530a4d8e58e7062647c6e47350,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A União Europeia é um bloco econômico de características únicas e constituído por 27 países europeus que, em conjunto, abarcam grande parte do continente.
+
+Os passos iniciais que levaram à criação da União Europeia ocorreram no contexto do pós‑Segunda Guerra Mundial. Eles visavam incentivar a cooperação econômica, partindo do pressuposto de que, se os países tivessem relações comerciais entre si, se tornariam economicamente dependentes uns dos outros, reduzindo assim os riscos de conflitos.
+
+A União Europeia. Disponível em: <https://portugal.representation.ec.europa.eu>. Acesso em: 16 jan. 2023 (Adaptação).
+
+Considerando as informações do texto, qual foi uma das motivações iniciais da criação da União Europeia?
+",promoção da estabilidade geopolítica,2ccdd8511150a87e3b38d4476be034c28214c6b208a1a3ccdc785aa4fc8c18b06e0979b61e92218e3839c7a41b15e6a1df6bd2584c2779e233af2cc1f8a47c22,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Vídeo mostra importância das consultas públicas para respeitar direitos de escolha das populações dos territórios
+
+O vídeo “Protocolos de Consulta: Instrumento para a Defesa de Territórios e Direitos” retrata uma iniciativa que surgiu dentro dos movimentos de povos indígenas e outras comunidades tradicionais que tem como objetivo assegurar o direito à consulta e a consentimento, livre, prévio e informado sobre políticas e projetos que afetam seus territórios e vidas. Todo o conteúdo é baseado em depoimentos e denúncias feito por lideranças de povos indígenas, quilombolas e ribeirinhos sobre o surgimento da ideia dos protocolos autônomos de consulta e experiências e lições na sua elaboração e implementação. Inicialmente, o projeto foi pensado como contribuição para atividades educativas de formação entre movimentos e comunidades, facilitando a troca de experiências e aprendizagens.
+
+Disponível em: https://fase.org.br/.
+
+ENUNCIADO: Qual é o objetivo das consultas públicas, conforme citado na matéria?",Receber a contribuição dos cidadãos para cooperar no processo de tomada de decisão e edição das normas da administração pública.,fbd97f973b3d0c93b67fe8b90c19e5a5879e1d11f757c1d1dae9f0052817896cab26283b5a954dc21342f0254a7f8f30c9792dd6c1cb999a50041c3c1cecdf63,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA:
+
+TEXTO I: O presidente dos Estados Unidos, Joe Biden, anunciou em maio de 2022 que 12 países aderiram ao Quadro Econômico Indo‑Pacífico (IPEF, na sigla em inglês), um novo pacto comercial que pretende aproximar Washington de economias asiáticas em questões como cadeias de suprimentos, comércio digital, energia limpa e esforços anticorrupção.
+
+TEXTO II: O porta‑voz do Ministério das Relações Exteriores da China, Wang Wenbin, disse na quarta‑feira (25/05/2022) que os Estados Unidos querem dissociar os países do Indo‑Pacífico da economia chinesa ao firmar acordo comercial com 12 nações da região.
+
+Qual aspecto das relações internacionais é revelado pelas diferentes visões sobre o acordo citado nos textos?",Busca por hegemonia mercadológica,aeb46b4617852e66fc5ce3a439c496d23312a6ce55109c2e619199b08febf013b9d27a670f7bc47820a342f20304b8aa78fff076deff9c0445cbd9c08b7baa83,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA: O que, afinal, é Inteligência Artificial?
+
+Seja como for, hoje a expressão Inteligência Artificial é muito popular, tanto na literatura técnica quanto no imaginário popular. As mais variadas áreas, de Medicina a Direito a Engenharia, estão vivendo revoluções baseadas na “inteligência artificial”. A sociedade simultaneamente se espanta com os prometidos ganhos em bem-estar e produtividade e se apavora com perspectivas apocalípticas relacionadas à “inteligência artificial”. Em muitos casos o que se observa é a confusão entre IA e toda e qualquer atividade que envolve aparelhos digitais. Muitas inovações recentes creditadas à inteligência artificial decorrem simplesmente da automatização de tarefas quotidianas ou do uso de tecnologias já dominadas há algum tempo. Por exemplo, temos dispositivos como smart câmeras, por exemplo, em que técnicas sofisticadas de processamento de imagens produzem efeitos surpreendentes mas que dificilmente podem ser confundidos com inteligência. Outras notícias nos alertam sobre aparelhos de ar‑condicionado inteligentes e mesmo sorvetes baseados em IA.
+
+COZMAN, F. G.; NERI, H. O que, afinal, é Inteligência Artificial? In: COZMAN, F.; PLONSKI, G. A.; NERI, H. (Org.). Inteligência artificial : avanços e tendências. IE: Instituto de Estudos Avançados da Universidade de São Paulo, 2021. Acesso em: 14 set. 2023.
+
+Com base no texto acima, por que o autor faz uma leve crítica à popularização do termo “inteligência artificial” no imaginário popular?",Porque indica que muitos feitos hoje atribuídos à IA já eram de domínio da humanidade no passado.,51834fc0dcdbb342dcde7192773682951ce7b938167be67c7fddf319cb728fcf828e5464da12426f24dfffcbfd8af433ad72c6ba80c5dcddb67c65bef0dee18f,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: De acordo com a pesquisa TIC Educação de 2016, o celular já faz parte da vida de 93% da população brasileira – incluindo, é claro, muitas crianças e jovens. Por isso, proibir o uso do celular em sala de aula pode não ser uma boa alternativa. Os aplicativos, funcionalidades e facilidades dos celulares auxiliam no contexto pessoal e também podem ser inseridos no ambiente escolar como prática educacional. O aparelho celular pode se tornar um rico instrumento de aprendizagem. A maioria dos smartphones atuais possui inúmeros recursos que podem ser utilizados nesse sentido: câmeras, gravador de voz, mapas, além do acesso à internet.
+
+VIEGAS, A. Como aproveitar o uso do celular em sala de aula?. Disponível em: www.somospar.com.br. Acesso em: 2 out. 2020.
+
+Conforme observado, o celular possui vários recursos utilizáveis no contexto da aprendizagem. Sob tal perspectiva, a internet revela‑se como importante ferramenta de interação quando acessível a partir de tal dispositivo, uma vez que:",possibilita construir o processo de aprendizagem a partir de múltiplas linguagens.,7b9612cba4bbaf88b5474b2b795fe5b2e88bfa2f59ebbea00e43cd2d19668cbbbbcfd8651977cd4190160b031e8758b9e6018b6e0270d2fe624b0322cce67fed,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Desde 1948, foram reconhecidos os direitos humanos à saúde, educação, trabalho, informação, moradia, entre outros. No entanto, um desses direitos tornou‑se invisível: é o direito à ciência. No artigo 27, a Declaração Universal dos Direitos Humanos afirma: “Toda pessoa tem o direito de [...] participar do progresso científico e dos benefícios que resultam disso. Toda pessoa tem direito à proteção dos interesses morais e materiais que correspondam por causa das produções científicas.” [...] Apesar de seu reconhecimento oficial, os cidadãos devem estar mais cientes da existência do direito à ciência.
+
+Entre outros aspectos, é fundamental que conheçam e entendam quais atividades científicas e tecnológicas podem contribuir para o bem‑estar e a saúde tanto da sua comunidade quanto do seu meio ambiente. Nesse sentido, estou convencida de que jornalismo pode fazer a diferença.
+
+[...]
+Há muitos temas em que se pode fazer a cobertura sob a perspectiva pelo direito à ciência.
+
+ROMAN, V. A ciência precisa ser abordada na mídia como um direito. Observatório da Imprensa, 27 out. 2020. Disponível em: www.observatoriodaimprensa.com.br. Acesso em: 18 dez. 2020.
+
+ENUNCIADO: No fragmento lido, o andamento temático do texto se dá por meio de qual recurso?
+
+Resposta:",predominância de construções com tematização marcada (o “direito à ciência”),ea08f45b959fd0e480b71875a7851fdaf58a47502f79941107c6ff0ff64305f89ac51c4ad73ae3a53dcbf62d9d529a1d7e0742d09279947b55eb15400a9b3000,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: O açúcar
+
+O branco açúcar que adoçará meu café
+nesta manhã de Ipanema
+não foi produzido por mim
+nem surgiu dentro do açucareiro por milagre.
+
+Vejo‑o puro
+e afável ao paladar
+como beijo de moça, água
+na pele, flor
+que se dissolve na boca. Mas este açúcar
+não foi feito por mim.
+
+[…] 
+
+Este açúcar era cana
+e veio dos canaviais extensos
+
+que não nascem por acaso
+no regaço do vale.
+
+Em lugares distantes, onde não há hospital
+nem escola,
+homens que não sabem ler e morrem de fome
+aos 27 anos
+
+plantaram e colheram a cana
+que viraria açúcar.
+
+Em usinas escuras,
+homens de vida amarga
+e dura
+
+produziram este açúcar
+branco e puro
+com que adoço meu café esta manhã em Ipanema.
+
+Qual é a finalidade do eu lírico ao partir de um tema trivial neste poema?",denunciar o modelo de produção agrícola na sociedade capitalista,721b4b36bf5d648567b588e67c5e0b21e1c5dcbdff9b9e25d9aeb23318935395c0542f0cfac31cef9597b979ccbbda8d105f0de5942cf83dff43e9a16e92cdf6,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A mais recente descoberta no campo da astrobiologia foi anunciada pela Nasa: o planeta Kepler 452b está entre os planetas já detectados mais parecidos com a Terra. As semelhanças são grandes e estima-se a existência de água líquida em sua superfície. Como sabemos, na receita para o desenvolvimento da vida, a água é o ingrediente fundamental. Nossos próprios corpos são prova disso, pois são compostos, em massa, por 60% a 70% dela. Assim, saber de onde a água veio, e como chegou em nosso planeta, foi um dos primeiros focos da astrobiologia.
+
+Disponível em: <https://www2.senado.leg.br>. Acesso em: 6 dez. 2018. (Adaptado)
+
+Sabe‑se que a massa molar da água é igual a 18 g/mol.
+
+Qual é o intervalo absoluto, em quantidade de matéria (mol), de água que pode ser encontrada no corpo de uma pessoa com 90 kg de massa corporal?",3 000 a 3 500,3e85f19155295ab98c69ea2a96fab732bd1ca545b90ed62467bfc92c6d747743188a1cade5735e5cedfa1f63c30558499e199ffb4e83cf18dcddd0af7f646986,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A captura direta de dióxido de carbono (CO2) do meio ambiente vem se tornando uma excelente alternativa para mitigar os efeitos das mudanças climáticas. Pensando nisso, pesquisadores da Universidade de Toronto, no Canadá, divulgaram um estudo no qual eles propõem a captura e o armazenamento de gás carbônico, por meio de vagões de trens projetados com grandes aberturas voltadas para a frente, permitindo absorver esse gás à medida que se deslocam. Como isso funciona? O ar entra por um duto no vagão e passa por uma câmara coletora, na qual há um filtro que absorve especificamente o CO2, devolvendo o restante do ar – agora limpo – à natureza. O estudo estima que a tecnologia de vagões aspiradores teria potencial para capturar cerca de 450 000 000 de toneladas de CO2 por ano.
+
+Disponível em: <https://forbes.com.br>. Acesso em: 28 fev. 2024 (Adaptação).
+
+Dados: Massas molares em g·mol⁻¹ : C = 12 e O = 16.
+
+Qual é o número aproximado de moléculas de CO₂ que poderiam ser capturadas anualmente por meio desse procedimento?","6,15 × 10³⁶",1fd341087b61bc7ad885f32848e1234da45eb213f03eed92719e9362628888c77c3fad52aa446ed2371cf20bb4a4c3e81801047e72797699929cd113c59654f0,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A litosfera – a camada mais externa, rígida e resistente da Terra – é fragmentada em cerca de 12 placas, que deslizam, convergem ou se separam umas em relação às outras à medida que se movem sobre a astenosfera, menos resistente e dúctil. As placas são criadas onde se separam e recicladas onde convergem, em um processo contínuo de criação e destruição. Os continentes, encravados na litosfera, migram junto com as placas em movimento.
+
+GROTZINGER, J.; JORDAN, T. Para entender a Terra. 8. ed. Porto Alegre: Bookman, 2023.
+
+Qual é a consequência da dinâmica natural descrita no texto?",Renovação da crosta terrestre,b59fd4195a43473d8570deacd17326136e130f440e10b96910fb612e899409dcfff1598aa94e809f5c0ada4aac747aee9f1ffda376f19eaedd44b864f68d8c1e,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Quando não estava enfrentando os vilões, o Super‑Homem era apenas o jornalista Clark Kent, que passava horas sentado em uma cadeira na redação de um jornal diário. E, assim como essa profissão, muitas outras exigem que os profissionais passem longos períodos em uma única posição, e isso é prejudicial à saúde.
+
+Uma das formas de evitar esse problema é a ginástica laboral, cujos exercícios têm duração média de 5 a 15 minutos e auxiliam na prevenção de doenças ocupacionais, como lesões por esforços repetitivos, LER, e distúrbios osteomusculares relacionados ao trabalho, DORT.
+
+Segundo a professora de ginástica laboral Patrícia Andrade, “a ginástica laboral veio para diminuir o número de lesões nos funcionários, mas ela traz a qualidade de vida de uma forma mais ampla. Quando eles estão em grupo fazendo as atividades, acabam se unindo. Então, aquele funcionário que é um pouco mais deslocado se sente parte do grupo. Ou seja, eles conseguem ter esse momento de descontração e, ao mesmo tempo, têm um contato com a atividade física”.
+
+Para a jornalista Letícia Carneiro, uma das adeptas da atividade, mais empresas deveriam disponibilizar programas de ginástica laboral, pois, muitas vezes, é a única atividade física que se consegue praticar na rotina diária.
+
+BADU, A. L. Disponível em: <https://www.tst.jus.br>. Acesso em: 7 fev. 2023.
+
+ENUNCIADO: O texto traz à tona uma discussão sobre a ginástica laboral, considerando os benefícios dessa prática para o(a) _______.","bem‑estar laboral dos trabalhadores, sob o ponto de vista físico e social",c8414fed0a5de83842cc74742c1e1a72e4361dee956b09ec0ad541eb18fabb1b72aaba1d75ddf509a4cdef0f5737a9071ed4635d9848a2980e4c2f631a415f0d,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: Por que os homens também precisam do feminismo?
+
+Desde cedo, os meninos aprendem com os filmes de ação que homens sempre seguram a barra. A maioria dos papéis de super‑heróis cabe a eles, que bancam a casa, salvam o dia e têm sempre os sentimentos sob controle. Afinal, homem não chora. Nem deixa uma mulher passar despercebida por seus olhares.
+
+Esses comportamentos tão comuns entre homens, essa necessidade em se provar suficientemente homem o tempo todo, têm nome: masculinidade tóxica. Tóxica, também e muitas vezes principalmente, para as mulheres, que sofrem com assédio, violência doméstica e viram vítimas fatais da agressividade deles.
+
+Só para se ter ideia, na Inglaterra, quando a seleção perde, o número de casos de violência doméstica cresce quase 26%. Homens bêbados e dominadores reagindo como manda a cartilha da masculinidade: com violência. Isso sem contar as altas taxas de assédio e violência sexual e feminicídio.
+
+Ser homem como manda o “manual” é perigoso. E solitário, segundo eles mesmos. Para citar outro dado: uma pesquisa da ONU Mulheres revelou que 66% dos homens não contam aos amigos sobre o que realmente sentem – e 57% gostaria de ter uma relação mais próxima e mais aberta com eles.
+
+No fim da história, essas regras machucam os dois lados – ainda que sejam eles os opressores. E o feminismo, que luta pela igualdade de gêneros, dialoga com esses homens, ainda que travem batalhas diferentes.
+
+CASTRO, C. Disponível em: <https://www.cartacapital.com.br>. Acesso em: 20 ago. 2018. [Fragmento]
+
+ENUNCIADO: A articulista discorre sobre os efeitos da masculinidade tóxica para homens e mulheres, sustentando sua argumentação, principalmente, por meio de",exposição de argumentos de autoridade e de dados concretos,3edbd9642cc5fd0964656af3a2f64baed39681a9cfd542c3f40d38ca3785a788062ba4758cbe8e88ca5340f3332340e41d735cb12622f6a6a2285d1829682101,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A mobilidade pendular coloca‑se como um fenômeno característico das grandes aglomerações no atual momento da urbanização brasileira, quando se observa um aumento da complexidade socioespacial, em particular, no que diz respeito às localizações da população e atividades econômicas, sociais etc. Na verdade, pode‑se pensar que boa parte desse fenômeno estaria associada à valorização diferencial do espaço urbano que, no Brasil, tem tido ao longo das últimas décadas sua lógica e regulação fortemente orientadas pela iniciativa privada sem a necessária intervenção estatal, fato que acaba por prejudicar fortemente a população de mais baixa renda.
+
+CUNHA, J. M. P. et al. A mobilidade pendular na Macrometrópole Paulista: diferenciação e complementaridade socioespacial. Cadernos Metrópole, São Paulo, v. 15, n. 30, p. 433‑459, 2013.
+
+Qual ação estatal capaz de amparar a população de baixa renda ao facilitar o processo de deslocamento analisado no texto é a?",ampliação das redes de transporte público,c5c94849821e3757a40ded8eb8d0b06a14da2aa8541c5a81bc0e1b7b1493dc5838cf025f2ab7830cd1f782fba661cf32be2295439bb34bf38f08035d848112ec,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: Das Pedras
+
+Ajuntei todas as pedras
+que vieram sobre mim.
+Levantei uma escada muito alta
+
+e no alto subi.
+
+Teci um tapete floreado
+e no sonho me perdi.
+
+
+Uma estrada,
+um leito,
+
+uma casa,
+um companheiro.
+Tudo de pedra.
+
+
+Entre pedras
+cresceu a minha poesia.
+Minha vida...
+
+Quebrando pedras
+e plantando flores.
+
+
+Entre pedras que me esmagavam
+levantei a pedra rude
+dos meus versos.
+
+
+CORALINA, Cora. Meu livro de cordel. São Paulo: Global, 2012.
+
+Qual concepção de lirismo é formada pela sequência de ações narradas no poema?",expor as dificuldades do eu lírico como fomento para a produção poética,45621af1aef3eb1eb314d3abaf8f73772aad09365fcb6e5a99f4e98a1d4c185812aa5576b0a1ace419a7693849de66f9ad4898398d32eee0b9be46a063db158b,Linguagens e Códigos,test
+"TEXTO DE REFERÊNCIA: A música, não sendo uma linguagem (não tem uma sintaxe), e não sendo de todo universal (existem tribos que nem a palavra “música” têm na sua linguagem), transcende, no entanto, fronteiras geográficas e culturais, conectando pessoas de diferentes origens e contextos.
+
+As músicas tradicionais têm uma riqueza inigualável, refletindo a história, as crenças e as identidades das comunidades. Através de instrumentos únicos, ritmos distintos e escalas melódicas específicas, essas músicas transmitem uma autenticidade que ecoa ao longo dos séculos. No entanto, a linha que separa o tradicional do contemporâneo é muitas vezes tênue.
+
+A música erudita contemporânea, por exemplo, frequentemente se inspira em melodias e ritmos tradicionais de diferentes culturas. Compositores como Béla Bartók e Igor Stravinsky procuraram explorar as raízes folclóricas em suas obras, incorporando elementos de música húngara e russa. Essa abordagem resultou em composições inovadoras, mas ao mesmo tempo enraizadas nas tradições.
+
+O rock e o jazz também não escaparam. O jazz, em sua essência, é uma mistura de diversas tradições musicais, e músicos como Duke Ellington incorporaram elementos da música afro‑americana e das culturas globais em suas composições.
+
+RUA, V. Disponível em: https://www.revistaminerva.pt. Acesso em: 21 mar. 2024.
+
+Pergunta: De que forma o desenvolvimento do texto aborda a transcendência musical mencionada no primeiro parágrafo?
+","pela interação entre diferentes elementos, gêneros e estilos de música",dd778cd820ebe8f1fe2fbf379115e888fc51361d167eb46aceefbdf9320006f35114609558c861222140a5d613ef30f2a33c0286ef09a062449445a1d81786ff,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Uma sorveteria que funciona apenas nos dias úteis realiza um número médio de 400 vendas por dia. Durante uma quinta-feira, o sistema de controle de vendas parou de funcionar. No fim da semana, o quadro que apresenta os dados com o número de vendas diário ficou da maneira apresentada a seguir.
+Segunda‑feira: 540
+Terça‑feira: 420
+Quarta‑feira: 330
+Quinta‑feira: (valor perdido)
+Sexta‑feira: 300
+
+O número de vendas realizadas na quinta‑feira corresponde a qual porcentagem do total de vendas durante os dias úteis dessa semana?","20,5%",3334cbaf69b1d3df5bcabb88a94e75cbff40dccfc4432fc4dfea984f65e765f5724b5818071569a623b9d7c819b1aae76ba4ea78ef20113b2770c1caf5201ceb,Matemática,train
+"TEXTO DE REFERÊNCIA: A prefeitura de Paris publicou um plano governamental radical e anunciou uma lista de 257 endereços – 8 021 apartamentos – onde a prefeitura terá o direito de impedir a venda dos imóveis com a finalidade de convertê‑los em moradias subsidiadas. Os planos apontam tanto para incrementar as opções de aluguel subsidiado como para assegurar zonas residenciais bem conectadas a serviços e equipamentos no centro histórico a populações de baixo poder aquisitivo, evitando a desapropriação e a expulsão dessas pessoas para as periferias e a consequente ocupação das regiões centrais por grupos de alto poder aquisitivo – os chamados guetos milionários.
+
+ENUNCIADO: A medida implementada na capital francesa pela prefeitura local tem como objetivo mitigar o processo de",gentrificação,d9012fcfec11578fea8f032ba7a94e8743e6fb1f21174c6004be5ce5c431dd4947a038732bc115d827b73284522054708a1bb99d7f47c64e6a15e2ec8b871ac5,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: O Departamento do Comércio dos Estados Unidos divulgou seu plano para investir os US$ 50 bilhões destinados pelo “CHIPS and Science Act” à indústria de semicondutores no país. Cerca de US$ 28 bilhões do montante serão usados para estabelecer fabricação interna desses chips, que serão utilizados em todos os produtos que contêm ao menos um circuito elétrico em sua composição.
+
+Disponível em: https://www.cnnbrasil.com.br. Acesso em: 10 fev. 2023. (adaptado)
+
+Qual é o objetivo da estratégia estadunidense mencionada no plano de investimentos?",impulsionar a produção doméstica de tecnologia,cc93ae035d753bb3f95bd53eea4feb44ad28d0a8613c7e455e88ca9d5e2175abe96af2f70633ee125b4d05fb53f735d945872be1336c4cb7d1cef72684c96235,Ciências Humanas,train
+"Texto de referência: Uma loja de eletrônicos está oferecendo uma promoção para o novo modelo de smartphone que está vendendo. Nessa promoção, o preço original do produto é reduzido em 20%. João está interessado em comprar o novo modelo, porém só pode gastar no máximo R$ 1 680,00. 
+
+Para que João possa comprar o produto à vista usando o desconto da promoção, o preço original deste produto deve ser de, no máximo:","R$ 2 100,00",2ad247e86800cf7d6ab43698842fd1546eb58d47fee88539475eca623a3fb3791435cfe83ab0d7ca627096cc276f7d52d229e3cb71fe0f89fe9e35b4667358e5,Matemática,test
+"TEXTO DE REFERÊNCIA: A quantidade de água doce disponível para o nosso uso é muito pequena, perto de 3% do volume total de água existente. Os outros 97% são constituídos por água salgada. Desses 3% de água doce, cerca de 1% está acessível para a população de todo o planeta e o restante está na forma de gelo. Contudo, boa parte da água acessível encontra‑se poluída e deve ser tratada para o consumo humano.
+
+Quais são as etapas envolvidas nas estações de tratamento da água poluída acessível à população para que ela possa ser distribuída para consumo humano?","floculação, decantação, filtração e cloração",b3b223b66dfc9632338fd56429f73b5774dc4ee1722eb48cff1f1fdca8daec89574bdd4d5233a23902bdfaaaf5d39330a432d01932e4dfeb579fd6566c28b6c3,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Um eletricista foi contratado para avaliar o sistema elétrico de uma residência. O morador deseja descobrir o consumo, em ampere, de duas lâmpadas idênticas em duas disposições: em série e em paralelo entre si. Em paralelo, o eletricista determinou que o consumo das lâmpadas equivale a A1, e, em série, esse consumo é A2. Se o eletricista utilizou a mesma bateria para ambas as disposições e foram conectadas somente as duas lâmpadas, qual é a razão entre os consumos, em ampere, do circuito em paralelo e em série (A1/A2)? Qual é a razão A1/A2 entre os consumos, em ampere, das duas lâmpadas idênticas quando ligadas em paralelo (A1) e em série (A2), usando a mesma bateria?",4,4538f5cdbbc5b7318c6182120d6e8e2cb5daf27cc4401a4052d3ac3c0dce568a127f4372e0fabf48962a89d0bdf1925a874aa198eb859aefbf6e429865112c7f,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A Folha e o Datafolja lançam o Match Eleitoral 2022, que facilita a escolha dos candidatos à Câmara dos Deputados e ao Senado em São Paulo. [...] Para ajudar os eleitores, a ferramenta indica os candidatos com os quais o leitor “dá match”, ou seja, tem mais identificação.
+
+O Datafolha entrevistou candidatos e criou um banco de dados de suas respostas em relação a temas econômicos, políticos e de comportamento. Quem fizer o teste vai receber as mesmas perguntas, [...], e suas respostas serão cruzadas com as de todos os candidatos a deputado federal e a senador que incluíram suas informações na plataforma. O resultado é apresentado em uma escala de afinidade.
+
+Em 2018, mais de 1 milhão de testes foram feitos até a véspera da votação.
+
+Disponível em: www1.folha.uol.com.br. Acesso em: 12 set. 2022.
+
+Quais palavras do texto contribuem para a construção do campo semântico que representa as vantagens do “Match Eleitoral 2022”?",facilita; para ajudar,305b394c6c374b40b713a64561a60d2b99f2a2e3396a119ed40622ebc58db815d4cc4f7c5bc2125233c5b3e08013bc644d37c55942ad7b3d1895497609c80d31,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: vendas para aplicativos de delivery. No primeiro mês, ele arrecadou R$ 312,00 com a venda do seu principal produto. No mês seguinte, devido ao aumento no preço dos ingredientes necessários, ele precisou aumentar o preço desse item em R$ 0,50, o que ocasionou uma redução de 4 unidades no número mensal de vendas.
+
+Sabendo que a arrecadação mensal foi a mesma nos dois meses, quantos pastéis foram vendidos no segundo mês?",48,471facb30863d4b3caa8e9b5751b051da1c3a5e95e9d6d44f5b0fe25d425b831e98304c175adc052baa8ae4d1beee7f28b0e89361954ebdcec76332517a1d7e8,Matemática,train
+"TEXTO DE REFERÊNCIA: Algumas máquinas de lavar roupas possuem uma função extra de secagem. Nesses modelos, as roupas ficam no tambor da máquina, e, após a lavagem, jatos de ar quente passam rapidamente por elas enquanto o tambor gira. Quando as roupas são retiradas do interior da secadora, é comum que algumas peças fiquem grudadas umas nas outras, mesmo não estando entrelaçadas.
+
+Qual é a causa do fenômeno de roupas grudarem-se entre si após a lavagem e a secagem?",Eletrização por atrito,c345cb71ca87dcdcbb053bf0a18f596f702dc344038369ce46c41fffd5e2136ffb8a438dfe96b967c2841534ba13b0fc12bb5102360bb88e38ea2470da4be717,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A bomba a vapor, patenteada por Thomas Savery em 1698, foi aperfeiçoada por Thomas Newcomen em 1710. A máquina de Newcomen tinha capacidade de sugar 22 500 L de água por hora de um poço com 46,6 m de profundidade. Entretanto, um ponto negativo era o seu rendimento, que, com as tecnologias da época, era, no máximo, de 2 %. Suponha que a máquina de Savery, após os ajustes de Newcomen, receba, a partir da combustão de certa porção de carvão mineral, uma energia equivalente a 14 000 MJ.
+
+Qual é a energia mínima dissipada pela máquina, em MJ?",13 720,981f3bd54c84394c859c213e27ecee70f3ffb16f1061d32176ecb30f83240ad9d089718bc9a3bd1ada3baf2ae18ccf7853f90a7ffab942a7260db90d7b17e43c,Ciências da Natureza,valid
+"TEXTO DE REFERÊNCIA: Um grupo de manifestantes ateou fogo no prédio do Congresso da Guatemala neste sábado (21), dia de protestos na capital do país contra o governo do presidente Alejandro Giammattei e contra cortes de gastos com saúde e educação no orçamento para o próximo ano. Os manifestantes entraram no prédio do Congresso e invadiram escritórios – como é sábado, todos estavam vazios. Alguns deles, na maioria encapuzados, colocaram fogo nas salas. Houve confronto com forças de segurança. Não há informação sobre feridos.
+
+De acordo com a definição de notícia como texto que informa um fato recente, quais tipologias predominam na construção do texto acima?",expositiva e narrativa,32b6d467a1b7f0cbf1213bbb19e0079c3e679c13fe24681c9229a838bf98f4367c85e02b9ba11ab5d3e11282445afc66662be413950fdd25b539300f7cb9c6c5,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Tamanha era a popularidade da cachaça que, tentando garantir os interesses dos vinicultores lusitanos, a metrópole proibiu sua exportação, ao menos para Portugal, além de ter introduzido restrições de fabricação na própria colônia. Mas, sendo essencial ao tráfico negreiro, a bebida manteve sua importância interna: no Rio de Janeiro do século XVIII, superava o açúcar como principal produto de exportação, e boa parcela era usada no comércio de escravizados com Angola.
+
+SCHWARCZ, Lilia; STARLING, Heloisa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2018. p. 74. (Adaptado)
+
+De acordo com o texto, o que a dinâmica comercial da cachaça revela sobre a relação entre a metrópole e a colônia?",ingerência da metrópole sobre a colônia,8990970d78e913e12a0961e25b468ea32af051882ad57358cef9eb63ed79a6f029c8fa5da1feaf8517b6acb1921e31a7afc0d8d8542050ba53f672cf75ac1be8,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Quem acha vive se perdendo
+Por isso agora eu vou me defendendo
+Da dor tão cruel desta saudade
+
+Que por infelicidade
+Meu pobre peito invade
+
+Batuque é um privilégio
+Ninguém aprende samba no colégio
+Sambar é chorar de alegria
+É sorrir de nostalgia
+Dentro da melodia [...]
+
+ROSA, Noel; VADICO. “Feitio de oração”. Disponível em: <https://www.letras.mus.br>. Acesso em: 19 ago. 2021.
+
+Na canção, são explorados diversos recursos linguísticos. No verso “Quem acha vive se perdendo”, a dupla de palavras utilizada pelos compositores apresenta que tipo de relação?","Incoerência, pois podem ser consideradas antônimas.",c4fb3c5e74575a144b50c8ae3fceab8cde3a3d3adb319d3954c7772386d03bee6228acce5d792eddfb7a9c982bc2c2a58a9324113714a529b9cca345693b0b4e,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: Um ateliê promove três tipos de workshops abertos ao público, e cada um ocorre com determinada periodicidade:
+Pintura — a cada 14 dias; Bordado — a cada 10 dias; Gravura — a cada 28 dias.
+Em 2023, os períodos de ocorrência passaram a ser considerados a partir do primeiro dia do ano. Assim, nos dias 10, 14 e 28 de janeiro ocorreram, respectivamente, os primeiros workshops de bordado, de pintura e de gravura. O ateliê funciona também aos sábados, domingos e feriados. Eventualmente, mais de um workshop pode ocorrer na mesma data.
+
+Em qual dia de 2023 os três workshops ocorreram simultaneamente pela primeira vez?",140º dia,a5dcf522e6d655239af42d6df9e0146a6839f2fecae4bc080200026c683879ffb072f6b7d735e30474eeeefd0d73c94cceb853718fdc77c1376a44d5e553d2a6,Matemática,train
+"TEXTO DE REFERÊNCIA: Transmissão do calor
+
+Seja por contato
+Em sua forma mais junta
+Excita-se pelo tato
+O calor transmite como nunca
+
+Em frente, atrás… para qualquer lado
+O material aquece‑se pela paixão recebida nessa luta
+
+[…] 
+MOURA, M. G. L. Física lírica : ciência sob a ótica da poesia. Porto Alegre: Simplíssimo, 2019.
+
+O trecho do poema apresentado exemplifica, de maneira poética, a transmissão de calor por qual mecanismo?",condução,84dded398d7247c164e0178ecfc2510b7e9a04793d1ea3d8cfe27bd30122dbeff12019b11fc0c0908be327b8a9aefbcd43d74bbca25c80cf045f74a5a7a2894a,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Um estudo publicado na revista _Science Advances_ mostrou que, desde o ano 1950, o mundo já produziu mais de 8,3 bilhões de toneladas de plásticos. Dessa quantidade exorbitante de resíduo sólido, a metade foi feita apenas nos últimos anos, o que aponta um crescimento descontrolado da prática nociva ao meio ambiente.
+
+A Organização das Nações Unidas já vem trabalhando a conscientização dos territórios há alguns anos, incentivando que os países parem de investir nesse tipo de indústria.
+
+Portanto, para que o plástico de uso único pare de ser um problema – seja com o banimento ou redução de produção –, é necessário que as pessoas se conscientizem e façam pressão nos governos. Desta forma, todos podem lutar por um mundo mais limpo e saudável, sem a necessidade de consumir produtos que podem facilmente ser substituídos por alternativas ecologicamente corretas.
+
+NÓBREGA, A. _Plástico de uso único_: o que é e seus impactos. Disponível em: <www.ecycle.com.br>. Acesso em: 30 jan. 2024.
+
+[Fragmento adaptado]
+
+Com base no texto acima, a argumentação está direcionada principalmente para:",responsabilidade social de mudança do cenário,cee217d5a8268f8822aed444aadc4c12ae26bd56e04a55e54278244aa9b063759181ad6094fb5ce1d826c0e82d7a71b94c459b8c7c073dca2366a133be453d50,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Juízo anatômico da Bahia
+
+Que falta nesta cidade?................Verdade.
+Que mais por sua desonra?...........Honra.
+Falta mais que se lhe ponha?..........Vergonha.
+
+O demo a viver se exponha,
+Por mais que a fama a exalta,
+Numa cidade onde falta
+
+Verdade, Honra, Vergonha.
+
+Quem a pôs neste socrócio?..........Negócio.
+Quem causa tal perdição?.............Ambição.
+E o maior desta loucura?...............Usura.
+
+Notável desaventura
+
+De um povo néscio e sandeu,
+Que não sabe que o perdeu
+Negócio, Ambição, Usura.
+
+Inscrito na estética do Barroco brasileiro, no trecho selecionado, o poema critica a sociedade da época, especificamente da cidade de Salvador, pela perspectiva de quê?",denúncia da desmoralização social,89569d5afc8260931867bd9a367f3d639f9e4ac72c50590202660abdfd94afcdbf896ac2d46090b026894ad86df657912937981a52a862f58e8047e70404d735,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: O niilismo não é apenas uma maneira de considerar o “para nada!”, nem o pensamento de que vale destruir todas as coisas: agimos, destruímos de um extremo ao outro... Isso é ilógico, se quisermos: mas o niilista não acredita na necessidade de ser lógico... é o estado das vontades e dos espíritos fortes: e para desses espíritos não é possível se limitar ao “não” do julgamento: o não da ação procede da sua natureza... A aniquilação pelo julgamento vem depois da aniquilação através da ação.
+
+Com base na perspectiva do autor sobre o niilismo apresentada no trecho, o que ele propõe?",dissolução da moral e da ética social,28001edadda0880d377d6aff352349079cec46f811d48ab999be73b6bedd70a9cf7ea8f020c397ca9f145a55bfdfd11ade02b66fb068a880ffbcd96aa56db2fc,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: Memes
+
+Os memes são imagens e textos que se espalham rapidamente pela internet, sendo imitados e reciclados, normalmente com a intenção de divertir. Acompanhe aqui os memes mais engraçados que surgem nas redes sociais e a história por trás de cada um deles.
+
+Disponível em: www1.folha.uol.com.br. Acesso em: 24 fev. 2023.
+
+Com base no texto acima, para entender o sentido dos memes que se espalham rapidamente pela internet, o que é necessário fazer?",conhecer o contexto em que foram criados,1380ba0534e9ad430111898689d27f20c80f4056dbc60be774d772be75eeed1ad57146c503745197dc5693bc557f93095641261541110d33b399a48d7f9a18d0,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Atendendo a representação que fizestes subir a minha real presença sobre se achar interrompido, e suspenso o comércio desta capitania com grave prejuízo dos meus vassalos, e da minha Real Fazenda, em razão das críticas, e públicas circunstâncias da Europa, [...] sou servido ordenar interina, e provisoriamente enquanto não consolido um sistema geral que efetivamente regule semelhantes matérias o seguinte = primeiro, que sejam admissíveis nas Alfândegas do Brasil todos e quaisquer gêneros [...] transportados, ou em navios estrangeiros das potências que se conservam em paz e harmonia com a minha Real Coroa, ou em navios dos meus vassalos [...] Segundo: Que não só os meus vassalos, mas também os sobreditos estrangeiros possam exportar para os portos que bem lhes parecer a benefício do comércio, e agricultura [...]. Escrita na Bahia aos vinte e oito de janeiro de 1808. Príncipe.
+Decreto de abertura dos portos às nações amigas. 29 jan. 1808. Disponível em: www.bndigital.bn.gov.br. Acesso em: 17 nov. 2020.
+
+A decisão de D. João VI, então príncipe regente, de decretar, em janeiro de 1808, a abertura dos portos do Brasil deveu‑se a quê?",Restaurar os rendimentos reais diante da instabilidade na Europa.,19f7ebbc590ddab21c2a27e0940e011efab1900b1e0929ea1941f92cde5c22e82f62284ed9ceb25fe7dd0b500ef36957143aa05b4e3e4bc0e36bd1365a31486f,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: A entrada a_{ij} da matriz abaixo indica a nota que o aluno i, sendo 1 ≤ i ≤ 5 tirou na prova j, em que j = 1, se refere à prova de Linguagens; j = 2, de Ciências Humanas; j = 3, de Ciências da Natureza; j = 4, de Matemática; e j = 5, de Redação.
+
+Matriz (cada linha = um aluno):
+1: 580 800 640 940 960
+2: 660 760 720 840 860
+3: 640 780 860 700 720
+4: 720 820 680 740 1000
+5: 700 840 740 960 920
+
+ENUNCIADO: Com base nestas informações, qual aluno obteve a maior média aritmética nas cinco provas?",5,b0112537332ed4e3a2e642fcd71126b19194d2d3ada00805e5196177977b5651846f3006b03c46870520b8c33a602a30e97d9df4f3eef807c27b7cb87dc829bf,Matemática,train
+"TEXTO DE REFERÊNCIA: Os sertões onde havia ouro faziam parte da velha capitania de São Paulo, povoada por mamelucos independentes e rudes: homens acostumados a andar no mata e destemidos – pra dizer o mínimo – quando chegava a hora de enfrentar os índios. Os paulistas, como começavam a ser chamados, acreditavam ter direitos especiais sobre a região, as Minas Gerais [...]. Era inevitável, entretanto, que a possibilidade da riqueza fácil atraísse gente de todas as partes do Império: as levas humanas foram chegando, os conflitos explodindo, o controle, quase sempre, se esgarçando. [...] A própria sociedade mal teve tempo de se acometer e já se viu às voltas com brigas intestinas em que se opunham paulistas e colonos de outras procedências, como baianos, para não falar dos reinóis, isto é, os nascidos em Portugal.
+
+De acordo com a análise apresentada no excerto anterior, o conflito mencionado resultou, entre outros fatores, de que disputa?",disputa em torno da exploração das áreas auríferas,ff89159dae969935af6685a6e2f055fee099b1b777c514168b32b42225c6286dabff091e50c8dc94d8d7c4ef1d6bdd09d9e009cbd0023a7b4e7885a0eb6fdf09,Ciências Humanas,train
+"Trecho de notícia: “Essa será a primeira fábrica nos Estados Unidos apta a fabricar chips de 3 nanômetros, os menores e mais avançados no mercado.” Dado: 1 nm = 10⁻⁹ m.
+
+Considere um monitor cujo comprimento é igual a 30 cm e que usa o chip de 3 nanômetros citado no texto. Quantas vezes o comprimento do monitor é maior do que o tamanho do chip?",100 milhões,9d89d432c293d1611b436699280e9e96ba9d7052db934aee365b08c560a1f0afd0d66101ac94963a94bb49055138fd49cb2c0b2ce3efb43c78eb81f66190825e,Matemática,train
+"TEXTO DE REFERÊNCIA: A relação entre Domitila e Pedro começou em São Paulo, cidade em que ela nasceu, dias antes dele proclamar a Independência do país. Os sete anos da união entre os dois gerou centenas de trocas de cartas de amor e confidências. ""Nada mais digo senão que sou teu, e do mesmo modo quer esteja no céu, no inferno ou não sei onde. Tu existes e existirás sempre em minha lembrança, e não passa um momento que meu coração me não doa de saudades tuas…"" dizia uma das cartas escritas por Fogo Foguinho – era assim que Pedro I assinava alguns de seus bilhetes.
+
+PREVIDELLI, F. “Dom Pedro I e Marquesa de Santos: a relação que abalou o Império”. In: Aventuras na História. Disponível em: <https://aventurasnahistoria.uol.com.br>. Acesso em: 23 jun. 2023. (Adaptado)
+
+Com base no texto acima, o que as cartas trocadas por Dom Pedro I e a Marquesa de Santos auxiliam a compreender?",Os bastidores das relações interpessoais das elites imperiais.,f25d771393f726475541480cad9c2515261b1382d7d25d6a04e4c23658a3879abc3fd32c2ecf1c2dcd158feeff44115ab27ebd44d2c18192c898f91608ae6e51,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: A figura representa, esquematicamente, parte do ciclo de infecção de uma célula por um retrovírus. As etapas 1 e 2 mostram a entrada do vírus na célula hospedeira; a 3 mostra a liberação do material genético e da enzima transcriptase reversa no citoplasma; a 4 mostra essa enzima viral em funcionamento; e, por fim, a 5 mostra a integração do material genético produzido ao genoma da célula hospedeira.
+
+VASCONCELOS, F. T. G. R. et al. Revisitando o Dogma Central: a relação entre genes e proteínas. Genética na Escola, v. 16, n. 2, 2021.
+
+Qual etapa do ciclo mostrado contraria o paradigma da unidirecionalidade da informação genética proposta no dogma central da biologia molecular?",4,79b9f398360a6443a14a402aed07dc5d4c406a50697827d7d572a8bd8a5f09372b95ce6260608131221dca94a5422fb1019eaeebcbace3aa874ef4df9d26fdda,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Grandes quantidades de compostos químicos são cotidianamente emitidas para a atmosfera devido à circulação de veículos e ao funcionamento de indústrias, entre outras atividades humanas. Essa emissão é composta de gases como: monóxido de carbono (CO), dióxido de carbono (CO2), óxidos de nitrogênio (NOx), hidrocarbonetos (HC), óxidos de enxofre (SOx), etc. Entre os impactos mais conhecidos pela emissão de gases poluentes para a atmosfera estão, o aquecimento global, o agravamento do efeito estufa, a destruição da camada de ozônio e a formação do “smog” fotoquímico, da chuva ácida e do material particulado (MP).
+
+A elevação das concentrações de CO2 e SO2 está associada, respectivamente, à intensificação de quais fenômenos?",efeito estufa e chuva ácida,d205d501794e399496325fae51b897e97acbfb902f0ef4e47a16f065b0375cd0d097ad7d40510ba666df4c04d799c52fcc86187250cd7779ba717bc9e9cfb7af,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: O ácido fórmico (HCOOH) […] acaba de se tornar o elemento central em uma fonte alternativa de energia: as células de combustível microbianas […]. Usando apenas componentes disponíveis comercialmente, os pesquisadores projetaram uma célula na qual catalisadores inorgânicos convertem o dióxido de carbono (CO2) em ácido fórmico. Uma vez produzido e extraído o ácido fórmico do eletrólito, ele é usado para alimentar um segundo dispositivo – a célula de combustível microbiana –, onde as bactérias o convertem lentamente em dióxido de carbono e eletricidade.
+
+“Biobaterias híbridas atingem eficiência para aplicações práticas”. Disponível em: <https://www.inovacaotecnologica.com.br>. Acesso em: 4 dez. 2023 (adaptado).
+
+Durante o funcionamento da célula de combustível microbiana, também ocorre a conversão do gás oxigênio (O2) a água (H2O). Nessa célula a combustível, ocorrem as seguintes reações químicas:
+HCOOH → CO2 + 2 H+ + 2 e−
+4 e− + 4 H+ + O2 → 2 H2O
+
+Qual espécie é consumida no cátodo dessa célula de combustível microbiana?",gás oxigênio,baf3bbe0fe0a0772f672916f46197e2b3880b390cbe296ffa1c9ee3a65b67e0d579c93112b2973e79d92700ce8a8c5693638e34c7470c086db39eee7c580cd52,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Aplicativo ‘Linklado’ facilita a comunicação em
+
+línguas indígenas
+Variadas formas de escrita em línguas indígenas
+combinam diacríticos (uso de sinais gráficos como `,´, ~, ^ ou ¨) e utilizam caracteres especiais, como ʉ, ɨ, ñ, ç̀, g̃, que
+não estão presentes em teclados tradicionais. Para facilitar
+processos de comunicação em línguas indígenas utilizando
+celulares com sistema Android ou computadores com
+sistema Windows, pesquisadores lançaram o aplicativo
+“Linklado”, que atende às necessidades gramaticais de
+mais de 40 línguas indígenas.
+
+Idealizado por Samuel Benzecry (estudante da
+Universidade de Stanford, EUA) e Juliano Portela
+(estudante do ensino médio em Manaus), o “Linklado” nasce
+da necessidade de preservação das línguas indígenas
+faladas na Amazônia. Devido ao escasso suporte digital
+que essas línguas possuem, a comunicação indígena fica
+condicionada ao uso de áudios ou de substitutos para
+os caracteres especiais, ameaçando a continuidade das
+línguas nativas.
+
+Disponível em: https://lunetas.com.br. Acesso em: 8 set. 2023.
+
+Qual é o impacto apontado pelo texto ao possibilitar o uso de caracteres usados em línguas indígenas na comunicação digital?",conservação da ortografia de línguas indígenas,36c414528cb4ed8dbe3f48e0456453f8a0913ef40a6bc8eb13bd93b9a03de84cd7a664c33c59737a2122911c46f28435b4b5c925d1e909ff6ef070417138d55c,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A vitamina C (C6H8O6), também conhecida como ácido ascórbico, é um forte agente antioxidante que participa de várias reações bioquímicas no organismo humano, como na manutenção da integridade dos vasos sanguíneos, defesa contra infecções, entre outros. O ácido ascórbico não é sintetizado pelo organismo humano, e, por isso, uma pessoa adulta deve ingerir no mínimo 15 mg/dia dessa vitamina.
+
+Considere que um homem adulto, a fim de se prevenir contra infecções, tenha bebido, em um dia, um único copo de suco de laranja que continha 3 × 10⁻⁵ mol de vitamina C. Sabendo o valor das massas molares (C = 12; H = 1; O = 16), quantos miligramas de vitamina C ele ingeriu?","5,28 mg",8ff1a689b5803ec92bcf3d213f069467f80f4146aca464bc083531e7c3e1847c068a04c4d15ed5e54f808b599797b67ed0370f76de62e9fc6ca466c39b7bf78b,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Com base na leitura do texto, é notável o impacto que as redes sociais têm na construção das relações interpessoais. Suponha que, em uma rede social, o número de seguidores de cada usuário seja diretamente proporcional ao quadrado do número de postagens que ele faz por semana.
+
+Gabriel tem 100 seguidores ao fazer duas postagens por semana. Se ele passar a fazer cinco postagens por semana, quantos seguidores ele terá?",625,d7ad6771410fb7f630e3e4cef29f415a65c25461043462faa93f170beef178059563f7c06bc44a3484e4fa71f6ac84d76ddeeaff3935d9dfb62549aaf391f628,Matemática,train
+"TEXTO DE REFERÊNCIA: obrigue pelo jogo do olhar: um aparelho onde as técnicas que permitem ver induzam a efeitos de poder, e onde, em troca, os meios de coerção tornem claramente visíveis aqueles sobre os quais se aplicam. Lentamente, no decorrer da Época Clássica, são construídos esses “observatórios” da multiplicidade humana para as quais a história das ciências guardou tão poucos elogios.
+
+FOUCAULT, Michel. _Vigiar e Punir_: Nascimento da Prisão. Rio de Janeiro: Vozes, 2014.
+
+De acordo com o trecho, a ideia de relação de poder apresentada resulta em que processo?",modelagem disciplinar dos corpos,618971692cc48db7e93c0ce663d3782c23b94142b7e293a1d30a7a6d6902732a11adcb2bd2b1f38a4479f67a28372c5ca5854e81fe38b309f7a083600dd113ce,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: — A índole do povo brasileiro é de uma bondade cativante; a sua franqueza, encantadora. [...] Aqui estou há muitos anos e nunca pensei em retirar‑me que não sentisse antecipadamente saudades. Há uma única coisa que me repugna e entristece aqui, excuso‑de lhe dizer qual seja, o meu amigo adivinha‑a; mas essa mesma extinguir‑se‑á em breve, porque, Otávio, agora o Brasil não dorme, trabalha.
+— Tenho acompanhado, com júbilo o movimento abolicionista do Brasil; procurei avidamente nas correspondências dos jornais, sempre, tudo o que se referia a essa grande obra; contudo, de tão longe, não se pode fazer ideia perfeita das coisas que os jornais exageram e as traduções adulteram.
+— Cuidado! Não vá expender ideias de progresso e humanidade no seio da sua fazenda. A abolição, mais dia menos dia, faz‑se; a amizade na família é que uma vez quebrada nunca mais torna a ser verdadeiramente sólida.
+— Por que diz isso?
+— Porque seu pai é um um dos maiores inimigos da abolição. Compreende agora?
+
+ALMEIDA, J. L. _A família Medeiros_. Florianópolis: Mulheres, 2009.
+
+No texto de Júlia Lopes de Almeida, publicado pela primeira vez em 1893, observa‑se, por meio do diálogo, o(a) ______.",influência de grandes questões públicas nas relações familiares,6ffc77df9d08d55acae44aae928cd6cb0540d413ef179c4543451a13a45b2f781d826df0f09527f21401406319af8f4419f5d486d1698cf9ed586c6dbb0ee610,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Fabricante A: 110 V – 1 250 W
+Fabricante B: 110 V – 1 500 W
+Fabricante C: 220 V – 6 000 W
+Sendo fornecida nas tomadas de seu estabelecimento uma tensão média de 110 volts, a melhor escolha que dona Maria pode fazer, para economizar na conta de energia elétrica, é?",Fabricante A,565406166048f9056be68a970c02b4c4d6113c8f8f4178886bd5676fdf26b803e1c6f205a104cbb8a53d083f0919150c8f5697d3977baf45dd9c24cd7b27aef0,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Mas em amor, assim como em tudo, a primeira saída é o mais difícil. Todas as vezes que esta ideia vinha à cabeça do pobre rapaz, passava-lhe uma nuvem escura por diante dos olhos e banhava‑se‑lhe o corpo em suor. Muitas semanas levou a compor, a estudar o que havia de dizer a Luisinha quando aparecesse o momento decisivo. Achava com facilidade milhares de ideias brilhantes; porém mal tinha assentado em que diria isto ou aquilo, e já isto e aquilo lhe não parecia bom. Por várias vezes tivera ocasião favorável para desempenhar a sua tarefa, pois estivera a sós com Luisinha; porém nessas ocasiões nada havia que pudesse vencer um tremor de pernas que se apoderava dele, e que não lhe permitia levantar‑se do lugar onde estava, e um engasgo que lhe sobrevinha, e que o impedia de articular uma só palavra.
+
+De acordo com o trecho, qual tempo verbal está usado na expressão ""um tremor de pernas que se apoderava dele""?",Pretérito imperfeito do indicativo,b2abae2391a66c127644e9e51768a7f6e7f3f1dc487685c6940efcc1fd62049dc8717903fef8061df4b89c5d6b0a1e4c68e0138a38c009c427e93e1a6b3f9f01,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Los Angeles, onde as temperaturas podem ultrapassar 40 °C no verão, é uma das primeiras megalópoles do mundo a testar o cool pavement, do inglês, “pavimento fresco”. Essa técnica consiste em pintar algumas ruas ao longo da cidade com um revestimento especial de cor branco cinzento. O pavimento de asfalto negro comum absorve entre 80% e 95% da luz solar, enquanto o revestimento claro a reflete, abaixando a temperatura do solo significativamente. “O calor aqui, sobre a superfície negra, é de 42 °C neste momento. E sobre a superfície já seca do outro lado, apesar de ter só uma camada de branco e ainda precisar de uma segunda mão, é de 36 °C” – afirma Jeff Luzar, vice‑presidente da companhia que fornece o revestimento, durante uma demonstração à imprensa.
+
+Caso essa notícia fosse publicada nos Estados Unidos, que utilizam a escala Fahrenheit como unidade de medida, qual a redução de temperatura da superfície negra para o “pavimento fresco” informada na notícia?","10,8 °F",818cbefe6ad9e320f1cbd9064631a2fea2e101ef05db192efad17fcd92c4be06fb847e4007d88abcb8acedfa9ec20d96e4dc2c903088cae2e22c53bd4b3f29e8,Matemática,train
+"TEXTO DE REFERÊNCIA: O esmalte do dente é constituído de um material muito pouco solúvel em água e formado, principalmente, pela hidroxiapatita (Ca5(PO4)3OH). Quando os íons cálcio (Ca2+), fosfato (PO43−) e hidroxila (OH−) se ligam para formar a hidroxiapatita, ocorre uma reação química denominada mineralização. A reação inversa à mineralização é a desmineralização, quando parte da hidroxiapatita se solubiliza na água presente na saliva.
+
+Ca5(PO4)3OH (s) ⇌ 5 Ca2+ (aq) + 3 PO43− (aq) + OH− (aq)
+
+Entre os fatores que estimulam a desmineralização dos dentes está o consumo de refrigerantes, que contêm ácidos inorgânicos em sua composição. A desmineralização ocorre pois os(as) ______.","íons H+, formados a partir da ionização do ácido do refrigerante",2753ddf80650b022c0d336def7139053cb35a29c3d99249daab57c3b129ae7d07a8bcb95a4420059cbd28af4c9217bdb471ae3889af774c9511640f2b49a0b76,Ciências da Natureza,test
+"TEXTO DE REFERÊNCIA: Tem sido notado, nos últimos anos, o aumento do interesse dos jovens por outras práticas corporais, além das comumente difundidas nas escolas. Dentre estas práticas, o skate vem chamando atenção, pois, de acordo com dados da Confederação Brasileira de skate, existem mais de oito milhões de praticantes espalhados por todo o Brasil, em sua maioria composta de adolescentes e jovens adultos. Concordamos que é papel da escola também discutir sobre esse tema, como partilharam Velozo e Daolio: “a escola, como espaço de mediação de significados, não pode se furtar de um tratamento reflexivo sobre o skate como uma importante prática corporal constituinte da cultura corporal de movimento contemporânea”. [...] Diante desse contexto, percebe-se iminente necessidade de aproximação da Práxis educativa dos/as professores/as de Educação Física escolar, de maneira colaborativa com saberes específicos dos praticantes de skate, comumente chamados de skatistas. Para compreender as práticas corporais, que por vezes são deixadas de lado do campo da educação formal.
+
+ENUNCIADO: Qual é o objetivo principal do texto?",Debater a importância da inserção do skate como prática corporal na cultura corporal de movimento contemporânea.,805ccab2ca8833fc047d370aa58b9231ead0ebf6a872723c5cafc11830ecc4e95871f7a779bafc0e6260bad5eca621fc300007fa443281eb361dd5459b891de7,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Soneto de separação
+
+De repente do riso fez‑se o pranto
+Silencioso e branco como a bruma
+E das bocas unidas fez‑se a espuma
+E das mãos espalmadas fez‑se o espanto.
+
+De repente da calma fez‑se o vento
+Que dos olhos desfez a última chama
+E da paixão fez‑se o pressentimento
+E do momento imóvel fez‑se o drama.
+
+De repente, não mais que de repente
+Fez‑se de triste o que se fez amante
+E de sozinho o que se fez contente.
+Fez‑se do amigo próximo o distante
+Fez‑se da vida uma aventura errante
+De repente, não mais que de repente.
+
+MORAES, V. Livro de sonetos. Rio de Janeiro: Sabiá, 1967.
+
+Como o poema anterior caracteriza a separação?",Contrapõe as cenas de união e cisão.,c3e86d0f29d301eaa03ab04115f58f58383fef783cfb6b60701cfb41cfd242f1d82dc1bf87ea3b83210b47968bce3d6548905d2c1a642c6e47c4cadd40c971eb,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: As células-tronco apresentam propriedades únicas de autorrenovação a longo prazo e capacidade de se diferenciar em tipos celulares mais especializados. Células-tronco embrionárias e células-tronco adultas são bastante estudadas e caracterizadas, principalmente nos modelos humanos e em camundongos, por apresentarem novas possibilidades tanto para a medicina regenerativa como para o entendimento do desenvolvimento inicial dos mamíferos. As células-tronco totipotentes estão presentes no início do desenvolvimento embrionário e podem originar qualquer célula, inclusive anexos embrionários e placenta. Esse tipo de célula-tronco é exclusivo do zigoto e pode ser encontrado no embrião até a fase da mórula.
+
+As células-tronco totipotentes são células-tronco embrionárias que podem ser encontradas até qual fase do desenvolvimento embrionário, caracterizada por possuir de 16 a 32 células?",Mórula,5a29e76351a1bf37ee54f9cba81c1eba62c425434034dd1cd009ee80bc825dd869e46d8f0a9e2b4b0ab65008807c6e0b12d63eea9eb71e48bc5b93931f52ddc3,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Jealousy, jealousy
+
+I kinda wanna throw my phone across the room
+‘Cause all I see are girls too good to be true
+With paper white teeth and perfect bodies
+Wish I didn’t care
+
+I know their beauty is not my lack
+But it feels like that weight is on my back
+And I can’t let it go
+
+Comparison is killin’ me slowly
+I think I think too much
+
+‘Bout kids who don’t know me
+I’m so sick of myself
+I’d rather be, rather be
+Anyone, anyone else
+But jealousy, jealousy started followin’ me
+Started followin’ me
+
+ENUNCIADO: Na canção, o sentimento que passou a incomodar o eu lírico foi suscitado pela",comparação entre a sua vida e a de outras pessoas.,1c50e14e11bbfd89246cd1b3efea07c96072b8652106e9bad7f85fbf3f7ffd201fcabc9ec34b5ce8aec2217f4b86afa6dc9e92551a1109023db4d5929aaea2fd,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: TEXTO I
+
+Podemos dizer que o trabalho de seu corpo e a obra produzida por suas mãos são propriedade sua. Sempre que ele tira um objeto do estado em que a natureza o colocou e deixou, mistura nisso o seu trabalho e a isso acrescenta algo que lhe pertence, por isso o tornando sua propriedade […]. Sendo este trabalho uma propriedade inquestionável do trabalhador, nenhum homem, exceto ele, pode ter o direito ao que o trabalho lhe acrescentou, pelo menos quando o que resta é suficiente aos outros, em quantidade e em qualidade.
+
+LOCKE, John. Segundo tratado sobre o governo civil: ensaio sobre a origem, os limites e os fins verdadeiros do governo civil. Petrópolis: Vozes, 1994.
+
+TEXTO II
+
+O trabalho anual de cada nação constitui o fundo que originalmente lhe fornece todos os bens necessários […]. O mencionado fundo consiste sempre na produção imediata do referido trabalho ou naquilo que com essa produção é comprado de outras nações […]. Essa proporção deve, em cada nação, ser regulada ou determinada por duas circunstâncias diferentes: primeiro, pela habilidade, destreza e bom senso com os quais seu trabalho for geralmente executado; em segundo lugar, pela proporção entre o número dos que executam trabalho útil e o dos que não executam tal trabalho.
+
+SMITH, Adam. A Riqueza das Nações: investigação sobre sua natureza e suas causas. São Paulo: Abril Cultural, 1983.
+
+Enunciado: As concepções de trabalho apresentadas nos textos se complementam na medida em que",fundamentam o pensamento liberal,ad8690a787cc4d62f425c2a6c2ad6eef946e2b506e30ae375de1c7ec8079512dbe976bce38711e6fa43b85178c2ffdcef99f3199bf726a096556bf97a51867db,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA: Otávio supunha poder demolir pouco a pouco o brônzeo
+egoísmo do pai e vê-lo enfim cooperar na grande obra de
+humanidade e patriotismo. Precisava procurar com cuidado
+as ocasiões propícias para o completo desenvolvimento da
+sua ideia. Naquele momento tudo seria inútil; o comendador,
+muito exaltado, não o escutaria, e ele era incapaz nesse dia
+de sustentar com o velho, para cujos braços voltava cheio
+de alegria, uma questão qualquer. Susteve-se, enquanto
+o pai continuava amaldiçoando o tempo dos abusos e dos
+ataques à propriedade alheia!
+— Se eles se lembrarem de vir a Santa Genoveva –
+
+exclamava –, os bandidos dos abolicionistas, eu sei como
+os hei de receber: a tiro! Defendo a minha propriedade,
+estou no meu direito. A culpa é também das autoridades,
+que não amordaçam esses cachorros dos jornais que
+latem, latam para os outros morderem!
+
+ALMEIDA, Júlia Lopes de. _A Família Medeiros_. São Paulo: Hedra. p. 50-1.
+
+ENUNCIADO: No fragmento do romance _A Família Medeiros_, são evidenciadas as diferenças ideológicas entre pai e filho, no contexto de uma fazenda paulista da década de 1870. Nesse trecho, o discurso indireto livre e o discurso direto representam, respectivamente, o(a)
+
+RESPOSTA CORRETA: abolicionismo do filho e a virulência do escravismo legalmente amparado do pai.",abolicionismo do filho e a virulência do escravismo legalmente amparado do pai,b32362ca61369fbee21ea8cd5ca66d2a63341730d2385cafc249191da5699e3c02362657364759785867ddf1bfb65f1a548bde5654bf8dbb7db1faf3c8196dad,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Mercúrio é um planeta rochoso, sendo o menor do Sistema Solar e o mais próximo do Sol. Sua temperatura varia de 430 °C durante o dia para –180 °C durante a noite, tendo, desse modo, a maior amplitude térmica do Sistema Solar. (Amplitude térmica = diferença entre a maior e a menor temperaturas observadas.) Qual é a amplitude térmica em Mercúrio?",610 °C,42aa3817ef1efe7c383910f89dfed5f865ac94048570eb19a60c0bbeab4819e8808a5ba3cbc022d0cc4f2e776290f360121e70c3dc3611048537833dd2c59c59,Ciências da Natureza,train
+"Texto de referência: Grande parte das empresas da indústria da moda fashion terceiriza sua produção, e as terceirizadas também “quarteirizam” o trabalho. Segundo a World Trade Statistical Review, a Ásia é a principal exportadora e produtora do mercado têxtil, com destaque à China, Índia, Taiwan e ao Paquistão. Nas últimas décadas, o crescimento da China gerou um pequeno aumento no nível salarial e isso fez com que algumas marcas mudassem o foco rapidamente para países como Bangladesh, Vietnã e Camboja.
+
+Disponível em: <https://einvestidor.estadao.com.br>. Acesso em: 21 dez. 2021. (Adaptado)
+
+A terceirização e a “quarteirização” em países em desenvolvimento é uma estratégia da indústria da moda fashion para:",atender à demanda dos consumidores a um baixo custo.,92d1fc8bc49b4525f34cb1848dcb9dd8836ebc452ef964b2975b26401d5b4a15d363e000b3cc3fab2271ecdda6945fc9ccc11167864041557ce7b3f0c2851ece,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA: O processo de fermentação que acontece na produção de pães (massa azeda), tendência entre cozinheiros amadores, se inicia com uma mistura de proporções iguais em massa de água e farinha de trigo, que é deixada em temperatura ambiente até dobrar de tamanho. Inicialmente essa mistura é colonizada por microrganismos variados que se alimentam da mistura, interagem entre si e que poderiam até ser prejudiciais à saúde humana. Após algum tempo, a população da maioria dos microrganismos é reduzida e as populações se estabilizam, mantendo predominantemente bactérias do grupo dos lactobacilos, responsáveis pelo gosto azedo, e por leveduras, responsáveis pelo crescimento da massa. Ambas as populações consomem a massa por meio de processos distintos e acabam por inibir a proliferação de outros organismos.
+
+Qual é o processo ecológico que leva à prevalência desses dois grupos de microrganismos e à supressão dos demais?",competição,c935ad429c8c372f152e8eee26c286f50ba04445a1d38169a910ca8c83755a6d28bc634c8ec42c96a7b79a8daa06f5219556bc3e0a2078662e2fd070775fc786,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Um escritório de advocacia tem uma demanda de 60 processos em aberto que precisam ser divididos entre alguns dos seus advogados associados. Sabe-se que a quantidade de advogados associados é maior que 60. Os processos serão distribuídos de forma que não fiquem todos com um só advogado e que cada advogado escolhido receba exatamente o mesmo número de processos que os outros.
+
+Quantas maneiras distintas essa divisão de processos pode ser realizada?",11,530beaec86f2bbd5317496a58e842ce26d769f5a5e9d05ce62c80010d3415fbee60ed7a47e44e5226976d98bd2d1dfb1b7fe01eba2a14b358336cd5b46be0b93,Matemática,train
+"TEXTO DE REFERÊNCIA: Uma loja disponibiliza cinco modelos distintos de embalagem, sendo quatro deles em forma de prisma reto e um em forma de cilindro circular reto. Como todos os modelos de embalagem têm a mesma altura, os consumidores costumam analisar a área da base deles para saber se o objeto a ser embalado poderá ser acomodado. O formato e as dimensões da base de cada modelo de embalagem são os seguintes.
+
+- Modelo I: quadrado de 12 cm de lado;
+- Modelo II: retângulo de 8 cm por 12 cm;
+- Modelo III: hexágono regular de 7 cm de lado;
+- Modelo IV: círculo de 14 cm de diâmetro;
+- Modelo V: triângulo equilátero de 16 cm de lado.
+
+Use 3 e 1,7 como aproximações para π e 3, respectivamente.
+
+ENUNCIADO: Nessas condições, o único modelo que esse consumidor pode escolher, garantindo que o objeto pretendido será acomodado, é o",IV,4f13e39f4c5539fab79a4ef1d2cc75419dd5af1597e46db43b363eceba102dc6f874f1034a7d741b46101e4afd41df3ac8ded4361997527a800987bfc1cce908,Matemática,train
+"TEXTO DE REFERÊNCIA: Disponível em: <https://www.ihu.unisinos.br>. Acesso em: 5 abr. 2023.
+
+Na ilustração, que é uma interpretação da alegoria da caverna, observa‑se que o fundo da caverna, onde estão os prisioneiros, representa um aspecto fundamental da filosofia platônica, que é o(a) ______?",mundo sensível,d4001202618a9c047d7d28499bca0826fa0351fdd41079819f5c2fcafd238456068b2402fccaf335b9a539a3c3568155c3005639db42b12fbcb2e517343c7cdc,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Em um canteiro de obras, há 3,5 m³ de uma mistura de cimento e areia na proporção de 1 : 6, respectivamente. Um caminhão trouxe um carregamento de mais 3,5 m³ de mistura, porém com uma proporção entre cimento e areia de 2 : 3, respectivamente. Após a mistura trazida ser despejada sobre a mistura já existente no local, os pedreiros utilizaram pás e enxadas para uniformizar todo o material em uma nova mistura dos dois componentes.
+
+ENUNCIADO: Qual é a razão, na ordem indicada, entre o volume, em m³, de cimento utilizado nesse processo e o volume total, em m³, da nova mistura obtida?",19/70,727bcba6a139af8423b37e3df952829e8e7bc1af568f10f20b1e96b308bce079c0758af5e3a8a38b73ae3c67635aeccd1ad2e4f0abd2568f926bf3dfcd5f002b,Matemática,train
+"TEXTO DE REFERÊNCIA: Os alarmes de segurança são dispositivos capazes de criar um ambiente seguro, tanto em áreas externas como internas, disparando alarmes ao perceber a presença de invasores na área protegida. Os sensores dos alarmes emitem e captam micro-ondas, enquanto o dispositivo registra a reflexão padrão dos pulsos dessas ondas; se o padrão estiver alterado, o alarme é soado. São identificadas alterações no espaço físico devido ao tamanho dos pulsos ou à quantidade de pulsos por segundo.
+
+Com relação à sua natureza e à sua direção de propagação, as ondas emitidas e captadas pelos sensores do alarme quando o padrão está alterado são, respectivamente, qual a natureza e a direção de propagação?",eletromagnética transversal e eletromagnética transversal,d32c6147d38e033ed648e8600fdeac17c23979be41f062ca2412289405cc100b578fc270521a87a897fa13c7bde9420c3b1ca4f314dab29ee5a59d7e29df445f,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A polegada (ou inch, em inglês) é uma das unidades usuais do sistema de medições utilizado nos Estados Unidos. A palavra inglesa deriva do latim uncia, que significa “a duodécima parte” (ou “um doze avos”) e define bem a unidade de medida: uma polegada corresponde a 1/12 de um pé, ou seja, 2,54 centímetros. Sabendo que uma jarda equivale a três pés, a medida de uma jarda, em metro, é
+
+Qual é a medida de uma jarda em metros?","0,9144",291214765c819255f832a1b9e4a5923f45fa9aed0ea6218d41776c6b63a9acbc61dac3f041b19ed2e4fa551ccb82d99519cea6d887b5ef3c6a270c04952da909,Matemática,valid
+"TEXTO DE REFERÊNCIA: Durante a Guerra Fria, Moscou já tinha demonstrado em 1953, na República Democrática Alemã (RDA), e sobretudo em 1956, na Hungria, que não toleraria nenhuma abertura nos países sob sua influência. Entretanto, desde sua eleição em janeiro de 1968 como secretário‑geral do Partido Comunista da Tchecoslováquia, Alexander Dubcek pôs em marcha uma série de reformas democráticas no país, o que chamou de “socialismo com face humana”. Sem questionar a filiação ao Pacto de Varsóvia – a organização militar dos países socialistas, contraposta à OTAN – e sem defender uma economia capitalista, Dubcek introduziu uma maior liberdade de expressão e aumentou a participação dos cidadãos na vida política. Sobretudo, mudou o clima social do país. Os tchecos assistiam atônitos à abertura liberal e se perguntavam até onde o líder soviético, Leonid Brejnev, permitiria que chegasse. Disponível em: https://brasil.elpais.com. Acesso em: 20 abr. 2020.
+
+ENUNCIADO: O texto trata do conjunto de reformas realizadas na Tchecoslováquia, em 1968, conhecido como Primavera de Praga, e que teve como repercussão a",ocupação de Praga pelas tropas do Pacto de Varsóvia,d88677991875fc96f87685ba2212db65551f1cc899e9ef7d75b72a7c0acff0e6ee48a584bbcff27dfec577fd49fa48c69423748098eb077aa55415538384bdf9,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: 2021 ficou entre os sete anos mais quentes já registrados na história, aponta a Organização Meteorológica Mundial (OMM). O aquecimento generalizado de longo prazo como resultado do aumento dos gases de efeito estufa na atmosfera tem sido atualmente muito mais relevante do que as variações anuais nas temperaturas médias globais causadas por fatores naturais do clima. Os dados levantados pela OMM ao longo dos anos mostram que, desde os anos 1980, o planeta fica mais quente a cada década, e a expectativa é que a tendência se prolongue.
+
+Disponível em: www.cnnbrasil.com.br. Acesso em: 5 dez. 2022 (adaptado).
+
+Qual das seguintes opções é uma causa antropogênica apontada pela OMM para o aquecimento observado?",utilização de combustíveis fósseis,5a387d98a2b6a12c30f620d80711eb7fb948d3d3fe8bc328930b3e5e65d45335d198e044c96a9cb6a47747db521289425d007c6cabb31073671cc71dbad409c3,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Dois e dois: quatro
+
+Como dois e dois são quatro
+sei que a vida vale a pena
+embora o pão seja caro
+e a liberdade pequena
+
+Como teus olhos são claros
+
+e a tua pele, morena
+como é azul o oceano
+
+e a lagoa, serena
+
+como um tempo de alegria
+por trás do terror me acena
+e a noite carrega o dia
+no seu colo de açucena
+
+— sei que dois e dois são quatro
+sei que a vida vale a pena
+mesmo que o pão seja caro
+e a liberdade, pequena
+GULLAR, Ferreira. Dois e dois: quatro. In: Obra completa. Rio de Janeiro: Nova Aguilar, 2008.
+
+No poema, o eu lírico recorre a uma conta matemática para refletir sobre o quê?",prevalência do valor da vida diante das dificuldades do cotidiano,fd66b96e6b4161da735cf4fa184ad265342e2cd681b59c91bf597f5b26402ca888a2aec303c4dc29bcf37b67b997cae457fd65a80e6b121666537e34fd70fe2d,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: “É uma coisa muito difícil e eu tenho lutado bastante por tudo que vem acontecendo comigo. É desgastante porque você está meio que sozinho em tudo, porque eu já fiz tanta denúncia e ninguém é punido, nenhum clube é punido. E a cada dia que passa eu venho lutando por todas aquelas pessoas que vão vir, porque se fosse apenas por mim, pela minha família, eu acredito que eu já teria desistido de tudo que venho lutando. A cada dia quer vou para casa fico mais triste, mas eu fui escolhido para defender uma causa tão importante, que cada dia eu estudo mais sobre [o racismo], eu venho aprendendo para que num futuro muito próximo, o meu irmão que tem cinco anos não venha a passar por tudo que estou passando”, desabafou o atacante, que teve ao menos 10 episódios de racismo relatados aos procuradores do Campeonato Espanhol. O amistoso contra a Espanha em Madri terá uma identidade visual com destaque para o preto e branco. No momento do hino, os jogadores brasileiros usarão jaquetas pretas com o slogan “uma só pele; uma só identidade”, em português, inglês e espanhol.
+
+Com base na coletiva de imprensa, por que a atitude de resistência do atleta Vini Jr. em relação ao racismo se justifica de forma evidente?","Porque ele deseja combater o racismo que afeta a ele, a seus companheiros e às gerações futuras.",803133d011e6c5630ba3af60381c52d17ad823f4c6ce947690b213a99d92bc0a9f6ba9124f8d070bf6abe5e208285b144c89623f53449a8fb9e2289eaee3b6f2,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: O sulfato de bário é um agente radiopaco, que é capaz de barrar raios X. Por isso, esse composto é muito utilizado como contraste radiológico no tubo intestinal. Os íons bário (Ba [2+]) apresentam alta toxicidade para o organismo humano, e, por isso, o composto usado para as radiografias deve ser insolúvel em água, como o BaSO₄, para evitar uma possível intoxicação. A alta toxicidade do bário ocorre porque os íons Ba [2+] tendem a substituir os íons cálcio (Ca [2+]) e realizar suas funções de forma ineficiente, provocando sérias consequências ao organismo, como o acúmulo de bário nos ossos e o decorrente desenvolvimento anormal do tecido ósseo.
+
+Considerando que o número atômico do bário é 56 e que o número atômico do cálcio é 20, uma explicação plausível do motivo pelo qual tal intoxicação pode acontecer é que o bário apresenta:",propriedades químicas muito semelhantes ao cálcio por estar no mesmo grupo,a2894adcb7532782cd6fbf06efb175f41fb09d06a1cad8452906f29fd9ce7676d4b769c1f7690b2bf1513105f0e7b90972aff591916cc7e7ff5da536a2f50d8a,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Segundo a Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (Abrelpe), o Brasil gerou, em 2022, um total de aproximadamente 81,8 milhões de toneladas de resíduos, o que corresponde a 224 mil toneladas diárias. Ações são desenvolvidas de forma permanente com o intuito de gerir da melhor forma esses resíduos gerados, entre elas a Política dos 3 Rs – reduzir, reutilizar e reciclar –, que segue essa sequência considerando a ordem de importância das ações.
+
+“Panorama dos resíduos sólidos no Brasil 2022”. Disponível em: <https://abrelpe.org.br>. Acesso em: 24 jul. 2023. (Adaptado)
+
+A reutilização é uma etapa intermediária na Política dos 3 Rs, que pode ser exemplificada pela",utilização de potes de vidro para armazenamento de alimentos,24be41a91f6a1b0b44375108d971479059211340df14158c2cf3991e8ca8b6c2351f5a44f1c824f6cae284389760b53a8b99fc7407ea0362e5eb04b4f7cbc4d0,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: “Mesmo com dois “descontos”, licitação da folha da prefeitura não atrai bancos”  No primeiro edital, publicado em 28 de dezembro de 2022, o valor mínimo aceitável a título de oferta seria de R$ 102 915 156,60. Depois, a prefeitura reduziu 9,6% do valor. Por fim, novo abatimento, desta vez realizando um desconto de 8,8%. (Disponível em: www.campograndenews.com.br. Acesso em: 10 ago. 2023. Adaptação.)
+
+De acordo com as informações, após os descontos, o valor do pregão sofreu uma redução de, aproximadamente, quanto?","17,6%",d937b0d72face2ba09bd1f363c7cfe424707c3e216443ab28aecac61ac18ed162e356e152669ab1e8acf95a3d34f33810a832f3175c650b118e1010d606bfc8b,Matemática,train
+"TEXTO DE REFERÊNCIA: Na primeira fase de um concurso, cada candidato realiza três provas, sendo uma de Língua Portuguesa, uma de Matemática e uma de Atualidades. Cada uma dessas provas vale de 0 a 5 pontos. Um dos critérios para o candidato ser aprovado e passar para a segunda fase é que ele obtenha uma pontuação (P) maior ou igual a 6, a qual é calculada por meio da fórmula P = m² + m, em que m é a média aritmética das três provas realizadas na primeira fase.
+
+Qual é a menor média aritmética que permite a um candidato ser aprovado na primeira fase desse concurso?","2,0",b17c55b33ce36967bd951861963fb6399f2eda418341b2721a0d626c259fad1839335e8de0afe598b353609cc8e4006b0895c923f149ca63e45114b7f2d46797,Matemática,test
+"TEXTO DE REFERÊNCIA: É bastante comum um biólogo passar meses ou anos procurando novos seres e, quando avista um, perceber que ele não é inédito. Para acabar com o problema, o entomólogo americano Brian Fisher usou o Google Earth para mapear onde estão todas as diferentes formigas do mundo. Quando achou uma nova, em uma viagem à ilha de Madagascar, não hesitou e cravou o nome em homenagem à ferramenta de busca: Proceratium google.
+
+Disponível em: <https://super.abril.com.br>. Acesso em: 10 dez. 2021 (Adaptação).
+
+A homenagem feita pelo entomólogo aparece no nome que se refere à categoria taxonômica de",espécie,9588bfec82eff3f2264b1e59d0528c58b10827d4010870eabd2efcb81f44bafff28dd59fc990ec237629eea081fd50ae772026aaede3cb052fdadf18fc8311ba,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Polarizabilidade é a facilidade com que a nuvem eletrônica de um átomo pode ser distorcida devido à presença de um campo elétrico externo. De maneira geral, essa propriedade aumenta com o acréscimo do número de elétrons na eletrosfera do átomo e, consequentemente, com o aumento do tamanho atômico. Essa característica interfere na maneira com que um material interage com a luz, uma vez que influencia a maneira com que os elétrons reagem à presença de luz; quanto maior for a polarizabilidade de um composto, maiores são sua refratividade e seu índice de refração.
+Uma indústria que produz materiais que interagem com a luz está buscando os melhores elementos químicos para formarem uma ligação com o sódio na forma iônica (Na[+]). Para a manufatura dos seus produtos, estão disponíveis os elementos listados no quadro. A forma aniônica desses elementos irá interagir com o Na[+] para formar o composto iônico que interage com a luz.
+
+Elemento químico — Número atômico
+Nitrogênio — 7
+Flúor — 9
+Cloro — 17
+Bromo — 35
+Iodo — 53
+
+ENUNCIADO: O composto iônico que apresenta a maior refratividade é o formado pelo ânion do",iodo,01e391fe0d44a40cba684287d82b7cfa1eeebe84e8037685cbf6d0265f10e4a178d1cdf68f964d0d0314ec34285de75e0e1432affcfba04b8dc4617d5715c9f8,Ciências da Natureza,valid
+"TEXTO DE REFERÊNCIA: A velha quadra de paredes corcovadas, carequentas,
+povoou‑se estranhamente de instrumentos científicos
+moderníssimos, nos quais o brilho fulvo do latão envernizado
+se casava ao preto baço das partes enegrecidas, à
+transparência cristalina dos tubos de vidro multiformes,
+áo lustroso da madeira brumida dos suportes, à verdura
+fresca da seda das bobinas.
+
+Botelhas de Leyde, jarras enormes, agrupadas em
+baterias formidáveis, máquinas de Ramsden e Holtez,
+pilhas compartimentos Kruikshank e de Wollanston, pilhas
+enérgica de Grove, de Bunsen, de Daniell, de Leclanché;
+
+[...] tudo isso por aí protraía as formas esquisitas, fosco,
+diáfano, reverberante a um tempo; [...]. O ar estava picado
+de um cheiro acre, irritante, de ácido azótico e de ozone.
+
+RIBEIRO, J. A Carne. São Paulo: Ateliê Editorial, 2015. p. 32. (fragmento)
+
+No fragmento de A Carne, de Júlio Ribeiro, os recursos cientificistas da prosa naturalista são representados por que tipo de recurso linguístico?",léxico especializado,90b9125846d1ee00b884ff2094418dd427cd46447d90b11834095cab41b30fea39391bfb11c8668541c7c2a67cd5b12eeb6b518dea2873304899602c4aec2c11,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: O ser humano está fortemente cercado, por dentro e por fora, de bactérias. Embora algumas delas constituam agentes de doenças, outras, como a Escherichia coli, vivem no intestino grosso e aí produzem vitaminas B12 e K, que são aproveitadas pelo organismo, após atravessarem a parede do cólon.
+
+Qual é a classificação da relação que se estabelece entre o homem e as bactérias intestinais referidas?",mutualismo,6ee9cd995c18e43b3cad220705bc8e591d693315b05b940a779d99e532ca621cc9edf39bef39ef9a17e095b81771bd5d82bedf401658f65e5ec3563169eb2110,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: As folhas são os órgãos que melhor refletem as adaptações estruturais adquiridas pelas plantas, que as tornam aptas para sobreviver nos diferentes tipos de ambiente. Durante a evolução do vegetal, essas adaptações foram acontecendo impostas pelos diferentes habitats, conferindo às plantas maiores vantagens para crescerem nesses ambientes (sem, no entanto, restringir o vegetal a eles). Em um ambiente A, são comumente encontradas plantas com folhas relativamente pequenas (em relação ao volume foliar) e compactadas, com grande quantidade de estômatos e de tricomas. No ambiente B, é mais frequente a presença de plantas com estômatos apenas na face superior das folhas, e hidatódios na face inferior.
+
+A partir da descrição das folhas apresentada no texto, o ambiente A possivelmente é:","seco, com baixa disponibilidade hídrica",1ba7f424513c45219b2f6ace9b11abdb85ca8114ab4340c137eda6c23146594995e11ac370aa0dcc3e3bf1ec64b67bcce50ec19cdbc57c3c4a9123486489775e,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: TEXTO I
+
+A narrativa, portanto, leva os espectadores a investigar diversos mistérios junto com Wandinha. Mergulhamos nos segredos da escola Nunca Mais e, episódio após episódio, vamos nos aproximando de respostas ao lado da protagonista. E, apesar de apresentar um storytelling simples, a produção é eficaz em manter quem está assistindo entretido e curioso, seja por meio das pontas soltas na narrativa (que geram apreensão) ou dos plot twists (que são vários na reta final).
+
+Isso tudo, somado à direção de Tim Burton, cria uma atmosfera sombria e que combina perfeitamente com Wandinha, com A Família Addams e com o próprio estilo do diretor, conhecido por suas obras excêntricas e “diferentonas”. Os cenários, os elementos de cena, as atuações, os mistérios, tudo tem a marca registrada de Burton, que acerta em cheio ao conduzir a série.
+
+Disponível em: https://www.tecmundo.com.br. Acesso em: 10 nov. 2022. (adaptado)
+
+TEXTO II
+
+O primeiro episódio até parece algo antiquado, como um telefilme, provavelmente uma homenagem à sitcom da Família Addams na década de 1960. Entretanto, o renovo burtonesco traz a juventude deslocada de Wandinha tentando entender a puberdade, não a infância melancólica, como o diretor costumava usar. Mortícia e Wandinha representam o conflito de gerações, tendo em vista que a escola Nunca Mais foi frequentada pela mãe e por Gomez. E apesar do romance da protagonista com uma personagem “normal”; da sua amizade fofa com Enid (Emma Myers) – a menina loba super colorida –; e da inimizade clássica com a garota popular do colégio – a sereia negra chamada Bianca (Joy Sunday) –, o foco da série é a protagonista‑detetive descobrindo conflitos entre o passado e o presente de Nunca Mais. Com um roteiro limitado por explicações da investigação, mas com a direção de Burton chamando atenção com a fotografia de primeiríssimos planos nas personagens, com ângulos acentuados e estranhos e com alguns planos mais elaborados para diálogos, há uma diversão morna, estranha de se acompanhar, na rotina escolar. Até mesmo porque a escola se torna estranhamente normal, mesmo que contenha mistério no seu passado. A ideia de Wandinha é que a loucura se torna normal, como um assassinato ficcionalizado buscando solução para a vida real – como Poe fazia com os crimes americanos no século XIX e Wandinha datilografa, como uma autora e narradora da série.
+
+Disponível em: https://www.planocritico.com. Acesso em: 17 jan. 2022. (adaptado)
+
+Os textos I e II exprimem algumas percepções distintas acerca da série Wandinha. No entanto, há convergência entre eles quanto a:",marca singular da direção,f76859a3c56d8f94067342c48222ea8fc97e1d97d62cdeb073dfe82ab6b6ed5db0dcee746f5ad8f7b238363c015b4d996ad0055f13f0f6c71934dbf80c362791,Linguagens e Códigos,train
+"Qual recurso retórico a campanha utiliza para enfatizar um problema social, comparando o uso de drogas a um tipo de prisão para indicar que a autonomia do usuário é prejudicada?",metáfora entre o uso de drogas e um tipo de prisão,b246f3714e885773bb6c13d54c0e758632d8c2f3e517b74faaf8f212acfe1127eaa8988f69b2f56aa31b03676511296f68ada454f42958dc782652f79e460f00,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Batata quente
+
+Se eu te entregasse agora o meu amor
+
+aceso como ele está,
+
+como ele está, pesado,
+
+você o trocaria rapidamente de mão,
+
+você o guardaria um pouco na esquerda,
+
+um pouco na direita,
+
+por quanto tempo antes de o passar adiante?
+
+MARQUES, A. M. A vida submarina. São Paulo: Cia das Letras, 2021.
+
+Qual recurso poético a poetisa Ana Martins Marques utiliza ao atribuir ao amor as características de uma brincadeira?",metáfora,9de36946af7a2e01e415978fb4b4cd9d58fe6874295572433797d6756162fd6dcb415e80f391cdddfa03a39342778208f81f0bb6c399487b7d136e6cfcd26bfa,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: As pichações põem à prova a nossa miopia urbana.
+
+Onde vemos borrões, jovens veem marcas nítidas da passagem de pessoas, identidades e bairros. Os rabiscos que cobrem a cidade são nomes com rosto e reputação. São uma linguagem com sensibilidade e valores próprios que delimitam espaços e marcam fronteiras entre o mundo do nós e o dos outros. São grafismos que trazem histórias de vidas, memórias, projetos, perdas, sensações intensas de prazer, medo, aventura, revolta, realização, risco e morte.
+
+KUSCHNIR, K.; AZEVEDO, V. Mensagens criptografadas. Disponível em: <https://blogdoims.com.br>. Acesso em: 30 out. 2023. [Fragmento adaptado]
+
+No fragmento, a palavra “pichações” é",referenciada pelos termos “rabiscos” e “grafismos”.,5e3bbf451ad9a91827d2b39d87b7d7db9d89d9dc0d8ac74fd775f904a99f5a4d8233f7f5b5eca04aaa3cd5c3abf5dd8747b65091d8c194ab6335a5f226ff75c8,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Uma forma de medir o pH de uma solução é utilizar um pHmetro (ou medidor de pH) que contém um eletrodo de vidro. O funcionamento desse sensor é possível por conta dos espaços que existem entre os átomos que compõem a estrutura do vidro. Microscopicamente, o vidro tem uma estrutura irregular de SiO4⁴⁻ com cátions “encrustrados” e conectados aos ânions. Durante a medida do pH, os íons H⁺ substituem esses cátions no vidro por meio de um equilíbrio de troca iônica. Esse processo gera uma diferença de potencial na superfície do vidro, a qual é convertida em unidades de pH. Esse processo é influenciado pelo raio iônico dos cátions presentes no vidro, uma vez que, quanto menor o raio iônico, mais forte é a ligação entre o cátion e o ânion.
+
+Tabela de raios iônicos (pm): H⁺ 54; Li⁺ 90; Na⁺ 116; K⁺ 152; Rb⁺ 166; Cs⁺ 178.
+
+HARRIS, D. C. et al. Quantitative Chemical Analysis. Nova York: Freeman and Company, 2010 (adaptado).
+
+Considerando o processo de troca iônica, qual cátion é o mais difícil de ser retirado do retículo do vidro pelo íon H⁺?",Li⁺,ca0e3e5c5a13f01688fbf77347a75c6230a5548ddf2069d2cf6533e524aac259326827336e99189d88ee008c5a119b4ea6cc22ef0f73dde30135e97044424f4c,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A família proporciona a aprendizagem de normas sociais que conduzem à interação dos indivíduos dentro de suas paredes institucionais. Nela, os papéis sociais são desde cedo distintamente assimilados pela criança. A percepção do que é ser pai, ser mãe, ser filho e/ou irmão vai se formando e determinando os modos de estar do infante ante ao mundo ao longo de sua infância. Ela é, talvez, a primeira instituição com a qual o indivíduo tem contato em sua vida e que serve de base para todas as outras.
+
+SANTOS, Danielle Marques dos; NASCIMENTO, Virgílio Gomes do. “A família como instituição moderna”. Fractal: Revista de Psicologia. Niterói, n. 20, v. 2. (Adaptado)
+
+Conforme os preceitos da sociologia moderna, qual é o papel da família como instituição?",Transmitir valores às gerações futuras.,788fd654781323fb14d5d7bf513eeb771707489a27d5c19479882c509ad5565f6e2383c60cc6b7a7014e28af93e407570eff2e3334cc315722f57b0d5f0eed66,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Proponho-me falar de encontros, ocorridos no contexto de um movimento complexo que designamos de Fronteiras Urbanas, iniciado em 2010 como um projeto de investigação etnográfica em educação comunitária, envolvendo uma comunidade acadêmica e duas comunidades locais da Costa da Caparica. Recorto alguns episódios, inscritos em breves narrativas, poemas e textos de gênero inclassificável, onde a reflexão e a descrição se mesclam e dialogam. Os episódios são organizados em torno de conceitos, agrupados pela sua letra inicial, convergindo numa rede de significações que renova o seu potencial compreensivo e para a qual são convocadas vozes que falam da experiência e outras que a teorizam. A poesia surge como um instrumento de multi, inter e transculturalidade, de inclusão e de identidade, mas também de insatisfação, conscientização política e despertar da sensibilidade aos outros e ao mundo.
+
+CAETANO, A. P. Transpondo fronteiras urbanas. Encontros e mediações num projeto de educação comunitária. 2016. In: GOMES, C. A. et al (coord.). Atas do XIII Congresso SPCE - Fronteiras, diálogos e transições na educação. Viseu: Escola Superior de Educação, Instituto Politécnico de Viseu. [Fragmento adaptado]
+
+Ao introduzir a temática do texto, a autora:",monta um panorama das ideias a serem desenvolvidas.,39d1a4250fcb0a969f2017f858a84a80a1d00cc2baf8a03ccfaf76089d9707cd809f557678e32468adcd9f1d8aad068a3cdbdf0a829063e7bf3432d282689875,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A linguagem corporal nada mais é do que uma forma de comunicação não verbal, anterior ao próprio nascimento da palavra. Entre o ser vivo, determinadas atitudes e expressões representam claramente o seu sentimento (como o ânimo ou desânimo, por exemplo), bem como a expressividade do olhar. Ao longo da vida, nós aprendemos a identificar e interpretar cada uma destas expressões. Mas, além dos gestos e representações dos sentimentos, a linguagem corporal também está ligada ao nosso modo de caminhar, de se sentar e de gesticular. E onde o teatro entra nessa história e por que a expressão corporal se faz tão importante nesta forma de arte?
+
+De acordo com o texto, a linguagem corporal é:",necessária para aprimorar a capacidade de expressão das pessoas.,b07d92ac1ed02bb4b4c1c09029c919a527705b35e6d2bf1af4d18c849fef37d7f4a6bbc494667941bbf775fd10c5fa83c8d2bcc6142be1131972a6e38f97e1d0,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Em uma feira escolar, os alunos do 3º ano do Ensino Médio estão apresentando os braços robóticos que construíram em uma disciplina optativa. O professor de Matemática desafiou os grupos a programarem o braço robótico para que ele desenhasse um triângulo, logo em seguida, deveriam posicioná-lo em um dos pontos notáveis desse triângulo que estivesse totalmente fora da imagem desenhada.
+
+O quadro a seguir apresenta as propostas apresentadas pelos grupos:
+
+|Grupo|Alfa|Beta|Gama|Delta|Zeta|
+|---|---|---|---|---|---|
+|**Tipo de triângulo**\n**desenhado**|Retângulo|Retângulo|Retângulo|Obtusângulo|Obtusângulo|
+|**Ponto notável**\n**em que o braço**\n**robótico foi**\n**posicionado**|Ortocentro|Incentro|Baricentro|Circuncentro|Baricentro|
+
+Dessa maneira, o grupo cujo braço robótico estava posicionado no local pedido foi o",Delta,b135bd9340148c0776cd0b7f408eda9eb318089bb44afd18da89864eb767ef27adc6f51026603f3a401f29f293beb3957fe938406981eeaa69588963f6b77c0e,Matemática,train
+"TEXTO DE REFERÊNCIA: ""Como funcionam as colas?""
+
+""O funcionamento das colas é baseado na evaporação da água que elas levam em sua composição. Ao virar vapor, o líquido que era aquoso acaba formando uma camada sólida adesiva. 'A cola escolar líquida, por exemplo, é formada pela junção da água com polivinil acetato (PVA), um polímero sintético e ótimo adesivo para papel e madeira'.""
+
+LINARDI, Fred. Disponível em https://super.abril.com.br.
+
+O texto indica a especificidade da cola de PVA para papel e madeira. Para outros materiais, existem colas com diferentes composições. Isso se deve principalmente a quê?",formação de diferentes tipos de interações intermoleculares entre os materiais e a cola,db4eb93106f5d64c0c1a08e72f78a5572295f2561c46d8aec5e9cf931129a5e49d5d71753e4468d578340a5f4a5ee03ce1c08ff09df556d4ccc777b1563d38ef,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A criação de uma embalagem de refrigerante mais alta, porém mais fina, está fazendo o cliente pagar o mesmo valor de antes por menos bebida. É que o novo formato tem apenas 310 mL, 40 mL a menos que as tradicionais embalagens com 350 mL, mas está sendo vendido a comerciantes pelo preço antigo. E o custo disso tem sido repassado ao consumidor.
+
+Disponível em: <https://extra.globo.com>. Acesso em: 30 nov. 2023 (Adaptação).
+
+ENUNCIADO: Considerando a diferença de volume entre as embalagens de 350 mL e 310 mL, qual seria a redução percentual aproximada que o preço deveria ter sofrido para permanecer coerente com a variação de capacidade?",11%,60476a2aef637e9639a7d949aaa0acec0cde26e1164b6bfc987b6bd90b5d6b3ac817e3d02773c008e7b1148d6e4bed3472aa6b8a5123d63cfed9c8261542d5b0,Matemática,test
+"TEXTO DE REFERÊNCIA: O lixo eletrônico abrange não somente computadores e celulares, mas qualquer tipo de eletrodoméstico, além de qualquer tipo de pilha ou bateria. Tanto os equipamentos quanto as baterias possuem substâncias que, se jogadas no lixo e enviadas a aterros sanitários, podem produzir danos importantes ao meio ambiente. “Os produtos eletroeletrônicos descartados no lixo comum impossibilitam a reciclagem deles por entidades e claramente prejudicam o meio ambiente”, explica a gerente executiva da Associação Brasileira de Reciclagem de Eletroeletrônicos e Eletrodomésticos, Mara Ballam. A Política Nacional de Resíduos Sólidos atribui ao fabricante a obrigação de dar o destino, processo também chamado de “logística reversa”. Cabe aos proprietários dos equipamentos entregá‑los para que possam ser corretamente descartados e reciclados.
+
+No texto, chama‑se a atenção para um problema preocupante, sobretudo em virtude da _______?",ameaça ambiental decorrente do acúmulo e do descarte inadequado de lixo eletrônico.,7c6dae19989307f2d35c1ef99127825a41e25c25bb158a82a110e744adc4867fafc5685997cf88d7337ebef6d06ac2814ffd8340b56469bb44341b42b45a3800,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Antônio Firmiando Macedo Braga... fazendo ciente ao respeitável público, que pelos males que a nação portuguesa lhe tem causado, desterra de si e de toda a sua família, de hoje para sempre, os indignos cognomes de Macedo Braga, que há herdado de seus pais e avós, naturais desses lugares de Portugal, e substituiu a eles os da sua pátria, passando a denominar‑se Antônio Firmiando Brasileiro Carioca e seus filhos: Rodrigo Antônio Brasileiro de Maceió, Inocência e Cândida Flora de Maceió.
+
+EDELWEISS, F. G. A antroponímia patriótica da Independência. Salvador: CEB: UFBA, 1981. p. 8. In: DEL PRIORE, M. O livro de ouro da História do Brasil. Rio de Janeiro: Ediouro, 2003.
+
+[Fragmento adaptado]
+
+De acordo com o trecho acima, qual sentimento caracterizava o contexto pós‑Independência do Brasil mencionado?",sentimento antilusitano,ccca5a94ffe85d32b71798878e67ebfb593b80cd9cde95860e76dd0b729046cc9ccf948986f35c3a68955780e9ad0c5491fc9c7e924bf7052c287694de4b85d4,Ciências Humanas,valid
+"TEXTO DE REFERÊNCIA: cultivo
+
+planta vento,
+
+poeta que me arremessa
+tempestades‑ninfas virão
+entregar‑te confissões
+da musa inquieta
+
+planta o vento sossegado
+que aponta ao leste
+e colhe a tempestade de amor
+
+que tu mesmo fizeste
+
+RIBEIRO, A. E. Fresta por onde olha r. Belo Horizonte: Editorial Interditado, 2008. p. 20.
+
+Qual recurso linguístico predomina na função poética da linguagem em 'cultivo', de Ana Elisa Ribeiro?",Metáforas que combinam elementos da natureza e ações humanas,033c5fc4c2396a690a03441fbef882da373ce1e08101ceb24c2bc6e4909792e521cf51ead442314da29f5d4090375b55f21991bcaefd30051de007902078869a,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Os movimentos feministas no Brasil
+
+A família tende a tornar‑se um malabarismo constante com desgastantes ambições de multiplicação entre demandas profissionais, obrigações educacionais, cuidados com as crianças e a monotonia do trabalho doméstico. Surge o modelo de família negociada a longo prazo, na qual posições individuais autonomizadas assumem, até nova ordem, um controverso acordo de metas para regular o intercâmbio emocional. Os filhos já não conhecem as circunstâncias de vida dos pais, para não mencionar a dos avós. Isto é, os horizontes temporais da percepção da vida são cada vez mais estreitos, até o limite da história reduzida ao presente (perpétuo) e tudo girando em torno do eixo do próprio ego, da própria vida. Surgem módulos pré‑fabricados de possibilidades combinatórias de natureza biográfica.
+
+BECK, U. Sociedade de risco : rumo a outra modernidade. São Paulo: Editora 34, 2011.
+
+Com base no texto acima, qual é a explicação apontada para a consolidação do contexto social descrito?",crescente processo de individualização das sociedades modernas,8525fbc6ce1f44d810578b0247ccbf53e447df55af8f0ef26719635c85013e4e0267cffae848053505e8aa8d1b335902e699170d0628ed55e45c44ab1b9f3d5a,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Etapa 3 – O pirocloro concentrado Nb2O5 (266 g/mol), chamado de pentóxido de nióbio, é refinado para eliminar resíduos de outros metais; Etapa 4 – Transformação do pirocloro concentrado refinado em FeNb (149 g/mol) por adição de alumínio e óxido férrico Fe2O3 (160 g/mol), com 75% de rendimento: 3 Nb2O5 + 3 Fe2O3 + 16 Al → 6 FeNb + 8 Al2O3. Foram usados 7,98 toneladas de pirocloro concentrado (Nb2O5) e 4,8 toneladas de óxido férrico (Fe2O3). A massa de ferronióbio produzida pela reação de 7,98 toneladas de pirocloro concentrado e 4,8 toneladas de óxido férrico na etapa 4 é de aproximadamente","6,7 toneladas",8ae08b966190f3cf5e5afae71c0e29c0c5f49469de307881ec2b00de343904cf335302b6d5cb45127749c8f66c4afccf7746e724026e73ab127666ed761902ce,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Uma construtora apresentou cinco propostas para realizar uma obra cuja produtividade total é a mesma em todos os casos (mesma soma de horas‑trabalho necessárias):
+I. entregue em 60 dias, com 80 trabalhadores e carga horária de 9 h/dia;
+II. executada com 60 trabalhadores e carga horária de 4 h/dia (dias não informados);
+III. entregue em 48 dias e com 90 trabalhadores (h/dia não informada);
+IV. executada com 40 trabalhadores e carga horária de 12 h/dia (dias não informados);
+V. entregue em 72 dias e com carga horária de 10 h/dia (nº de trabalhadores não informado).
+Critérios do contratante: (1) a obra deve ser realizada em menos de 90 dias; (2) se mais de uma proposta satisfizer (1), escolher a que tiver menos trabalhadores envolvidos.
+De acordo com as propostas e os critérios, qual proposta deve ser selecionada?",V,d968c6529210732ee1477ac59b3cd4487c25e39dd8ca9b2cf53b969009952942a432359825690d7adc8c68e67dce89de96f42eb1ee6a040a57ab7467ff443332,Matemática,train
+"TEXTO DE REFERÊNCIA: Em 2020, o Ministério da Saúde rebateu um conteúdo compartilhado nas redes sociais sobre a possibilidade de as máscaras de proteção respiratória, empregadas para reduzir o risco de transmissão de doenças que se disseminam pelo ar, estarem promovendo a acidificação do sangue e, dessa forma, prejudicando o organismo.
+
+A acidificação em questão não ocorre porque esses itens de proteção ...",permitem a eliminação de CO₂ na expiração.,c046c26acbf8f96f3212dfcac8e5975fa66ee0740b642df081a425a8fd0e06d27c887c0aa083d949a43e6cc2e1839065dd978aec9fa50cb75688c682ecbdae21,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: _Se há inexatidão até em conversas sinceras e afetivas, imagine entre quem mente e quem adora uma fofoca, entre quem manipula e quem é inocente, entre quem não se expressa bem e quem não capta entrelinhas. O universo é repleto de mal-entendidos._ (l. 6-8)
+
+De acordo com o método científico, qual é a primeira etapa que toda pesquisa ou investigação científica deve iniciar?",observação,210b0eca3735602814a98305f342e5269db76d066eb05a82b624a733422122adda2b9763e4000d61fbd16930bc8473bc088e3ac41d3c73eb8e20eb60e972a4dc,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: As coisas que temos de aprender antes de fazer, aprrendemo‑las fazendo‑as – por exemplo, tornamo‑nos justos praticando atos justos, moderados agindo moderadamente, e corajosos agindo corajosamente. Esta asserção é confirmada pelo que acontece nas cidades, pois os legisladores formam os cidadãos habituando‑os a fazerem o bem; esta é a intenção de todos os legisladores; os que não a põem corretamente em prática falham em seu objetivo, e é sob este aspecto que a boa constituição difere da má.
+
+ARISTÓTELES. “Ética a Nicômaco”. In: MARCONDES, D. Textos básicos de Filosofia. Rio de Janeiro: Zahar, 2009. p. 58. (Adaptado)
+
+ENUNCIADO: Em “Ética a Nicômaco”, Aristóteles tece considerações sobre as virtudes humanas. A esse respeito, as suas asserções implicam o reconhecimento de que o aprimoramento humano
+
+Qual é a formulação que o texto atribui ao aprimoramento humano?",se manifesta como um devir,353717c67fa80371d0ede186c612b787987055278f4e90bbfc5c0ca0135012fd52a9075a2827fc953def2aac82864b76eafc0bcd1f5a75637be70c042b1ef0a1,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Em meados dos anos 1970, Werner Herzog foi à Pensilvânia, nos EUA, filmar o World Livestock Auctioneer Championship, o campeonato mundial de leiloeiros de gado, e a experiência resultou no documentário How Much Wood Would a Woodchuck Chuck (1976). Nele, assistimos a uma estonteante sequência de recitações em altíssima velocidade, hipnóticos pregões, incompreensíveis anúncios de compra e venda [...], a ladainha do capitalismo feroz. O subtítulo do documentário, Beobachtungen zu einer neuen Sprache (Observações sobre uma nova linguagem), é revelador: Herzog acreditava que a fala hiperveloz dos leiloeiros era a última poesia possível, a verdadeira poesia do capitalismo [...]. Para o diretor, toda época possui sua linguagem extrema [...], e a do século XX era justamente a voz do ritual frenético do leilão [...]. É isso que o nosso tempo deve aprender [...], sob pena de aniquilação [...]. Ao contrário do que afirmam tradicionalistas de uma nota só, o nosso não é o tempo do vale-tudo – este quase sempre relacionado a uma suposta dissolução estética, mas também ética, que nos impediria de enxergar um Rumo [...]. Não é que não saibamos para onde ir. Em termos planetários, aliás, temos pouquíssimas saídas, mas muitas, muitas maneiras de apontá‑las [...]. É necessário [...] escutar a bruta e oca poesia dos leilões de gado para descobrir como não ser gado. Só assim seremos capazes de dar, enfim, um nome ao nosso tempo.
+
+HERINGER, V. Vida desinteressante. São Paulo: Companhia das Letras, 2021 (adaptado).
+
+Pergunta: De acordo com o cronista, o que o artista deve fazer para estar conectado ao seu momento histórico?
+
+Resposta: Criar a partir da realidade de seu tempo.",Criar a partir da realidade de seu tempo.,f1a4ad44435625363d928326e8f918c62a2490c97e5799902544b218b8da5e57406cbe1b18c639309bb149e5ba6937d31435a52b66426d271317a4df94cea883,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Para evitar surtos de doenças, é comum que os governos promovam campanhas de vacinação a fim de imunizar populações. As vacinas são aplicadas em pessoas de diferentes idades (de crianças a idosos) e registradas em um cartão individual para cada uma. Em uma pesquisa realizada para verificar o grau de imunização de um grupo de 1 000 indivíduos, descobriu‑se, por análise dos cartões individuais, que 920 receberam a vacina de sarampo, 880 receberam a vacina de tétano e 850 tomaram as duas vacinas.
+
+Considerando os dados apresentados, qual a porcentagem de indivíduos desse grupo que não foram vacinados?",5%,82dfb704cff084d2ed09b741cca517033a783895365c086a4379b561479cf22144fb96cee5dadc4f511acb4b6744c8b8bdd7013ec9b78b264bc0860cd8665836,Matemática,train
+"TEXTO DE REFERÊNCIA: O telescópio espacial James Webb foi desenvolvido para permitir uma nova geração tecnológica de observação e pesquisa espacial, sendo atualmente o equipamento mais potente de seu tipo. Com 6 toneladas e estando a 1,5 × 10⁶ km de nós, conhecido como ponto L2, sua magnitude nem se compara com o planeta o qual orbita, tendo a Terra aproximadamente 6 × 10²⁴ kg. Mesmo assim, já se tornou nossos olhos para o universo e o além, captando imagens a incríveis 500 milhões de anos‑luz do planeta.
+
+Dadas as condições do telescópio e a constante gravitacional universal de 6,67 × 10⁻¹¹ m³ kg⁻¹ s⁻², qual é a força de atração gravitacional que o James Webb exerce sobre a Terra?","1,06 N",7515fe733b4aa75d41234489c6a026810e4a06fdd49cc7322fb90c63e01d9ecb079c027f845d5b2fc7794e5ea58e2ba012388fc0eee47f14bccbf5c0fe7aa2db,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Uma fábrica de placas de isopor estuda os efeitos da propagação de calor no interior de seus produtos, uma vez que são implementados como isolantes térmicos.
+
+Os isopores são manufaturados como cubos de lado igual a 40 cm. Para a determinação da sua condutividade térmica, foi realizado um teste colocando um dos lados do isopor a uma diferença de temperatura igual a 80 °C, com fluxo de calor igual a 1 W. Considere que não há perda de calor para o ambiente.
+
+Ao fim do teste, o valor encontrado para a condutividade térmica do isopor, em W·m⁻¹·°C⁻¹, é mais próximo de","3,0 × 10⁻²",b439d1122a7fd9f6f228d647ff1d66d9a02ef9e15bf314d054951638e98bdc6e92c48183b42bec7c923c47dafd5456d8ab06678dd4f378bb068d6464445d66c6,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Uma loja de produtos eletrônicos vende suas mercadorias aceitando pagamento parcelado, de modo que o cliente dá uma entrada de 20% no ato da compra e o valor restante é dividido em duas prestações iguais, pagas, respectivamente, em 30 e 60 dias após a aquisição da mercadoria. Nessa loja, cada parcela incorpora juros de 10% ao mês, contados desde a compra até o momento do pagamento.
+
+Em relação ao valor máximo que o cliente pretende gastar (R$ 3 500,00), o valor total a ser pago pela televisão de preço à vista R$ 3 000,00 é cerca de:","R$ 134,20 menor",3b02c3e69775784844fb5b5fdfd32f058f5265bb9d821521408b4c261d400728c6170967e80c9cb89f14e87ae119a3482d2761598ffd55d211ddcf4fd12d530b,Matemática,test
+"TEXTO DE REFERÊNCIA: Oração ao tempo
+
+És um senhor tão bonito quanto a cara do meu filho…
+Tempo, tempo, tempo, tempo, vou te fazer um pedido…
+Tempo, tempo, tempo, tempo…
+
+Compositor de destinos, tambor de todos os ritmos…
+Tempo, tempo, tempo, tempo, entro num acordo contigo…
+Tempo, tempo, tempo, tempo…
+
+Por seres tão inventivo e pareceres contínuo,
+Tempo, tempo, tempo, tempo, és um dos deuses mais lindos…
+Tempo, tempo, tempo, tempo…
+
+VELOSO, Caetano. Oração ao tempo. Cinema transcendental. Rio de Janeiro: Universal, 1979. Fragmento.
+
+Na canção, a evocação ao tempo fica evidente principalmente por conta do(a) ______.",utilização de vocativos,7784f56b28a7d93db63d14b0fd69d1b2fc7921404dd4b1fdc011bc3720851d98c96dd92b74e3c56502fc8d675a29992270f499ffb420cf0c72747e36598af82b,Linguagens e Códigos,test
+"TEXTO DE REFERÊNCIA: Sul-Americanas (Unasul) para integrar o Fórum para o Progresso da América do Sul (Prosul). A decisão foi comunicada oficialmente pelo Ministério das Relações Exteriores ao governo do Equador, país depositário do tratado da Unasul. As nações que lançaram o Prosul entenderam que a Unasul, da forma como funcionou desde sua criação em 2008, perdeu efeitos práticos, mantendo custos, e passou a disputar decisões sobre temas que já são tratados em outras instâncias, como o Mercosul. O Prosul não deve ter um tratado e não será um organismo, como a Unasul.
+
+Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 19 out. 2020. (adaptado)
+
+Segundo o texto, a saída do Brasil do tratado mencionado é justificada por:",esgotamento da política de integração regional,c9f6d0e96d747cf852aaa8280ffa681bb7bcd67a5492196bf6e92d9cb1b8e03e51dd645a3a5e36727136edd3e7bc78b57ad352744e17fe62c8a70159898106e6,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: O uso de turbinas a gás pode contribuir para o aumento das emissões de gases de efeito estufa nos casos em que a energia térmica utilizada para realizar trabalho provenha da queima de combustíveis fósseis. A última etapa desse ciclo de obtenção de energia útil consiste em expelir os gases da combustão para o ambiente externo. Durante o funcionamento de uma dessas turbinas, percebeu‑se um aumento da eficiência durante todo o ciclo, que pode ser considerado aproximadamente um ciclo de Carnot.
+
+Considerando o texto de referência acima, o ganho de eficiência ocorreu devido a um(a) ______?",resfriamento da fonte fria,4889a57c617fff1acca4443621454c65350b554cc73bc6dd33d1bf34c5dd442e828ca69fe6589683a7f870b94a0432ef304a0047dfa43dfb88bd43ca26ef555b,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: O cálculo da depreciação anual (Dp) de um veículo leva em consideração três fatores básicos: o custo de aquisição (Cv), o valor residual (Vr) e os seus anos de vida útil (t), que se relacionam segundo a expressão: Dp = (Cv - Vr) / t. De acordo com a Receita Federal do Brasil, automóveis destinados ao transporte de passageiros têm o valor residual igual a 20% do custo de aquisição do veículo e um tempo de vida útil de 5 anos. Nesse caso, um automóvel que custou R$ 82 000,00 sofrerá uma desvalorização mensal, em real, de, aproximadamente, qual é o valor da desvalorização mensal (em reais)?","1 093,00",8969ada54c2ff40e9102fccb1850df8151021a68f9c898e3794d64e8700ace786ecb0a81158f3a6b1c3c6d478e02835f5b302c3609e102fa1a6c9a4a2604bbf0,Matemática,train
+"TEXTO DE REFERÊNCIA: Os biopolímeros são polímeros ou copolímeros produzidos a partir de matérias‑primas de fontes renováveis, que são assim conhecidas por possuírem um ciclo de vida mais curto comparado com fontes fósseis como o petróleo. Alguns fatores ambientais e socioeconômicos que estão relacionados ao crescente interesse pelos biopolímeros são: os grandes impactos ambientais causados pelos processos de extração e refino utilizados para produção dos polímeros provenientes do petróleo, a escassez do petróleo e aumento do seu preço. Outro fator preponderante é a não biodegradabilidade da grande maioria dos polímeros produzidos a partir do petróleo.
+
+Qual ganho socioeconômico resulta do investimento na produção em larga escala de biopolímeros?","Diminui a quantidade de resíduos sólidos no ambiente, reduzindo os prejuízos financeiros associados à poluição.",677893621b297577541fd80398e7f496ac85bbf7dc616a7d54bf2a966bef613c538f87bb3813994b3735afd83931344348685ea0f1f8cba1a6dd5dd22eb1ae50,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: “Sócrates finge a ignorância e a imprudência. “Ele passa seu tempo”, diz Alcebíades, “a se fazer de ingênuo e infantil com as pessoas”. Seu ar ignorante é a “exterioridade com a qual ele se cobre”.
+
+(Pierre Hadot. *Exercícios Espirituais e Filosofia Antiga*)
+
+Com base no texto acima, qual é o conceito socrático ao qual ele se refere?",Ironia,089ba8cc83cc594108863f6cbb755cf5a84b672139affd1cbf36b7f5acd0e5ac6c72b3325d999ca6a0152f1ea0c903bac3a94f006dd586ab396b1c43aca5a89d,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Algumas das aplicações da Inteligência Artificial (IA) no campo, presentes ou futuras, são relativamente conhecidas, como as previsões meteorológicas cada vez mais focadas e precisas ou os vários projetos de veículos agrícolas automatizados. Mas essa, por assim dizer, é a ponta do iceberg. Os maiores ganhos potenciais em eficiência e sustentabilidade estão atrelados ao uso da IA no monitoramento do solo e da irrigação. A lavoura é uma das principais consumidoras de água do País. De acordo com a Agência Nacional de Águas (ANA), nossas propriedades rurais retiram dos rios cerca de 32 trilhões de litros para irrigação em um ano, o que corresponde a quase 50% da água consumida no Brasil.
+
+[...] A maior parte da nossa agricultura não conta com sistemas de irrigação e depende, portanto, do regime de chuvas. Logo, qualquer implemento que torne o consumo de água mais eficiente é bem‑vindo, especialmente em um cenário de escassez crescente desse recurso natural diante do quadro de mudanças climáticas.
+
+Qual é a principal ideia defendida no artigo de opinião?",O uso da IA para monitoramento do solo e da irrigação é benéfico ao setor agrícola.,58c24c6eb9d85fc4900b1f3cd8edf35ab8aa98cfa148ef51e66f41818c14d9f9123c466a9eb1239394854d16d0f430a53536b35109f58680a02c331e349b73fb,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: O tenessino (Ts) foi descoberto em 2010, num trabalho conjunto entre cientistas russos e americanos. Porém, apenas no ano de 2015, sua descoberta foi oficialmente confirmada. O trabalho dos cientistas foi conduzido em um acelerador de partículas, onde um alvo contendo uma amostra de berquélio-249 foi bombardeado por partículas de cálcio-48, resultando no seguinte processo de fusão:
+
+249
+97
+
+Bk → 4820 Ca → 294117 Ts → 3X
+
+No entanto, como o tenessino não ocorre naturalmente e pouquíssimos átomos dele foram sintetizados, seu uso está relacionado apenas à pesquisa científica.
+
+Qual é a espécie X formada no processo de fusão descrito?",nêutron,daa5d58e1623969514441b9639c9796d917fc45f46545e8bb06228219b1d92772e9d08a050fcdfbd3b29625ee64f5bb46c6369112f5b860a49f8e6d9620a07af,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A Agência Nacional de Vigilância Sanitária (Anvisa) define como automedicação a prática de utilizar medicamentos por conta própria ou por indicação de terceiros. E a prática é mais comum do que se imagina: a Organização Mundial da Saúde (OMS) estima que mais da metade dos medicamentos sejam prescritos, dispensados ou vendidos de forma inadequada. Como se não bastasse, metade dos indivíduos os utiliza incorretamente.
+
+No Brasil, os dados são ainda mais alarmantes. Estudo conduzido pelo Instituto Datafolha a pedido do Conselho Federal de Farmácia (CFF) apontou que cerca de 80% das pessoas que vivem no país têm o hábito de se automedicar – 25% delas fazem uso de medicamentos por conta própria diariamente ou pelo menos uma vez por semana. Uma rotina perigosa. A definição do tratamento é individual e leva em conta uma infinidade de aspectos inerentes a cada pessoa. O medicamento que apresenta determinado efeito em um indivíduo dificilmente terá comportamento idêntico em outro, se ministrado na mesma quantidade e frequência. Por isso a importância de ouvir sempre um especialista – mais do que definir a abordagem inicial, ele deve acompanhar o tratamento para ajustar dosagens ou mesmo substituir medicamentos se for o caso.
+
+Disponível em: <https://gauchazh.clicrbs.com.br>. Acesso em: 1 mar. 2023.
+
+ENUNCIADO: O artigo de opinião, a fim de defender sua tese acerca da prática de automedicação, utiliza como estratégia argumentativa a",apresentação de dados que confirmam esse hábito.,b54ffcf7b8fd4cd69ddb08d2c2f78f289eace47c72d8832a8aada0265cbf687fc75cd4f3b3b7364d088610205470f806e69ebd2d0494331c22473edc48709921,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Qual a influência da tecnologia no esporte?
+Modalidades esportivas como o vôlei, o futebol, a natação, a esgrima, o atletismo e outros já se beneficiam do uso de inovações tecnológicas.
+As principais tecnologias responsáveis por esses avanços são:
+Nanotecnologia: envolve a fabricação de tecidos com nanopartículas, que se enrijecem em caso de impacto, a fim de proteger o atleta de lesões;
+Biomecânica: bastante difundida na natação, monitora as braçadas e saltos dos atletas.
+Olho de falcão: usado nas quadras de tênis, essa tecnologia representa um sistema de câmeras de monitoramento, capazes de identificar a bola de qualquer ângulo após seu lançamento.
+TIC (Tecnologia de Comunicação e Informação): inteligência artificial usada em jogos diferentes para ajudar o treinador a identificar os pontos fortes e fracos de seus atletas.
+
+Disponível em: <www.master.org.br>. Acesso em: 13 jun. 2023. (Adaptado)
+
+Com base nesse texto, a nanotecnologia é responsável por",fabricar tecidos com nanopartículas para proteger o atleta de lesões,f142861f2d15fa109f8e85fde7a03e91490ea8874c92c50e78fbed76af66f9ed239c562a31e7362428d5b0c2ac36a0d26584aa0caa0878d3ef8127e5cd784c0a,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA:
+
+TEXTO I:
+Depois de enfrentar problemas com o desabastecimento de alimentos e bebidas, que esvaziaram as prateleiras de vários supermercados, além da alta dos preços e da interrupção de vendas de produtos de fast‑food, os britânicos agora fazem fila para abastecer seus carros, temendo a escassez de gasolina. O principal nó na logística de fornecimento de produtos no Reino Unido, atualmente, é a escassez de motoristas de caminhão, atividade essencial na distribuição de bens de consumo pelo país.
+
+Disponível em: <https://exame.com>. Acesso em: 25 nov. 2021 (Adaptação).
+
+TEXTO II:
+De acordo com associações do setor de transporte, o Brexit (saída do Reino Unido da União Europeia) foi uma das razões pelas quais muitos motoristas com cidadania europeia regressaram aos seus países de origem ou decidiram trabalhar em outro lugar. A burocracia na fronteira imposta após o Brexit tornou muito difícil para a maioria deles entrar e sair do Reino Unido. Conforme foi sinalizado, os motoristas são pagos por quilometragem, e não por hora, e, portanto, atrasos custam dinheiro a eles.
+
+Disponível em: <www.bbc.com>. Acesso em: 9 dez. 2021 (Adaptação).
+
+Com base nos textos acima, qual foi a consequência do Brexit que contribuiu para a crise de abastecimento no Reino Unido?
+
+",imposição de barreiras alfandegárias,df89709c3cc6e1b6f0b594383f4be274be6d4ae81cb72bb4fbc7d4dd72a5c64b2ae5e83983147e5d8f72ef13614579f632dde1198987986f55e6e928e449ddc0,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Aletas são estruturas estendidas fixadas em alguma superfície de alta temperatura, visando aumentar a área de transferência de calor e, consequentemente, a taxa de dissipação de calor dessa superfície. A transferência de calor entre a superfície e o fluido é diretamente proporcional à diferença de temperatura entre ambos.
+
+A tabela apresenta os valores de propriedades térmicas de alguns metais.
+
+| Propriedades                     | Aço   | Zinco | Cobre | Níquel | Alumínio |
+|----------------------------------|-------|-------|-------|--------|----------|
+| Calor específico (J/kg·K)       | 434   | 389   | 385   | 444    | 903      |
+| Condutividade térmica (W/m·K)    | 61    | 116   | 401   | 91     | 237      |
+| Coeficiente de dilatação (K^-1)  | 1,1·10^-5 | 2,6·10^-5 | 1,7·10^-5 | 1,3·10^-5 | 2,2·10^-5 |
+
+Qual metal, dentre os listados na tabela, deve ser escolhido para as aletas a fim de maximizar a taxa de dissipação de calor?",cobre,0414ebcc52f8bb66c9a850bccee6dfcaf58e7ec3bd810f48ad21ce9f8a1e7bf98773e6d0f74a9ce76e8a96d9430b992d50aeb3e305ba1f55444d18924b7589da,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: “Os srs. sabem, V. Exas. sabem que o povo indígena está muito distante de poder influenciar a maneira que estão sugerindo os destinos do Brasil. Pelo contrário. Somos talvez a parcela mais frágil nesse processo de luta de interesse que se tem manifestado extremamente brutal, extremamente desrespeitosa, extremamente aética. Espero não agredir, com a minha manifestação, o protocolo desta Casa. Mas acredito que os srs. não poderão ficar omissos. Os srs. não terão como ficar alheios a mais esta agressão movida pelo poder econômico, pela ganância, pela ignorância do que significa ser um povo indígena.”
+KRENAK, Ailton. “Discurso à Assembleia Nacional Constituinte em janeiro de 1988”. Disponível em: <https://www2.camara.leg.br>. Acesso em: 5 nov. 2020.
+
+Com base no excerto acima, o texto evidencia que o(a) discurso é:","não apenas um apelo, mas também uma crítica à política nacional.",36c94101d1b7437d49b2a2d05f178050cbcb41c18f05f4e21af9c35591d2a91edeb38dcd24deacfb14961fad73910dd804151fe36628a3d1a88ef4b5a1cda525,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Um peso de papel será confeccionado no formato de uma pirâmide, com altura medindo 4 cm e base quadrada de lado 5 cm. Toda a estrutura do objeto será maciça e feita unicamente de ferro. A densidade do ferro é 7,874 g/cm³. Qual é a massa total desse objeto, aproximadamente?","262,2 g",7133a03d28ee51be0c6ae85147dea4135440fbcf76e2dca253ac294212b68bd31ab1763c5be535adc9c5a88e5ac6c1fa6dfeb16393723df0531557ed368d9b22,Matemática,train
+"TEXTO DE REFERÊNCIA: O índice de massa corporal (IMC) é uma fórmula utilizada para verificar o nível de obesidade de uma pessoa. Essa fórmula é calculada pelo quociente da massa, em quilograma, pelo quadrado da altura, em metro. O quadro a seguir mostra o IMC e suas respectivas categorias.
+
+IMC (kg/m2) — Classificação:
+Abaixo de 18,5 — Baixo peso
+Entre 18,6 e 24,9 — Peso ideal
+Entre 25 e 29,9 — Sobrepeso
+Entre 30 e 34,9 — Obesidade grau I
+Entre 35 e 39,9 — Obesidade grau II
+Acima de 40 — Obesidade grau III
+
+Uma pessoa percebeu que estava com obesidade grau II ao constatar que seu IMC era igual a 36 kg/m². Assim, seu médico sugeriu que, em um primeiro momento, ela fizesse uma reeducação alimentar e, depois, iniciasse a prática regular de exercícios físicos. Somente com a mudança nos hábitos alimentares, essa pessoa conseguiu reduzir 25% de sua massa corporal, e, com a introdução da atividade física, seu corpo perdeu mais 20% da massa obtida após a primeira redução, sem que a sua altura fosse alterada durante esse processo.
+
+ENUNCIADO: Ao calcular seu IMC após essas duas reduções de peso, qual a classificação, segundo a tabela apresentada, de um indivíduo com o IMC resultante?",peso ideal,299a730270998a8a5a8c9f3a4b7ee94f4ce3eadffc80ee0c264377dd64d852fce44d4452dccac229e4c850b44d0a4cbe271d5c33b94bb90f154d0d593def21aa,Matemática,train
+"TEXTO DE REFERÊNCIA: Um cavalete de madeira possui quatro pernas idênticas de mesmo comprimento, todas em contato com o piso horizontal e unidas em pares por dobradiças localizadas em pontos de apoio.
+
+As dobradiças mantêm as pernas do cavalete afastadas por certo ângulo uma da outra, de modo que cada par de pernas unidas pela dobradiça, juntamente com o solo, forme um triângulo.
+
+Considerando que as duas pernas de cada par têm o mesmo comprimento e o solo forma a base do triângulo, que tipo de triângulo é formado por cada par de pernas e o solo?",Isósceles,903656b14a34947ccb2e25461715b24949c6c61009213d3aec2f8293bca1c41afd2ed93c4d16bb9a94815071d94a6e988421fe7c77c241ce46545bbf4de6ff89,Matemática,train
+"TEXTO DE REFERÊNCIA: A imagem a seguir traz um exemplo simplificado de um dos experimentos de Mendel:
+
+Disponível em: <https://vestibulares.estrategia.com>. Acesso em: 25 mar. 2024 (Adaptação).
+
+Qual é a explicação para o resultado da proporção fenotípica observada na geração F2?",Separação dos alelos ocorre durante a meiose.,1906299e13fc4ff0503c0836abf2b385b6ef97281fe941742ccbb47ff317feee3c612f077b1fa427d263a3d5d6a92e7587c5caf84819fe063555710b134fd836,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Ao longo de seus quase 470 anos, a capital paulista pôs abaixo boa parte de sua vegetação nativa para que casas, prédios e indústrias fossem construídos. Hoje, as árvores se concentram nos 39 parques estaduais e municipais e em poucos bairros – Jardins, Pinheiros e Morumbi, na Zona Oeste, e Moema, na parte da Zona Sul mais próxima ao Centro. Mas à medida que se segue rumo a Capão Redondo e Jardim Ângela, no miolo da Zona Sul, o braço mais longo da cidade, a cerca de 20 quilômetros do Centro, as árvores escasseiam e a temperatura se eleva.
+
+ZORZETTO, R. “A cidade de 77 climas”. Disponível em: <https://revistapesquisa.fapesp.br>. Acesso em: 26 maio 2022. (Adaptado)
+
+Qual fenômeno climático é mencionado no texto?",Ilha de calor,b5e8cf9e81b47c92486626455642f5d502759cc079f08ec9bd028fe166b58fe76c7a974972c8dc2343eeefd98fbbf70001ab96f38a20b10a907a062a4c188e7c,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: No modelo atômico de Bohr, percebemos que quando um átomo, por meio da transição de elétrons, realiza uma mudança de um nível de energia mais alto para um nível de energia mais baixo, ocorre a liberação de energia sob a forma de luz. O espectro de emissão e de absorção do átomo é como a impressão digital dele. É com base nessa impressão digital que se estuda a composição atômica dos mais variados compostos e até mesmo das estrelas.
+
+Disponível em: www.if.ufrgs.br. Acesso em: 3 fev. 2020.
+
+Com base no modelo atômico de Bohr, por que é possível analisar a composição atômica de diversos compostos?",Porque as frequências de onda das transições eletrônicas são únicas para cada átomo.,e87ca83db28a08b6244e71a3a60306f030189c19ec01a3cc496ca8064e16a213f1e8dc2587b92bbc96b5de60e25cf87ad9c4d6e2ecc1c47a8e05fcc489d4efaa,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: O cúbito babilônico era a unidade padrão de comprimento na Babilônia (região atual do Iraque), equivalendo a 530 milímetros. Um de seus submúltiplos era o shusi, definido como a trigésima parte dessa unidade.
+
+Disponível em: <https://canalmetrologia.com.br>.
+
+Acesso em: 3 nov. 2021 (Adaptação).
+
+Um arqueólogo encontrou um objeto de origem babilônica em uma escavação cujo comprimento estava gravado nele e era de 12 shusis.
+
+Com base nessas informações, o comprimento desse objeto, em centímetro, era de","21,2",b0ec4442b7268f22f863a26279e0d1fa092c407c9c384f6018a1badba485db704f115c7065ba224146c0f0bccd8afa3b89c895c7398f4159642b85028d2eefe7,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A dança como atividade para pessoas com deficiência física é um trabalho relativamente recente no Brasil, com pouca tradição e sem muitos documentos que ofereçam subsídios para a discussão desta proposta.
+
+A dança inclusiva é um trabalho no qual os focos terapêuticos e educacionais não são desprezados, mas a ênfase encontra-se em todo o processo do resultado artístico, levando em consideração a possibilidade de mudança da imagem social e inclusão social dessas pessoas, pela arte de dançar. Dentro da dança inclusiva, uma de suas vertentes é a dança esporte, definida como uma atividade física relacionada à música, englobando um usuário de cadeira de rodas (deficiente físico) com um parceiro em pé (não deficiente), auxiliar bailarino, em uma atividade competitiva.
+
+No Brasil, ela foi desenvolvida por grupos independentes, vinculados a clubes, universidades, associações de deficientes, prefeituras municipais, centros de reabilitação e algumas escolas de dança isoladas. Porém, não existem grupos oficialmente regulamentados e mantidos pelos órgãos governamentais.
+
+OLIVEIRA, A. et al. Benefícios da Dança Esporte para Pessoas com Deficiência Física. Rev. Neurociências, 10(3): 153-157, 2002. Disponível em: <https://periodicos.unifesp.br>. Acesso em: 10 nov. 2023. [Fragmento]
+
+Qual é o objetivo do texto em relação à dança inclusiva no Brasil?",apresentar a dança como meio expressivo das pessoas com deficiência,046c8ef253b13d012d477445de36cfa973ea223363679c2e94e03c9680c51997015219d351db8db9a7dd5ce8739d2f2402ed1ebbba81a7502ccd3c5a2c58f3c3,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Meus amigos me perguntam lá na escola
+Quando eu crescer, que que eu vou ser
+Eu falei que eu já sou formado na pecuária
+O menino da pecuária
+
+De ponta a ponta o Brasil tem boiadeiro movimentando
+
+a parada
+Não é à toa que o PIB começa com P, de pecuária
+
+Eu não tenho carro importado
+Mas a Hilux é do ano toda suja de barro
+Calculo o valor que tá o gado
+Quantas Ferrari tem aqui neste pasto
+
+TARGINO, L.; SOARES, R.; ALESSI, R. “Os menino da pecuária”. Intérprete: Léo & Raphael. In: Os menino da pecuária. 2022.
+
+ENUNCIADO: A letra da canção valoriza o campo brasileiro e indica que ele é responsável por:",contribuir para o desenvolvimento econômico do país,ca1f37eb8ab2a62d4ddbe8e0d2c33e335a85d1f53c4dac472c42a30f73e14a36bfaa1e5c167c865b317fa899044a23b33e73b29e5ca1491eccd464fb8b2f6867,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: TEXTO I
+
+Grito da favela, voz do morro cantando a liberdade, som da massa, o _funk_ é um dos ritmos mais malditos da cultura popular brasileira. Seus detratores afirmam que o _funk_ não é música, que seus cantores são desafinados, suas letras e melodias são pobres e simples cópias malfeitas de canções _pop_ ou mesmo de cantigas tradicionais populares. Há ainda os que demonizam o batidão, associando‑o à criminalidade, à violência urbana ou à dissolução moral.
+
+FACINA, A. Não me bate doutor? _Funk_ e criminalização da pobreza. In: V ENECULT, 2009, Salvador. V Encontro de Estudos Multidisciplinares em Cultura. Salvador: ENECULT, 2009.
+
+TEXTO II
+
+O movimento _funk_ constitui‑se hoje em uma atividade de lazer e cultura popular das mais importantes do país, reunindo em torno de 1 milhão de jovens apenas na Região Metropolitana do Rio de Janeiro. Assim como ocorreu com o _rock_, a capoeira, o _reggae_, o samba e a hoje considerada inocente valsa que é, à época, chegou a ser motivo de escândalos, o _funk_ enfrenta toda ordem de discriminação e tentativas de desmobilização por parte de segmentos da sociedade que veem este movimento como inúmeros outros, nascidos das chamadas classes subalternas.
+
+MARTINS, D. Disponível em: www.overmundo.com.br. Acesso em: 16 set. 2022.
+
+O contraponto apresentado pelo Texto II ao Texto I está fundamentado em uma crítica que",remete a uma condição estrutural da sociedade brasileira.,0eccdd6876c0c876cbe76788a1fc09187cc5c0b08d1a21d5016bf355bea4c49bc67eaa2fcc308c66228fe4f56a0d8dabcf146af7b5ccfabb1f1059ef053fc7bb,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Em uma academia de ginástica, há três tipos de atividades disponíveis: crossfit, musculação e dança. Sabe‑se que há 140 alunos nessa academia e que todos eles praticam ao menos uma dessas atividades. Desses alunos, 10 participam das três modalidades, 114 fazem as aulas de dança ou musculação e 110 praticam musculação ou crossfit. Tem‑se que o número de alunos que fazem exatamente dois tipos de atividades é o quádruplo daqueles que fazem as três modalidades oferecidas na academia.
+
+Quantos alunos praticam apenas musculação?",34,f7e67386a6aaf70dfefc569672fbf0d441950771d6df32823d06895ce50a8786f2cdf274451f84cf90e89db9b99c96ecde8e517ede5c1e8952325d1a819af830,Matemática,train
+"TEXTO DE REFERÊNCIA: Tabela de pacotes de resorts pesquisados:
+Local | Valor do pacote (R$) | Diárias
+Maceió | 8 000,00 | 4
+Porto de Galinhas | 10 500,00 | 5
+Fortaleza | 10 400,00 | 8
+Porto Seguro | 8 400,00 | 7
+Angra dos Reis | 7 800,00 | 6
+No momento de escolher a viagem, a família optou pelo pacote com o menor custo da diária. Qual resort foi escolhido pela família?",Porto Seguro,7af27c67bf76c1828f6d8ad4872a4e7370f21b5b16f679679263f3b71a6c1de29d1571519b9d397244a5e38678f8f2f8a150965d9f16d65e754795b2229104e7,Matemática,train
+"Tanto em Portugal quanto nas terras descobertas e que prosseguiram na sua posse, vigoraram essas leis, transferindo‑se para as colônias, por consequência, toda a complicada máquina funcional respectiva, composta de provedores, ouvidores, capitães‑mores, oficiais da Fazenda, alcaides encarregados do abastecimento e segurança das praças mais distantes, e tantos outros agentes do poder público, [...] já que à Coroa interessava a remessa periódica dos impostos arrecadados para a metrópole.
+
+CARMIGNANI, M. C. da S. A justiça no Brasil Colônia. Revista da Faculdade de Direito, Universidade de São Paulo, [S. l.], v. 113, 2018. p. 47.
+
+Qual era o objetivo da implementação de uma legislação no Brasil nesse contexto de ocupação territorial?",reforçar a prática administrativa lusitana,3913ed68ba67bf3e62b21e53ae5388e0c5968c2ba5b3bb8aaa51a2717b718b3a2a8eb7b08ac383d57f517cbc81997eb8cdce9905a27434fe3ec887d2654cb893,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA: O que é a poluição do solo
+
+Este mal invisível aparece quando a concentração de componentes poluentes na superfície é tão alta que causa danos na biodiversidade do solo e coloca em risco a nossa saúde especialmente através da alimentação. Mais precisamente, atividades como a pecuária e a agricultura intensivas costumam utilizar medicamentos, pesticidas e fertilizantes que contaminam os campos, da mesma forma que acontece com os metais pesados e outras substâncias químicas de origem natural ou antropogênica.
+
+Disponível em: <www.iberdrola.com>. Acesso em: 22 ago. 2023.
+
+Qual outra atividade humana contribui diretamente para esse tipo de poluição?","Descarte de rejeitos em lixões, liberando líquidos poluentes.",073e1da1cc91c9a4aa9af2d18e1b596481d3f28bb1e313bcbb5c80ebc4789a13570924b70a371c7162762886abe3f2e581a1c76098af6cdd4c1c5afa229fabff,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Para testar a eficiência energética de um modelo de micro-ondas, uma empresa colocou dentro dele um recipiente de capacidade térmica desprezível contendo 400 mL de água. Ao ligar o micro‑ondas em sua potência máxima por 20 s, a temperatura da água aumentou em 10 °C até o final do aquecimento. Para obter essa eficiência, calcula‑se a razão entre a energia efetivamente utilizada por segundo durante o aquecimento e a energia elétrica por segundo consumida pelo aparelho.
+
+Sabendo que o modelo testado consome 1 200 J de energia elétrica por segundo, que 1 cal = 4,2 J, que o calor específico da água é igual a 1 cal · g⁻¹ · °C⁻¹ e que 1 litro de água equivale a 1 kg, qual é a eficiência energética desse aparelho?",70%,7b4f7fd9f02fb47d9994319cee792c84ee14781dbff27f8853a099b1004c87bceef09c2f49eb91d5e4f32c6bce4be9a78d3361ad0a5f6b46512ff631b1df3bea,Ciências da Natureza,test
+"TEXTO DE REFERÊNCIA: Em 1979, Shenzhen era uma pequena cidade rural, de 50 mil habitantes. Um ano depois, o governo fez de Shenzhen uma das Zonas Econômicas Especiais (ZEE) do país. Após 20 anos, a cidade tornou‑se um importante centro industrial de onde saíam produtos dos mais variados e consolidou‑se como uma das estrelas da revolução econômica da China. Seu tamanho acompanhou sua crescente importância: a população de Shenzhen, que em 2001 já era de mais de 7 milhões de habitantes, chegou a mais de 12 milhões em 2020.
+
+“Como duas décadas de expansão criaram o ‘século da China’”. Disponível em: <https://www.bbc.com>. Acesso em: 20 dez. 2021. (Adaptado)
+
+Com base no texto acima, qual foi o objetivo principal do governo chinês ao criar Zonas Econômicas Especiais como a de Shenzhen?",Atrair investimentos estrangeiros.,b5ca955f39f8a0464f500a25f5cec43055ef1a4f04103925942770a2a9b3feba0d6f2467c66712d393eb5cc221afe6b8f32c2fd934586c51e75db6324d7538ed,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Em um acampamento previsto para 30 dias, 50 pessoas ficarão alojadas em barracas com suprimentos alimentares, que foram distribuídos igualmente em porções diárias de 750 gramas por pessoa. Devido a questões pessoais, 20 pessoas do grupo retornaram para suas residências 5 dias antes do previsto inicialmente. Por isso, para evitar o desperdício dos suprimentos alimentares, os demais integrantes deverão redistribuir, igualmente entre eles, a quantidade remanescente de suprimentos para os dias restantes.
+
+Nessa nova circunstância, a porção de suprimentos diária por pessoa, em grama, será de:",1250,6f2cc271b19ea7948d4195d7bda157206ef5a1134fcd3de464a9b934daaca6bb4cf97bdd6d529167b17d4664d1ff94b371e26a5c7286a4c599a3ddbed0253d01,Matemática,train
+"TEXTO DE REFERÊNCIA: A um poeta
+
+Longe do estéril turbilhão da rua,
+Beneditino escreve! No aconchego
+Do claustro, na paciência e no sossego,
+Trabalha e teima, e lima, e sofre, e sua!
+
+Mas que na forma se disfarce o emprego
+Do esforço: e trama viva se construa
+De tal modo, que a imagem fique nua
+Rica mas sóbria, como um templo grego
+
+Não se mostre na fábrica o suplicio
+Do mestre. E natural, o efeito agrade
+Sem lembrar os andaimes do edifício:
+
+Porque a Beleza, gêmea da Verdade
+Arte pura, inimiga do artifício,
+É a força e a graça na simplicidade
+
+BILAC, Olavo. “A um poeta”. Tarde. São Paulo: Principis, 2021.
+
+No poema de Olavo Bilac, o foco da poética parnasiana na forma de composição literária manifesta‑se na:",tematização do próprio fazer poético,51bb7460c34b0503741f4dffd49814a8351e9e64ca575880d5dd12b975d700161990a36f9a9f241e007324076d14cab0ef17cfda51e1c8e4d92eba54f3e85f03,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: Por anos, o vendedor paulista Alessandro Guerra Prudente, 23 anos, se queixou de sentir uma leve aceleração do lado direito do peito, mas nunca entendeu o motivo. […] Ao tentar tratar um problema gástrico, o rapaz foi surpreendido pelos médicos com a notícia de que tem importantes órgãos localizados no lado “errado” do corpo. […] Exames de imagem mostraram que o fígado, geralmente disposto do lado direito do abdômen, está no esquerdo. O baço, que deveria estar à esquerda, aparece à direita. Alessandro foi diagnosticado com situs inversus, uma condição rara com incidência de apenas 0,1 % na população mundial. Estudos indicam que essa condição está associada a mutações genéticas que afetam a formação da simetria corporal durante o desenvolvimento embrionário.
+
+A explicação para a transmissão de características como no caso do situs inversus, observado em Alessandro, seria:",O DNA carrega a informação genética transmitida de geração em geração.,75da17bcf1828f3de044c59b72a18402af8c97d0c0e260fba0841c77c5c723f8c372b16187fef9f747ec38c18a4d4d1de5efc67a2639388decf36d8c6664ca7b,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Negrinha era uma pobre órfã de 7 anos. Preta? Não; fusca, mulatinha escura, de cabelos ruços e olhos assustados.
+
+Nascera na senzala, de mãe escrava, e seus primeiros anos vivera-os pelos cantos escuros da cozinha, sobre velha
+esteira e trapos imundos. Sempre escondida, que a patroa não gostava de crianças.
+
+Excelente senhora a patroa. Gorda, rica, dona do mundo, amimada dos padres, com lugar certo na igreja e camarote
+de luxo reservado no céu. [...]
+
+Assim nasceu Negrinha – magra, atrofiada, com os olhos eternamente assustados. Órfã aos 4 anos, por ali ficou feito
+
+gato sem dono, levada a pontapés. Não compreendia a ideia dos grandes. Batiam‑lhe sempre, por ação ou omissão.
+
+LOBATO, M. _Negrinha_. São Paulo: Globo Livros, 2012. [Fragmento]
+
+Considerando as descrições das personagens e seus contrastes no texto de Monteiro Lobato, o que essas construções revelam?",as consequências da marginalização pós‑abolição.,113516d4e5d750b5d8e683384b13ba5c3439f4876059ddca55989ddd905acc7b47980594f941fc561fedfe383a99f98527d21eac773dd31115ccb738095276f8,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA: Um motorista, cujo veículo tem um desempenho de 12 km/L na estrada, está planejando uma viagem. No mapa, cuja escala era de 1 : 250 000, a distância indicada era de 90 cm. Porém, ao calcular a quantidade de combustível necessária, o motorista se confundiu e usou uma escala de 1 : 200 000.
+
+A quantidade de combustível calculada usando a escala de 1 : 200 000 é quantos por cento menor que a quantidade necessária usando a escala correta de 1 : 250 000?",20% menor,994564bf13582392c642b989180db35a1f389dfd69c0da66afdb962b116b847e0fa11c9053054421b1a8b5a1fc2ddb6aa6d5c97b7b6b739c9c0d6f2f44797fec,Matemática,test
+"TEXTO DE REFERÊNCIA: 'So that’s why I feel like my head’s exploding!'
+
+Releia a frase: “'So that’s why I feel like my head’s exploding!'”. Qual figura de linguagem, comum na língua inglesa, está sendo usada?",hipérbole,6ca21e97a24a57832cb487b25e3abf907be3bfbe2c139cef7c1037950baf929941e4a1ce37c058a2274dc58f7da79eca65010b1732e88756750dd157ac2c3088,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: A mamografia é o principal exame de detecção de câncer de mama. Considera-se falso positivo quando as alterações detectadas no exame são interpretadas como um possível tumor, mas que posteriormente, em outro teste, se comprova não ser. Já o falso negativo ocorre quando o exame é realizado e não é constatada alteração no tecido mamário, mas posteriormente descobre-se que a paciente está com um tumor na mama.
+
+Um médico, suspeitando que sua paciente está com câncer na mama, solicita que ela faça um exame do tipo A, que dá falso positivo em 10% dos casos e falso negativo em 5%. O médico acredita que a chance de a paciente estar doente é de 30% e, antes de receber o resultado, solicita um outro exame, do tipo B, que dá falso positivo em 5% dos casos e falso negativo em 1%.
+
+O médico decide tratar sua paciente somente no caso de a probabilidade de ambos os testes darem positivo ser maior do que 30%.
+
+ENUNCIADO: O tratamento deverá ser iniciado?","Não, pois a probabilidade é de 11,8%.",f62757e64ceb4da0abfbcaadc3cab77d3d76c66ee675cad090839447673fa2bf395e1cf0a7e2f48bec5c40f7b922ae0fd998c52ba41d42df1e0eec7eeae67e80,Matemática,train
+"TEXTO DE REFERÊNCIA: No estudo da cinética de enzimas, a curva de saturação para uma enzima pode ser modelada pela função
+
+f(x) = 0,37 − e^{−[1 + (x/2000)]},
+
+em que e representa o número de Euler e x representa a concentração de substrato, formado pelos reagentes cuja reação é catalisada pela enzima. Assim, essa função permite determinar a velocidade da reação enzimática de acordo com a quantidade de substrato presente no meio em que ela ocorre.
+
+Com base nessas informações, qual é a expressão da função inversa f^{-1}(x) que determina a concentração de substrato a partir da velocidade da reação?","-2000[1 + ln(0,37 − x)]",ad3d80da9c509af09e6fe12c8e3f71ffd4ec8ecf7aa127542a6d48ba0e420f28148c264190249ebb5261ed9ca24edd59cdf85746551b4e8f68a0226cd721dbc4,Matemática,train
+"TEXTO DE REFERÊNCIA: Nas décadas de 1950 e 1960, grandes avanços ocorreram nas ciências geológicas. Possivelmente, o mais importante foi o da oceanografia, realizado por membros do Observatório Lamont Doherty de Nova Iorque. Eles pesquisaram a topografia do fundo dos oceanos, o que tornou evidente a existência de um extenso sistema de dorsais, elevações oceânicas submersas, contínuo em todos os oceanos e associado a atividades tectônicas modernas como vulcanismo e terremotos. Conhecer melhor os oceanos permitiu que os norte-americanos Harry Hess e Robert Dietz, separadamente, formulassem a hipótese do crescimento dos fundos oceânicos a partir da posição das dorsais. Nelas haveria a formação de uma crosta oceânica nova, por erupções vulcânicas provenientes do manto que está embaixo. Em seguida, esse material iria afastando‑se da dorsal e seria substituído por material sucessivamente mais novo.
+
+Com base no texto, a formação das dorsais oceânicas é explicada como resultado do(a):",afastamento entre placas tectônicas,9685005f06e036ff1187cabc5fa4f39036aa8ec3dcae756e4e5326e1c2c6fe1b541c0abc1c2f0c2f44c4a3b058afd04dbcc6774340abd133282c4207191a7e39,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Os óculos escuros com lentes polarizadas estão crescendo em popularidade entre aqueles que valorizam proteção ocular eficaz e conforto visual em dias ensolarados. Ao contrário das lentes comuns, as lentes polarizadas contam com um filtro extra que diminui a intensidade da luz, especialmente próxima a superfícies como água, areia, neve e asfalto. Por isso, tornaram‑se uma escolha frequente para entusiastas de atividades ao ar livre.
+
+Com base no texto acima, uma pessoa que utiliza óculos com esse tipo de lente está mais protegida da luz que as superfícies ____.",refletem,249c4cd2990d8b5daea8e37145fe8408693859fd7e3339f32cdf3aab31dfa61073cf9d290ca3356f4dd1ca2732559378bdc30219cd78aee9b0811412c7111747,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Uma pesquisa feita pela Universidade de Michigan concluiu que estudantes com maior tendência ao narcisismo postavam com mais frequência em suas redes sociais. Lembrei da hipótese de que, quanto mais se faz um reforço opinativo, mais as pessoas começam a acreditar que aquilo é verdade e agir conformemente. Aquela pessoa que foi muito elogiada durante a infância cresce achando que é mesmo inteligente, quando na verdade não é. Nas redes sociais, conseguimos controlar essa exposição no nível do detalhe: do momento em que escolhemos tirar uma selfie, o ângulo que usaremos, a iluminação desejada e o filtro que melhor combina. Ganhamos muitos likes, dizem que somos lindos e passamos a nos comportar como se fôssemos mesmo aquela imagem alterada. Até almejamos “cristalizá‑la”. 
+
+ZUIN, L. Disponível em: <https://tab.uol.com.br>. Acesso em: 18 mar. 2021.
+
+De acordo com a autora do texto, a dinâmica e a linguagem das redes sociais favorecem:",a crença dos usuários nos elogios que recebem,18c2925a4df60f4897f8324b7a439ab9089fcb000bb304c27a168c935b2e643a67a9ad794b846ca479084070a6d6cb1e29d1cfdc0059ea6e77a792833dd22f93,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: No laboratório, o alquimista procurava operar sobre a matéria de modo a aperfeiçoá‑la, imitando o que se acreditava ocorrer na natureza. Admitia‑se que os metais seriam originados no interior da Terra e se aperfeiçoariam por um processo análogo à gestação. Assim, a transmutação que ocorreria naturalmente, mas em um tempo muito longo, poderia ser acelerada pelas operações alquímicas.
+
+Destilação: a arte de “extrair virtudes”. Química Nova na Escola, nov 1996. Disponível em: www.qnesc.sbq.org.br. Acesso em: 22 dez. 2021 (adaptado).
+
+Pergunta: Qual estrutura da matéria é modificada pelo método científico contemporâneo que alcança o objetivo almejado pelos alquimistas de transmutar metais?",núcleo do átomo,d9ee7089551f1a9ba0045f428b8f90b139f72b2431721b6889cb284c44269fff5b62ad1b3501072e2ff3da970fccd1f51a5780ed0985038e86df11e12a218ebc,Ciências da Natureza,valid
+"TEXTO DE REFERÊNCIA: O projeto inicial de uma piscina previa formato de bloco retangular e, em sua capacidade máxima, seriam utilizados 60 g de cloro. Decidiu-se aumentar as dimensões mantendo formato e profundidade; o comprimento foi multiplicado por 1,25 e a largura por 1,6. A quantidade de cloro é diretamente proporcional à capacidade da piscina.
+
+Com a ampliação da piscina, quantos gramas de cloro, no máximo, serão necessários para o tratamento da água?",120,428ae48e39ffd6756f45b43e91a059e66bbe8e0f455bdf24ffd331bdaafcae89784b2d09d5a75a8d52247568da8b108f3e25a236f770ad095feb73d661fc284d,Matemática,train
+"TEXTO DE REFERÊNCIA: Com três aplicações apenas o mais rebelde pixaim tornava-se não só liso, como ainda fino e sedoso como o cabelo do mais apurado tipo de branco. Os raios Ômega influíam no folículo e destruíam nele a tendência de dar forma elíptica ao filamento capilar. Vencido este pendor para a forma elíptica, cessava o encarapinhamento, que não passa de mera consequência mecânica. Como é de supor, imensa foi a repercussão da notícia. Cem milhões de criaturas reviravam para o céu os olhos agradecidos. Os negros chegaram a tomar‑se de puro êxtase, convictos de que das Alturas descera a pugnar por eles alguma alta divindade, como outrora os bons deuses do Olimpo [...], pois redundaria num aperfeiçoamento físico da raça. Já o pigmento fôra destruído e, embora o esbranquiçado da pele não se revelasse côr agradável à vista, tinham esperança de obter com o tempo a perfeita equiparação cutânea. Vir agora, e assim de chofre, o resto, o cabelo liso e sedoso, a supressão do teimoso estigma de Cam, era, não havia dúvida, sinal de um fim de estágio. Reduzidas desse modo as duas características estigmatizantes da raça, o tipo africano melhorava a ponto de em numerosos casos provocar confusão com o ariano.
+
+LOBATO, M. _O presidente negro_. 13. ed. São Paulo: Editora Brasiliense, 1979.
+
+Com base no texto acima, qual foi a ideia central sustentada pelo racismo científico no Brasil que ele expõe?
+",embranquecimento progressivo da população,146566f15d9646170c81cd4c1febeb43b83f67490d11ac277e03e19acf3a5a04b4b732ed6789f4d08be22bbc09853f501762bdea2c2ac702886f6347f7567df6,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: A gelatina é um derivado alimentar do colágeno composto por uma mistura de polipeptídeos. Uma das principais características da gelatina é sua capacidade de gelatinização. Em temperaturas não muito elevadas, a gelatina apresenta a propriedade de reter moléculas de água, formando, assim, um gel.
+
+Em alguns experimentos, a gelatina foi preparada com diferentes soluções, indicadas na tabela como reagentes. Após o resfriamento da mistura, observou‑se se houve a gelatinização ou não.
+
+| Experimento | Substrato | Reagente                     | Resultado observado |
+|-------------|-----------|-----------------------------|----------------------|
+| 1           | Gelatina  | Água (branca)               | Gelatinização        |
+| 2           | Gelatina  | Extrato de abacaxi          | Nenhum               |
+| 3           | Gelatina  | Extrato de abacaxi fervido  | Gelatinização        |
+| 4           | Gelatina  | Medicamento digestivo       | Nenhum               |
+| 5           | Gelatina  | Medicamento digestivo fervido| Gelatinização       |
+| 6           | Gelatina  | Solução de amaciante de carne| Nenhum             |
+| 7           | Gelatina  | Solução de amaciante de carne fervida| Gelatinização |
+
+ENUNCIADO: Os resultados obtidos nos experimentos 2, 4 e 6 podem ser explicados pela ocorrência da:",Hidrólise enzimática das ligações peptídicas da gelatina,c8069cc31359b4215bb055db7dff34b45a46892e57ef0ea9fb6a9f20dcf1dbc228cbd825d146e59d927ac868cd97f7a925ba71bcbe51289b8418cb3ae1a834eb,Ciências da Natureza,valid
+"TEXTO DE REFERÊNCIA: “Essa ideologia baseia-se no pressuposto de que a liberalização do mercado otimiza o crescimento e a riqueza no mundo, e leva à melhor distribuição desse incremento. Toda tentativa de controlar e regulamentar o mercado deve, portanto, apresentar resultados negativos, pois restringe a acumulação de lucros sobre o capital e, portanto, impede a maximização da taxa de crescimento.
+
+[...] Para os profetas de um mercado livre e global, tudo que importa é a soma de riqueza produzida e o crescimento econômico, sem qualquer referência ao modo como tal riqueza é distribuída.”
+
+HOBSBAWM, Eric. O nosso século: entrevista a Antonio Polito. São Paulo: Cia das Letras, 2000. p. 78.
+
+ENUNCIADO: O texto faz referência a um modelo econômico e ideológico do século XX. Esse modelo foi o",neoliberalismo,2a8102817429fa58fc3874068106cbc56e8033ebaa3bc1c684740a6a91659d9628830f67a24e49611412de3890541d2f813db6485dcecf292b7b81882d70d8ab,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: A faixa de pH desejável para o crescimento ideal das plantas varia de acordo com as propriedades de cada cultura. Enquanto algumas culturas crescem melhor em pH 7,0, outras crescem em condições levemente ácidas. Os solos formados sob condições de alta precipitação anual são mais ácidos do que os solos formados sob condições mais áridas. Isso acontece pois os íons básicos, como Ca2+, Mg2+, Na+ e K+, são substituídos por íons H+. Um exemplo de ser vantajoso plantar em solos de alta precipitação é o cultivo de batata-doce e de mirtilo, diferentemente do que ocorre em solos de baixa precipitação, com leituras de pH do solo em torno de 7,0 a 8,0, que favorece o crescimento de beterraba e de aspargos, por exemplo.
+
+Por que, em regiões de alta precipitação, o agricultor deve usar um produto básico para tratar o solo ao plantar beterraba?",Porque a precipitação de água contendo ácido carbônico fornece íons H+ ao solo.,5e5cbe78ae9b405ff78a459c3476030b8ffb9c826002867501ab87bdbb017ad2ac82a8c6431172f1f4c6e8799dae1e96124208383843d3bd77e622a1fde14458,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Com o exílio de Napoleão Bonaparte, na ilha de Elba, após as Guerras Napoleônicas, as potências vencedoras reuniram‑se em Viena para refazer a ordem internacional, o que resultaria na formatação de um sistema político restaurativo, redesenhando o mapa político europeu, [...] de se recuperar, no que fosse possível, o absolutismo. Este novo sistema político impediria que guerras de grandes proporções surgissem, tendo a Europa vivido um período de paz, bastante longevo, sem o enfrentamento direto das Grandes Potências europeias.
+
+KISSINGER, H. Diplomacia. Tradução de Saul S. Gefter e Ann Mary Fighiera Perpétuo. Tradução revista de Heitor Aquino Ferreira. São Paulo: Saraiva, 2012. [Fragmento adaptado]
+
+Com base no texto, as medidas estabelecidas no Congresso de Viena (1814‑1815) tinham como objetivo:",conter os anseios republicanos advindos da Revolução Francesa,a0bf0fdbcbb9728dea7bec2fd639411cf26c2c6207ef4ecb06f46c2b77f6a67ee3e7a05a37e99efa11098e5b754e3b619161dbf876510513cbcf9d352a58edea,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA: As distribuidoras de energia são obrigadas a contratar 100% da energia que vão fornecer aos consumidores em contratos de longo prazo firmados com geradores. Essa energia contratada às vezes pode sobrar ou faltar, e a diferença é comprada (quando falta) ou vendida (quando sobra) no chamado mercado de curto prazo, a um preço chamado de “preço de liquidação das diferenças (PLD)”. Isso porque só se negocia nesse mercado a diferença entre o contratado pelas distribuidoras e o realizado. “Quando não tem água, é o PLD que sinaliza isso”, observa Edvaldo Santana, explicando por que esse é um termo relevante na crise atual. “O normal é o PLD estar em R$ 100, R$ 150 (por megawatt-hora). Já está em R$ 350 e deve chegar no mês que vem no teto, que é R$ 580”. Com base nas informações do texto, qual é a diferença percentual aproximada entre o valor atual do PLD (R$ 350) e o valor considerado como teto (R$ 580)?",66%,e640a246a6ad5d4ed86d50106be163ef24dabed72ee7401689b8c35aaa5730becf33fcd3c23bccb4b45100d88566c8d8e3d1d7d4b0ed72464e1974e675f2e1e5,Matemática,train
+"TEXTO DE REFERÊNCIA: Depois de sua festa de aniversário, Juliana precisa lavar todos os utensílios de sua cozinha, como pratos, talheres, panelas e copos, antes de dormir. Ela tem uma máquina de lavar louça cujo ciclo mais rápido leva 57 minutos para realizar cada lavagem. Para lavar tudo que foi utilizado na festa, ela observou que vai precisar de três ciclos do tipo mais rápido. Ela constatou que leva 5 minutos para encher e 9 minutos para esvaziar a lava‑louças. Assim que colocar o último ciclo para lavar, ela pode ir para cama.
+
+Se Juliana começou a encher a primeira máquina de louças às 19 h 32 min, a que horas ela estará liberada para dormir?",21 h 59 min,1cd05a020cba36bd4e47c835b884b89775d8243e8915f947591e8d8ed3ba6600969a74218ae8cfe84a2866be676038bceb56b9c2352c600b368fc56210c220e8,Matemática,train
+"TEXTO DE REFERÊNCIA: Proibir é a melhor forma de divulgar
+
+Deixa de ser universidade a instituição que cede à
+pressão de censores. Já se lê tão pouco neste país, ainda
+assim há quem faz campanha para impedir o uso de livros
+para vestibulares. No caso da proibição do livro Eu receberia
+_as piores notícias dos seus lindos lábios_, ela acaba, como
+de costume, tendo o sentido contrário pretendido pelo
+censor, que não aprende que proibir é a melhor forma de
+ divulgar. Eu mesmo, que nunca tinha visto o filme baseado
+na obra literária, vi a película no mesmo dia da notícia do
+_Popular_. Em breve vou comprar o livro.
+João Batista Moraes Vieira / Setor Oeste – Goiânia,
+
+8 de maio de 2023 às 21:43
+
+Disponível em: <https://opopular.com.br>. Acesso em: 29 maio 2023.
+
+Com base nessa publicação, qual é a sua função social?",Expor a opinião do leitor sobre o assunto,f4ff1c32d2e3ae691156e3bdf4ea677934551a378e4f024b507ca69c901381bdf80e334781848c7f90ff66ae9f59ceb2906b7182670346812a2203c42c46aee8,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: O dióxido de nitrogênio (NO2) é um gás poluente e a sua presença na atmosfera é fator‑chave para a formação do ozônio (O3) troposférico. Além de causar efeitos prejudiciais à saúde humana, o dióxido de nitrogênio também é um dos responsáveis pelas mudanças climáticas globais.
+
+Uma determinada indústria produz diariamente 2,5 toneladas de NO2, sendo 15 % por meio da reação química representada pela equação a seguir:
+
+4 NH3(g) + 7 O2(g) → 4 NO2(g) + 6 H2O(v)
+
+Dados: Massas molares em g·mol⁻¹: H = 1; N = 14 e O = 16.
+
+Considerando a parcela de NO2 produzida nessa reação, qual é a quantidade de matéria aproximada de O2, em kmol, consumida mensalmente por essa indústria?",428,3b1d5751f98e99a4a08212b68caa72f57ff1c102ce2a27cac4e8c15bfd5cc5755d18ff7019c5fe8156be156380b2c217757b4e88a99387b5ad3f60f02bf37eb8,Ciências da Natureza,valid
+"TEXTO DE REFERÊNCIA: A Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua) revelou que, em 2021, o rendimento médio mensal dos brasileiros caiu para o menor valor já registrado desde 2012. Foram considerados quaisquer tipos de rendimentos. A tabela apresenta a população aproximada e o rendimento médio mensal por região em 2021:
+
+Norte: 19 milhões — R$ 871,00
+Nordeste: 58 milhões — R$ 843,00
+Centro-Oeste: 17 milhões — R$ 1 534,00
+Sudeste: 90 milhões — R$ 1 645,00
+Sul: 30 milhões — R$ 1 656,00
+
+Em 2021, qual foi o rendimento médio mensal da população do país, aproximadamente?","R$ 1 351,64",b9991d5c44596b7fd513f23d1a8f63f39dd69b621b24c9dd92ca1f33d431918ff553f87aa5dfa928fff383fa3de51e10e4bc4258102a90de7c10c7fbcc1f11af,Matemática,train
+"TEXTO DE REFERÊNCIA: O plano cartesiano representa as residências de Almir (A), Breno (B), Cleiton (C), Denílson (D) e Éder (E) nos pontos abaixo (colunas 0 a 9; linhas 1 a 7). As casas estão exatamente nas esquinas dos quarteirões quadrados congruentes de lado 500 m. Localizações: A em (3,6), B em (5,4), C em (6,7), D em (7,2), E em (9,4). Manhã: Almir, Breno e Cleiton se encontram em uma esquina equidistante de suas residências, percorrendo apenas pelas ruas (distância de Manhattan). Tarde: Breno, Éder e Denílson se encontram em uma esquina equidistante de suas residências, também percorrendo apenas pelas ruas. Desprezando‑se a largura das ruas, qual a menor distância que Breno deve percorrer do encontro da manhã até o encontro da tarde?",2 000 m,7363c347875acba20609383acc9a72d4907e6168d6d4d2cba039d4167a88ceb5f1d1c0cc5433b88dae764534413f7e063ed508ce63cd97b95e603422b99b1866,Matemática,train
+"TEXTO DE REFERÊNCIA: Pesquisadores da Universidade Tecnológica de Nanyang, em Singapura, desenvolveram um dispositivo capaz de bloquear parte do som externo – sem que, para isso, seja necessário manter as janelas fechadas. O sistema funciona de forma similar aos fones de ouvido mais modernos, que cancelam ruídos. Na janela, é implantado um conjunto de caixinhas de som com microfones que detectam ondas sonoras repetidas vindas da rua, como o barulho de vários carros em uma avenida engarrafada. Esses sons ficam registrados no dispositivo. A partir daí, ele começa o trabalho de decifrar a frequência ideal para bloqueá‑lo.
+
+Com base no texto, qual é o fenômeno ondulatório responsável pelo funcionamento do dispositivo descrito?",interferência,80e1193b08a5d980c65d593c848ef4fb780ddc31a023938ee9061c28097d206af0741385cd42d619b04d657702c1100e57950d3578d089cf8e9a3cac13c17daa,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Pesquisadores da Universidade Estadual de Iowa, nos EUA, observaram que o pólen de milho transgênico pode ser mortal para as borboletas Monarca. Além disso, no México os transgenes contaminaram as variedades crioulas e populações silvestres de milho. [...] São diversos motivos para a preocupação dos transgenes no ambiente.
+
+[...] Entretanto, as dúvidas relacionadas ao impacto desses alimentos, tanto para a saúde como para o meio ambiente, levaram alguns países a não permitirem o cultivo ou a importação de variedades geneticamente modificadas. O Protocolo de Cartagena sobre Biossegurança da Convenção sobre Diversidade Biológica é um acordo internacional sobre biossegurança, que entrou em vigor em 2003, e visa proteger a diversidade biológica dos riscos potenciais de OGMs, e deixa claro que os produtos das novas tecnologias devem basear‑se no princípio da precaução.
+
+DIAS, Rosa Maria. “Transgênicos: potenciais riscos à saúde humana e ao meio ambiente”. Bioikia, ed. 1, 2017.
+
+Pergunta: De acordo com o texto, qual é o impacto ambiental de difícil controle causado pelo uso do pólen transgênico?",contaminação de plantas locais convencionais por meio da polinização cruzada,3e09d6022cf00ca96faf70e34f14ae918585682e1b109f2e6cfe06fdd7fdfd5f8be712dfa01a91b89c4ea4ba816bd8c5e6804c5cc4888d7710048878372e9ee5,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: A experiência remete à de Nina, personagem de A cidade dos animais, do autor e ilustrador catalão Joan Negrescolor. Do alto da torre, a menina enxerga uma selva inofensiva, seu lugar secreto, cujas trilhas e cheiros conhece bem. Ao transitar pelas páginas ultracoloridas, encontra plantas, amigos bichos e uma série de objetos perdidos, de fios a carros submersos. É que muito sobrou na cidade antigamente habitada pelos humanos, hoje ocupada pela natureza e pelos olhos de Nina, uma contadora de histórias recebida com entusiasmo pelos animais. Nesta fábula sobre a natureza, os animais retratam nossa sociedade e, portanto, as relações distópicas do mundo contemporâneo. Trata-se de um livro imaginativo sobre as histórias que os macacos, as serpentes e os flamingos gostam de ouvir, mas também de uma crítica: com tamanha destruição, chegará o dia em que o bicho‑homem irá sumir do mapa e as histórias serão contadas por outros animais? E que histórias contariam se estivéssemos dispostos a escutá‑los? [...] O livro convida a um tipo de utopia: olhar a natureza não como objeto de curiosidade e domínio, mas lugar de pertencimento e cuidado. Oferece, portanto, uma possibilidade de vínculo emocional e cultural por meio da leitura estética de situações cotidianas e que precisam ser verbalizadas. Em um momento de crise ambiental, em que cresce o distanciamento das crianças em relação à natureza, o livro chega como uma experiência indireta capaz de sensibilizar o olhar para criar conexões, fazendo pontes necessárias para reflexões e construções de vivências amorosas com a terra.
+
+CARAMICO, Thais H. O ponto de vista dos animais. Quatro cinco um, 26 ago. 2022. Disponível em: https://quatrocincoum.folha.uol.com.br. Acesso em: 20 nov. 2022.
+
+Para induzir o leitor a ler o livro resenhado, utiliza‑se como estratégia argumentativa uma referência à crise ambiental, com o objetivo de:",demonstrar uma implicação da leitura na realidade das crianças.,34a90ade7fd97adeda2db944d9119de6ae6e56611b1e4fe6a0494b0bda7e1226d46cbe7d09b8c511a4d2332c29613e59e59f152ebc52f979d872159fee341d47,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: A situacionalidade é justamente a adequação da manifestação linguística a uma situação comunicativa do texto e está relacionada ao contexto, sempre se referindo ao fato de relacionar o evento textual à situação comunicativa. A situação ajuda a direcionar o sentido do discurso, tanto em sua produção como também em seu entendimento. Essa situação comunicativa interfere diretamente na produção do texto.
+
+Com base no enunciado acima, qual é a consequência da função situacional para a interlocução dos sujeitos?",proporciona a adaptação do discurso ao contexto de fala.,9d5a45f4e82fecd111d9598a2b4cc658dcfc294d1502e2a3543836ce4504962bf04e51bee45dd57294944a16a4fff9a743cc963b583d9e162e0a2994d5ad2f59,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: Uma empresa de meteorologia lançou recentemente o satélite Tomorrow R‑1 através do Falcon 9, da Space X. Trata‑se do primeiro satélite de radar meteorológico construído de forma comercial.
+
+O que você precisa saber
+
+- O Tomorrow‑R1 se diferencia de outros satélites por usar um software próprio da empresa, enquanto a maioria dos satélites pertence a agências governamentais;
+- Outro diferencial do satélite é que ele fornecerá dados muito mais amplos sobre clima;
+- Nos próximos anos, a empresa pretende lançar mais duas dúzias desse mesmo tipo de satélite;
+- Conforme relata a CNBC, o satélite, além de prever o tempo, é capaz de ajudar as empresas a se planejarem para um clima severo.
+
+De acordo com Shimon Elkabetz, CEO e cofundador da empresa, a variedade de informações coletadas pelo satélite formam um conjunto de “clima das coisas”. O executivo afirma que o novo satélite significará uma revolução para a previsão do tempo: “Vamos criar uma revolução significativa quando se trata de previsão do tempo e modelagem climática, e seremos capazes de ajudar o Centro Nacional de Furacões a ter uma melhor previsão de furacões. Poderemos ajudar as seguradoras a trabalhar com agricultores na Índia e no Brasil, além de ajudar as companhias aéreas a voar do JFK para Londres em uma rota muito mais segura e gastando menos combustível”.
+
+Ele também revelou que a empresa pretende lançar mais de duas dúzias de seus próprios satélites nos próximos dois anos. Com isso, será possível criar uma “constelação” de sistemas de monitoramento climático que terão a capacidade de coletar amostras de todos os pontos da Terra.
+
+Pergunta: Qual é o principal aspecto inovador da nova tecnologia descrita no texto?
+",A construção de um satélite comercial de alcance amplo.,1ccb82ef11ec3a85ef4aaea0cf671d21696956b59ed14780da241db5a5e73bbb3694353c185970fd2903f2320d52900dc34a8a073f6a36fe7b548c84fac7bff1,Linguagens e Códigos,train
+"TEXTO DE REFERÊNCIA: ""Se, portanto, 'o ser do qual não é possível pensar nada maior' existisse somente na inteligência, este mesmo ser, do qual não se pode pensar nada maior, tornar-se-ia o ser do qual é possível, ao contrário, pensar algo maior: o que, certamente, é absurdo. Logo, 'o ser do qual não se pode pensar nada maior' existe, sem dúvida, na inteligência e na realidade."" (ANSELMO DE CANTUÁRIA. Proslóquio.)
+
+No fragmento, o filósofo medieval busca provar a existência de um ser divino a partir da",apresentação de uma justificativa lógica,59c8d4f0c91d49a6d39651e1d44c51d837d3e43226a80187929b4ced4cc28fa0f19f3a2ec48e173ad9c439b44d3418f6e90424b46886ba2402cb1febaf985bd6,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: O sonho de sociedade, se não una, pelo menos harmoniosa, perseguido pela Igreja, esbarrava nas realidades cruéis das oposições e das lutas sociais. O quase monopólio literário detido pelos clérigos, pelo menos até o século XIII, camufla a intensidade da luta de classes na Idade Média e pode dar a impressão de que só alguns laicos maus – senhores ou camponeses – tentavam, de tempos em tempos, perturbar a ordem social atacando as pessoas e os bens da Igreja.
+
+LE GOFF, Jacques. A civilização do Ocidente medieval. São Paulo: Vozes, 2018. p. 288.
+
+Entre as razões que dificultavam a Igreja a realizar seu projeto de unificação da Europa pelo ideal da cristandade estava o(a) ______.",divisão da sociedade em estamentos,34430f7e0bdf679bb48eed057e699a44fb23eda982f9dfeac04644543d0d24d84d993b4b2474fdbac372f2f31980e5cf4f3caed7843f155ded79647c14c1d32f,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Retrato
+
+Eu não tinha este rosto de hoje,
+
+Assim calmo, assim triste, assim magro,
+
+Nem estes olhos tão vazios,
+
+Nem o lábio amargo.
+
+Eu não tinha estas mãos sem força,
+
+Tão paradas e frias e mortas;
+
+Eu não tinha este coração
+
+Que nem se mostra.
+
+
+Eu não dei por esta mudança,
+
+Tão simples, tão certa, tão fácil:
+
+– Em que espelho ficou perdida
+
+a minha face?
+
+MEIRELES, C. Viagem. 2. ed. São Paulo: Global, 2012.
+
+Na construção lírica do poema, o tom melancólico mostra uma visão fundada em que aspecto?",na existência da imagem do presente não reconhecida pelo eu lírico,c3f22170f5acc5a4d6119ae7a437479c0028a366acd9f0ee077421e1ea1711ee4867837710f5c7fe85c4cd751d8f194697c57114f3a11dc666eeabf3448f6492,Linguagens e Códigos,valid
+"TEXTO DE REFERÊNCIA: Fazendo longas filas à porta dos seis consulados da Itália, brasileiros tentam, com base em sua ascendência, obter passaportes italianos que lhes confeririam cidadania na União Europeia, com todas as vantagens trabalhistas e culturais decorrentes.
+
+Da mesma forma que todas as histórias de imigrantes, esta começa no exterior. Entre 1875 e o início da Primeira Guerra Mundial, grandes levas deixaram a Itália. A maioria vinha do campo e passava por grandes dificuldades causadas pela concorrência mundial.
+LESSER, J. A invenção da brasilidade : identidade nacional, etnicidade e políticas de imigração. Tradução de Patrícia de Queiroz Carvalho Zimbres. São Paulo: Editora Unesp, 2015. p. 135.
+
+Qual foi um dos principais fatores que motivou a imigração italiana para o Brasil, segundo o texto?",a crise econômica instalada na Itália ocasionada por uma política monetária ineficaz,6a2038cc39610022a9e83cbee554c6d3ec77f493affccb9a75d141e5582d5a2ba06cccb8cfb10e70615a713ebacd68b69095a94b1d85f88c01ec7208d3fcd6bc,Ciências Humanas,test
+"TEXTO DE REFERÊNCIA:
+
+**TEXTO I**
+
+A pólis de Elis, pela proximidade do Santuário de Olímpia, é a responsável pela organização dos jogos, que ocorrem a cada quatro anos, e pelo envio de arautos às demais pólis anunciando a data exata da competição e o período de Trégua Sagrada. Os jogos são em honra a Zeus e as vitórias também são dedicadas ao pai de todos os deuses e mortais. Só há um vencedor em cada modalidade esportiva, o qual é compreendido como um escolhido dos deuses. A vitória não traz glória apenas para o atleta, mas também para a pólis que ele representa, a qual o retribui com reconhecimento e alimentação gratuita pelo resto da sua vida. Para a pólis, ter um cidadão seu como vencedor olímpico é uma demonstração de força para os seus inimigos e de preferência pelos deuses em relação às demais pólis. Isso traz ao mesmo tempo um respeito e um temor por parte das demais cidades‑estado.
+
+SILVA, P. L.; DUARTE, C. G. Dos Jogos Olímpicos da Antiguidade às olimpíadas de matemática: a constituição de atletas. Boletim online de Educação Matemática, Florianópolis, v. 8, n. 17, p. 164‑179, nov. 2020.
+
+**TEXTO II**
+
+A ideia do renascimento dos Jogos Olímpicos não foi uma fantasia passageira: foi a culminação lógica de um grande momento. O século XIX presenciou o prazer pelos exercícios físicos renascer em todos os lugares [...]. Ao mesmo tempo, as grandes invenções, as ferrovias e o telégrafo, conectaram distâncias e a humanidade passou a viver uma nova existência. As pessoas se misturaram, conheceram‑se melhor e imediatamente passaram a se comparar. O que um conseguia o outro desejava conseguir também. Exibições universais trouxeram para uma localidade produtos de todo o mundo, congressos científicos ou literários reuniram as variadas forças intelectuais. Então como poderiam os atletas não buscar se reunirem, já que a rivalidade é a base do atletismo e na realidade a razão de sua existência?
+
+COUBERTIN, P. Disponível em: <www.educadores.diaadia.pr.gov.br>. Acesso em: 22 out. 2023 (Adaptação).
+
+Como os textos estabelecem uma conexão entre a Antiguidade e o mundo contemporâneo?",Evidenciando o espírito competitivo presente nas sociedades.,da891b661e44718119c5f35ed06e3a00049115c3a39ce3821d29bc74e057b9a4890b4af587bba916ea1aae2f38273681d0dab57ff9715894032b8e6568cd2260,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: **Versos íntimos**
+
+Vês! Ninguém assistiu ao formidável
+
+Enterro de sua última quimera.
+
+Somente a Ingratidão – esta pantera –
+
+Foi tua companheira inseparável!
+
+Acostuma‑te à lama que te espera!
+
+O homem, que, nesta terra miserável,
+
+Mora, entre feras, sente inevitável
+
+Necessidade de também ser fera.
+
+Toma um fósforo. Acende teu cigarro!
+
+O beijo, amigo, é a véspera do escarro,
+
+A mão que afaga é a mesma que apedreja.
+
+Se alguém causa inda pena a tua chaga,
+
+Apedreja essa mão vil que te afaga,
+
+Escarra nessa boca que te beija!
+
+ANJOS, A. Disponível em: <https://wp.ufpel.edu.br>.
+Acesso em: 30 jun. 2022.
+
+Com base nesse poema, qual elemento demonstra a ruptura da poesia de Augusto dos Anjos com o Parnasianismo e o Simbolismo?",utilização de imagens antipoéticas,b014f1854fe3619804fd3ad6b0fde9d00e3e464143dee4ca264695cf3267e6476a3d13562e1f743685649f79c4ff13f24db79a800460be014592e09539e493a3,Linguagens e Códigos,test
+"TEXTO DE REFERÊNCIA: Cerca de 2 000 cometas já foram observados a olho nu. O mais conhecido de todos eles é o cometa Halley, que apareceu pela primeira vez em 1531. Em 1986, a passagem desse cometa foi bastante aguardada, com venda de camisetas comemorativas, lunetas e até fretamento de aviões. Mesmo estando 63 gigametros distante do nosso planeta, poucos conseguiram vê-lo. Um gigametro equivale a um milhão de quilômetros.
+
+Qual foi a distância, em quilômetros, da Terra ao cometa Halley em 1986, expressa em notação científica?","6,3 × 10⁷",e3725493c0e0ab135b5d84cab5eccbd31d4ffc187da64a4019f52835c3438a080a369f06fe78185450538f47e7f7a3a117432f269adb07d2bfdc230a3e62465a,Matemática,train
+"TEXTO DE REFERÊNCIA: Pesquisadores da USP desenvolveram um sensor com formato alongado e cilíndrico, semelhante a uma caneta, para análise de poluentes químicos eliminados na água. Fabricado com grafite, nanopartículas de prata e poliuretano, o sensor detecta bisfenol‑A (BPA), composto químico considerado um indicador da presença de poluentes emergentes e prejudicial à saúde. Essa substância é capaz de interferir no sistema endócrino dos organismos, mesmo em baixas concentrações.
+
+Disponível em: www.agencia.fapesp.br. Acesso em: 31 dez. 2021 (adaptado).
+
+Qual é o principal benefício que a utilização desse sensor traz para as agências de controle ambiental?",Reduzir os riscos de desenvolvimento de problemas de saúde ligados ao BPA.,3e7649c89bea43fde89a29aa553d37f2d4b5ef71ff91d455a3d8ddf52a2813d95874e01e24faa8d0ded30d95573263810e0458d3063601afd97ec7591c4713a3,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Uma confeitaria artesanal fabrica bombons maciços de chocolate com 60 g de massa e que possuem o formato de um prisma quadrangular de dimensões 2 cm × 3 cm × 10 cm. Semanalmente, são vendidos, em média, 90 bombons desse tipo, sob o preço unitário de R$ 8,00.
+
+Devido a algumas limitações no processo de fabricação, o dono da confeitaria decidiu descontinuar a produção desse bombom, substituindo‑o por um modelo com menor volume, que será fabricado com o mesmo tipo de chocolate utilizado no padrão anterior. Foram sugeridas três opções para o novo modelo, cujos formatos e dimensões estão descritos a seguir.
+
+Modelo I: prisma com 6 cm de altura e base no formato de um triângulo com 4 cm de base e 2 cm de altura.
+Modelo II: prisma quadrangular com dimensões 2 cm × 2 cm × 5 cm.
+Modelo III: prisma pentagonal com 6 cm de altura e base com 5 cm² de área.
+
+Os preços unitários estipulados para os modelos I, II e III são, respectivamente, R$ 4,00, R$ 3,00 e R$ 4,50.
+
+Qual modelo maximiza o faturamento semanal da confeitaria, considerando que a quantidade de chocolate utilizada semanalmente será a mesma do modelo antigo?",Modelo I,b8ef1141df3b6992f2d05bd84556cb392daa76452b8f6da76d5c00b2a2d50849032eabccd8541003dd456c04cad7bacc35863e3807d4931908f295c9957c3282,Matemática,train
+"TEXTO DE REFERÊNCIA: A especificidade do caso brasileiro é a construção de uma ideologia, a da “democracia racial”, fabricada pelas elites, já unidas entre si, de modo a evitar o espírito de revolta dos negros que tantas vezes já havia se mostrado no período colonial. Gilberto Freyre teria construído a noção rósea e humanitária do passado escravista brasileiro, abrindo a possibilidade de constituição de uma ideologia social apenas aparentemente inclusiva e extremamente eficiente.
+
+SOUZA, J. Democracia racial e multiculturalismo: ambivalente singularidade cultural brasileira. _Estudos afro-asiáticos_, n. 38, 2000 (Adaptação).
+
+No contexto citado pelo fragmento, o desenvolvimento da ideia de democracia racial envolveu o(a)",enaltecimento da miscigenação,896185509b7df7c1ab0332af8b6bdbf29f5934b7ab359a51f8d6dd8d456323e00c5baf079ad4148a348744d0dcb991ad35ee864e294411021f921c3316074321,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Como não posso crer que S. Exª. tente a emancipação gratuita, peço à Câmara e ao país que atente à avultada soma em que importará a libertação de mais de 1 milhão de escravos. Ela ascenderá, sem dúvida, a mais de um bilhão [de contos de réis]. Nas circunstâncias financeiras em que nos achamos, aonde iremos buscar tão avultada soma?!
+
+ANDRADA, Martim Francisco Ribeiro. Discurso proferido em 8 de março de 1879. In: Annaes da Camara dos Deputados, sessão de 1878/1879, tomo III, p. 312. Disponível em: <https://bd.camara.leg.br>. Acesso em: 23 jan. 2022. (Adaptado)
+
+De acordo com o discurso apresentado em 1879, o que os setores escravocratas exigiam caso fosse aprovada uma lei de abolição?",indenização,bc089e808216aa1b27e9d73b82a87c6559276936c7166d434f57d52bdc97b1c863d460f024b6f6dda8bb777aaf8a23fb9000a1adc80e8fb11c3d0b8d0db9e4ba,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: As algas marinhas podem ser utilizadas para limpar áreas contaminadas por substâncias orgânicas e por metais pesados, processo chamado de biorremediação. ""As algas têm em sua estrutura celular uma grande área chamada de vacúolo, um tipo de cavidade limitado por uma membrana, onde conseguem estocar grandes quantidades de substâncias"", diz o professor Pio Colepicolo Neto. ""Elas podem atuar absorvendo determinados tipos de poluentes e, dentro da célula, por mecanismos bioquímicos, ocorre uma imobilização dos materiais no vacúolo"", relata. No final do processo, basta incinerá‑las e retirar o material concentrado nas cinzas.
+
+De acordo com o texto, para qual tipo de contaminação as algas podem ser aplicadas na recuperação de ambientes?",derramamento de mercúrio na água,d04cbc2491b34eff5c6b7b49270c22a5ef0d3b8f0273fea6095dd3a7bae1ecd8a96540a242a0e87443bcc5c6a91b1d953465a22b33b8cdfe8d66250834b611b1,Ciências da Natureza,train
+"TEXTO DE REFERÊNCIA: Taylor elevou o conceito de controle a um plano inteiramente novo quando asseverou como uma necessidade absoluta para a gerência a imposição ao trabalhador da maneira rigorosa pela qual o trabalho deve ser executado. [...] Com Ford, a grande novidade técnica e em termos de organização da produção no chão de fábrica foi a introdução da esteira rolante, que ao fazer o trabalho chegar ao trabalhador numa posição fixa, conseguiu dramáticos ganhos de produtividade.
+
+RIBEIRO, Andressa de Freitas. “Taylorismo, fordismo e toyotismo”. Lutas Sociais. São Paulo, v. 19, n. 35, jul./dez. 2015.
+
+Taylorismo e fordismo são duas propostas de organização do trabalho que se diferenciam, respectivamente, pelo controle de que aspecto?",tempo e espaço,05b43d2e0938ebc45a62abe8ccca692036787f828fc1c184855b048ab2b7d46da054f46ce44ccb2882e6b491757352575a6b144f6bfcf48d4c2fa00b00622cfc,Ciências Humanas,train
+"TEXTO DE REFERÊNCIA: Um arquiteto foi contratado para projetar um jardim, que deve incluir um gazebo como o representado na Figura I. Esse, por sua vez, possui um teto formado por 6 peças de madeira iguais com formato de triângulos isósceles. As dimensões das peças que compõem o gazebo estão indicadas na Figura II na escala de 1 : 20.
+
+Figura II (escalas e medidas indicadas): base = 12 dm; altura = 16 dm; escala 1:20.
+
+Qual é a medida real da área superficial do teto do gazebo em metros quadrados?",2.304,5e6745d02d5781e66dc23e6477dea03d788bb7c19567895cdf835ec4eea5b9de6a6c47ca22c2f75ad8384de9ad056843e1e9301fadf6979fb4ee0d0bc16efd6c,Matemática,test
+"TEXTO DE REFERÊNCIA: Com o objetivo de impulsionar a indústria nacional até 2033, o programa Nova Indústria Brasil tem seis missões relacionadas à ampliação da autonomia, à transição ecológica e à modernização do parque industrial brasileiro. Entre os setores que receberão atenção, estão a agroindústria, a saúde, a infraestrutura urbana, a tecnologia da informação, a bioeconomia e a defesa.
+
+MÁXIMO, W. Entenda o programa Nova Indústria Brasil. Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 18 mar. 2024.
+
+Qual é o objetivo principal dos investimentos do programa Nova Indústria Brasil para a indústria?",ampliação da competitividade tecnológica,3aa235b80d92a67b084166ac171b91fb7de5b6c35494f4efb3eed7bc59244db2ee231ca9e3f2a1514d6ef5dd1111e7f6d17001a8d8dd5bcb6a28b1f3b83b9196,Ciências Humanas,train
