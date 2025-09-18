@@ -11,6 +11,7 @@ Este documento define as regras para a anotação da **intenção pedagógica** 
 - **Exemplo:** Uma questão que pede para identificar a função das mitocôndrias.
 
 ### 2. Procedimental
+
 - **Definição:** A questão exige a aplicação de um método, um passo a passo, ou um cálculo. O aluno precisa saber "como fazer".
 - **Exemplo:** Uma questão que pede para calcular a área de um triângulo.
 
