@@ -1,0 +1,15 @@
+{
+  "total_questoes": 6356,
+  "distribuicao_predicoes": {
+    "Procedimental": 1872,
+    "Conceitual": 1620,
+    "Análise de Exemplo": 2864
+  },
+  "confianca_media": 0.7418058514595032,
+  "confianca_mediana": 0.7574595212936401,
+  "confianca_min": 0.3344785273075104,
+  "confianca_max": 0.9387237429618835,
+  "alta_confianca_count": 2432,
+  "media_confianca_count": 2738,
+  "baixa_confianca_count": 1186
+}
