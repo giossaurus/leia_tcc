@@ -1,34 +1,38 @@
-# src/nlu/classifier.py
+# src/classifier/classifier.py
 
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 import torch
+import random
+import numpy as np
+import json
+import datetime
 from pathlib import Path
 import sys
 
-# Adiciona o diretório raiz do projeto ao path para permitir importações relativas se necessário
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 sys.path.append(str(ROOT_DIR))
 
 class NLUClassifier:
     def __init__(self, model_path: str):
-        """
-        Inicializa o classificador de intenção pedagógica.
-        Carrega um modelo e tokenizador treinados a partir de um caminho local.
+        random.seed(42)
+        np.random.seed(42)
+        torch.manual_seed(42)
+        if torch.cuda.is_available():
+            torch.cuda.manual_seed_all(42)
 
-        :param model_path: Caminho para a pasta do modelo salvo (ex: './models/leia_classifier_1k_final').
-        """
         try:
-            self.tokenizer = AutoTokenizer.from_pretrained(model_path)
-            self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
-            
-            # Utiliza a pipeline do Hugging Face para simplificar a predição e o processamento de softmax
-            self.classifier_pipeline = pipeline(
+            device = 0 if torch.cuda.is_available() else -1
+            self.pipeline = pipeline(
                 "text-classification",
-                model=self.model,
-                tokenizer=self.tokenizer,
-                return_all_scores=True # Retorna a probabilidade de todas as classes
+                model=model_path,
+                tokenizer=model_path,
+                device=device,
+                return_all_scores=True
             )
-            print(f"Modelo NLU carregado com sucesso de '{model_path}'")
+            log_dir = Path("logs")
+            log_dir.mkdir(exist_ok=True)
+
+            print(f"Modelo NLU carregado com sucesso de '{model_path}' (Device: {'GPU' if device == 0 else 'CPU'})")
         except Exception as e:
             print(f"Erro ao carregar o modelo de '{model_path}': {e}")
             raise e
@@ -44,22 +48,34 @@ class NLUClassifier:
             return {"label": "N/A", "confidence": 0.0, "error": "Input inválido."}
 
         try:
-            # A pipeline lida com a tokenização, inferência e softmax
-            predictions = self.classifier_pipeline(text)[0]
-            
-            # Encontrar o rótulo com a maior pontuação
-            best_prediction = max(predictions, key=lambda x: x['score'])
-            
-            return {
-                "label": best_prediction['label'],
-                "confidence": best_prediction['score']
+            # Run inference using the pipeline
+            result = self.pipeline(text)[0]
+            label = result["label"]
+            score = result["score"]
+
+            if score < 0.55:
+                label = "Conceitual"  # fallback
+            log = {
+                "timestamp": datetime.datetime.now().isoformat(),
+                "input": text,
+                "label": label,
+                "confidence": float(score),
+                "raw_scores": result
             }
+
+            try:
+                with open("logs/nlu_inference.jsonl", "a", encoding="utf-8") as f:
+                    f.write(json.dumps(log, ensure_ascii=False) + "\n")
+            except Exception as log_error:
+                print(f"Warning: Could not write to log file: {log_error}")
+
+            return {"label": label, "confidence": score}
+
         except Exception as e:
             print(f"Erro durante a predição: {e}")
             return {"label": "N/A", "confidence": 0.0, "error": str(e)}
 
 # --- Bloco de Teste ---
-# Este bloco só será executado quando você rodar este arquivo diretamente
 # Permite verificar se a classe está funcionando de forma independente
 if __name__ == '__main__':
     # Define o caminho para o nosso melhor modelo NLU a partir da raiz do projeto
