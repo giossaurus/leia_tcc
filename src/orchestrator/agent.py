@@ -1,9 +1,11 @@
-# src/orchestrator/agent.py
-
 import sys
 from pathlib import Path
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
+import json
+import datetime
+import uuid
+import re
 
 # --- Configuração de Caminho ---
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
@@ -14,6 +16,12 @@ from src.classifier.classifier import NLUClassifier
 class LeIAAgent:
     def __init__(self, nlu_model_path: str, nlg_model_name: str = "google/gemma-3-4b-it"):
         print("Inicializando o Agente LeIA...")
+
+        self.session_id = str(uuid.uuid4())
+        self.model_name = nlg_model_name
+
+        log_dir = Path("logs")
+        log_dir.mkdir(exist_ok=True)
 
         # --- Carregar Módulo NLU ---
         print(f"Carregando o Módulo NLU do caminho: {nlu_model_path}")
@@ -122,6 +130,27 @@ class LeIAAgent:
 
         # --- PASSO 4: Chamar o Módulo Gerador (Gemma 3 Local) ---
         generated_response = self._invoke_nlg(final_prompt)
+
+        if re.search(r"\b(definição|é quando|significa|é o ato de)\b", generated_response.lower()):
+            print("--> Detectada resposta direta. Reescrevendo em estilo dialógico...")
+            rewrite_prompt = f"Reescreva mantendo o estilo dialógico e freiriano, sem dar a resposta direta: {generated_response}"
+            generated_response = self._invoke_nlg(rewrite_prompt)
+
+        try:
+            event = {
+                "timestamp": datetime.datetime.now().isoformat(),
+                "session_id": self.session_id,
+                "user_input": user_question,
+                "nlu_label": nlu_result["label"],
+                "nlu_conf": nlu_result["confidence"],
+                "prompt": final_prompt,
+                "model_name": self.model_name,
+                "output": generated_response
+            }
+            with open("logs/agent_sessions.jsonl", "a", encoding="utf-8") as f:
+                f.write(json.dumps(event, ensure_ascii=False) + "\n")
+        except Exception as log_error:
+            print(f"Warning: Could not write to session log: {log_error}")
 
         return generated_response
 
