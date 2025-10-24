@@ -1,0 +1,32 @@
+{
+  "experiment_name": "phase4_multimodel",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct",
+  "start_time": "2025-10-23T20:55:25.807896",
+  "end_time": "2025-10-23T21:03:34.700409",
+  "total_turns": 4,
+  "duration_seconds": 488.892515,
+  "latency_avg_ms": 114500.1,
+  "latency_min_ms": 39613.78,
+  "latency_max_ms": 181684.57,
+  "vram_avg_mb": 0.0,
+  "vram_max_mb": 0.0,
+  "ram_avg_mb": 20679.1,
+  "ram_max_mb": 20901.2,
+  "trace_distribution": {
+    "EXECUTED_STANDARD (Análise de Exemplo)": 2,
+    "EXECUTED_STANDARD (Procedimental)": 2
+  },
+  "nlu_confidence_avg": 0.95,
+  "memory_delta": {
+    "ram": {
+      "used_mb_delta": 14281.23,
+      "percent_delta": 57.1
+    },
+    "vram": {
+      "allocated_mb_delta": 0.0,
+      "reserved_mb_delta": 0.0,
+      "percent_delta": 57.0
+    }
+  },
+  "model_size_estimate_mb": 0.0
+}

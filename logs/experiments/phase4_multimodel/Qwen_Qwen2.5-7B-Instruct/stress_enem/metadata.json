@@ -1,0 +1,52 @@
+{
+  "experiment_name": "phase4_multimodel",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct",
+  "start_time": "2025-10-23T22:22:59.593535",
+  "model_config": {
+    "model_id": "Qwen/Qwen2.5-7B-Instruct",
+    "use_quantization": false,
+    "quantization_bits": 4,
+    "device": "MPS",
+    "enable_tools": false
+  },
+  "test_scenario": {
+    "name": "stress_enem",
+    "num_turns": 8,
+    "description": "Testa consistência com múltiplas questões ENEM em sequência (conversa longa)"
+  },
+  "system_info": {
+    "gpu_info": {
+      "available": false,
+      "device_count": 0
+    },
+    "baseline_memory": {
+      "ram": {
+        "used_mb": 6400.5,
+        "available_mb": 25049.8,
+        "percent": 23.6,
+        "total_mb": 32768.0
+      },
+      "vram": {
+        "allocated_mb": 0.0,
+        "reserved_mb": 0.0,
+        "free_mb": 25046.84,
+        "total_mb": 32768.0,
+        "percent": 23.6,
+        "available": true,
+        "unified_memory": true,
+        "device_type": "mps"
+      }
+    },
+    "memory_delta": {
+      "ram": {
+        "used_mb_delta": 3300.84,
+        "percent_delta": 59.2
+      },
+      "vram": {
+        "allocated_mb_delta": 0.0,
+        "reserved_mb_delta": 0.0,
+        "percent_delta": 59.2
+      }
+    }
+  }
+}
