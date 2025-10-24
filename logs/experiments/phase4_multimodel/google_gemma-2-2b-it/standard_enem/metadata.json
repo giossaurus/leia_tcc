@@ -1,0 +1,52 @@
+{
+  "experiment_name": "phase4_multimodel",
+  "model_name": "google/gemma-2-2b-it",
+  "start_time": "2025-10-23T17:09:03.916936",
+  "model_config": {
+    "model_id": "google/gemma-2-2b-it",
+    "use_quantization": false,
+    "quantization_bits": 4,
+    "device": "MPS",
+    "enable_tools": false
+  },
+  "test_scenario": {
+    "name": "standard_enem",
+    "num_turns": 4,
+    "description": "Testa 4 questões reais do ENEM (1 por classe de intenção) com texto completo"
+  },
+  "system_info": {
+    "gpu_info": {
+      "available": false,
+      "device_count": 0
+    },
+    "baseline_memory": {
+      "ram": {
+        "used_mb": 11986.09,
+        "available_mb": 18586.62,
+        "percent": 43.3,
+        "total_mb": 32768.0
+      },
+      "vram": {
+        "allocated_mb": 0.0,
+        "reserved_mb": 0.0,
+        "free_mb": 18592.08,
+        "total_mb": 32768.0,
+        "percent": 43.3,
+        "available": true,
+        "unified_memory": true,
+        "device_type": "mps"
+      }
+    },
+    "memory_delta": {
+      "ram": {
+        "used_mb_delta": 6451.8,
+        "percent_delta": 20.1
+      },
+      "vram": {
+        "allocated_mb_delta": 0.0,
+        "reserved_mb_delta": 0.0,
+        "percent_delta": 20.1
+      }
+    }
+  }
+}

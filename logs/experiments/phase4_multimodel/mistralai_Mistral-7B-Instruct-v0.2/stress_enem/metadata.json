@@ -1,0 +1,52 @@
+{
+  "experiment_name": "phase4_multimodel",
+  "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+  "start_time": "2025-10-23T19:21:06.011490",
+  "model_config": {
+    "model_id": "mistralai/Mistral-7B-Instruct-v0.2",
+    "use_quantization": false,
+    "quantization_bits": 4,
+    "device": "MPS",
+    "enable_tools": false
+  },
+  "test_scenario": {
+    "name": "stress_enem",
+    "num_turns": 8,
+    "description": "Testa consistência com múltiplas questões ENEM em sequência (conversa longa)"
+  },
+  "system_info": {
+    "gpu_info": {
+      "available": false,
+      "device_count": 0
+    },
+    "baseline_memory": {
+      "ram": {
+        "used_mb": 4595.11,
+        "available_mb": 26938.52,
+        "percent": 17.8,
+        "total_mb": 32768.0
+      },
+      "vram": {
+        "allocated_mb": 0.0,
+        "reserved_mb": 0.0,
+        "free_mb": 26931.28,
+        "total_mb": 32768.0,
+        "percent": 17.8,
+        "available": true,
+        "unified_memory": true,
+        "device_type": "mps"
+      }
+    },
+    "memory_delta": {
+      "ram": {
+        "used_mb_delta": 14659.27,
+        "percent_delta": 47.3
+      },
+      "vram": {
+        "allocated_mb_delta": 0.0,
+        "reserved_mb_delta": 0.0,
+        "percent_delta": 47.3
+      }
+    }
+  }
+}
