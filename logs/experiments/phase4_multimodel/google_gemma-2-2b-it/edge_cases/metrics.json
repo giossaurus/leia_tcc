@@ -1,0 +1,31 @@
+{
+  "experiment_name": "phase4_multimodel",
+  "model_name": "google/gemma-2-2b-it",
+  "start_time": "2025-10-23T17:02:18.987526",
+  "end_time": "2025-10-23T17:03:07.954204",
+  "total_turns": 4,
+  "duration_seconds": 48.966681,
+  "latency_avg_ms": 11247.41,
+  "latency_min_ms": 3838.1,
+  "latency_max_ms": 18021.19,
+  "vram_avg_mb": 0.0,
+  "vram_max_mb": 0.0,
+  "ram_avg_mb": 18992.22,
+  "ram_max_mb": 19033.5,
+  "trace_distribution": {
+    "EXECUTED_STANDARD (Conceitual)": 4
+  },
+  "nlu_confidence_avg": 0.4461,
+  "memory_delta": {
+    "ram": {
+      "used_mb_delta": 6839.03,
+      "percent_delta": 20.9
+    },
+    "vram": {
+      "allocated_mb_delta": 0.0,
+      "reserved_mb_delta": 0.0,
+      "percent_delta": 20.9
+    }
+  },
+  "model_size_estimate_mb": 0.0
+}
