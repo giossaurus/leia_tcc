@@ -1,0 +1,33 @@
+{
+  "experiment_name": "phase4_multimodel",
+  "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+  "start_time": "2025-10-23T17:56:28.964865",
+  "end_time": "2025-10-23T17:59:01.404809",
+  "total_turns": 4,
+  "duration_seconds": 152.439946,
+  "latency_avg_ms": 32746.03,
+  "latency_min_ms": 21978.96,
+  "latency_max_ms": 48431.59,
+  "vram_avg_mb": 0.0,
+  "vram_max_mb": 0.0,
+  "ram_avg_mb": 20078.09,
+  "ram_max_mb": 20507.52,
+  "trace_distribution": {
+    "EXECUTED_STANDARD (Análise de Exemplo)": 1,
+    "EXECUTED_STANDARD (Conceitual)": 1,
+    "EXECUTED_SCAFFOLDING": 2
+  },
+  "nlu_confidence_avg": 0.7037,
+  "memory_delta": {
+    "ram": {
+      "used_mb_delta": 15076.5,
+      "percent_delta": 52.8
+    },
+    "vram": {
+      "allocated_mb_delta": 0.0,
+      "reserved_mb_delta": 0.0,
+      "percent_delta": 52.8
+    }
+  },
+  "model_size_estimate_mb": 0.0
+}
