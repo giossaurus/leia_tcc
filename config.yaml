@@ -1,0 +1,242 @@
+# ============================================================================
+# LeIA - Configuração do Sistema
+# ============================================================================
+#
+# Este arquivo centraliza todos os parâmetros configuráveis do sistema LeIA.
+# Modificações aqui afetam o comportamento de todos os módulos.
+#
+# Data de criação: 23/10/2025
+# ============================================================================
+
+# ----------------------------------------------------------------------------
+# Modelos NLU (Natural Language Understanding)
+# ----------------------------------------------------------------------------
+nlu:
+  # Caminho para o modelo de classificação de intenções
+  model_path: "models/leia_classifier_1k_final"
+
+  # Limiar de confiança para fallback (Conceitual)
+  confidence_threshold: 0.55
+
+  # Habilitar heurísticas (regex patterns)
+  enable_heuristics: true
+
+  # Confiança das heurísticas quando há match
+  heuristic_confidence: 0.95
+
+
+# ----------------------------------------------------------------------------
+# Modelos NLG (Natural Language Generation)
+# ----------------------------------------------------------------------------
+# Configurações específicas por família de modelo
+#
+# Definição de parâmetros padrão (DRY - Don't Repeat Yourself)
+_default_nlg_params: &default_nlg_params
+  max_new_tokens: 768
+  temperature: 0.7
+  top_k: 50
+  top_p: 0.95
+  do_sample: true
+
+nlg:
+  # Família Gemma (usa parâmetros padrão)
+  gemma: *default_nlg_params
+
+  # Família Llama (usa parâmetros padrão)
+  llama: *default_nlg_params
+
+  # Família Mistral (usa parâmetros padrão)
+  mistral: *default_nlg_params
+
+  # Família Phi (usa parâmetros padrão)
+  phi: *default_nlg_params
+
+  # Qwen (usa parâmetros padrão)
+  qwen: *default_nlg_params
+
+  # EXEMPLO: Como sobrescrever parâmetros específicos mantendo os demais
+  # gemma_experimental:
+  #   <<: *default_nlg_params  # Herda todos os parâmetros padrão
+  #   temperature: 0.9          # Sobrescreve apenas este parâmetro
+
+
+# ----------------------------------------------------------------------------
+# Agente FreireAgent
+# ----------------------------------------------------------------------------
+agent:
+  # Memória de conversa
+  memory:
+    max_history: 10  # Número máximo de turnos a manter
+    context_window: 3  # Turnos incluídos no contexto de respostas
+
+  # Ferramentas (ReAct framework)
+  tools:
+    enable_by_default: false
+    available:
+      - search  # DuckDuckGo search
+
+  # Scaffolding (suporte adicional)
+  scaffolding:
+    # Palavras-chave que ativam scaffolding
+    triggers:
+      - "não sei"
+      - "nao sei"
+      - "me explique"
+      - "me explica"
+      - "não entendi"
+      - "nao entendi"
+      - "não compreendi"
+      - "explique"
+      - "explica"
+      - "o que é isso"
+      - "o que e isso"
+      - "me ajuda"
+      - "me ajude"
+      - "socorro"
+
+  # ReAct Tool Usage Heuristics
+  react:
+    # Keywords que indicam necessidade de busca externa
+    search_keywords:
+      - "quando aconteceu"
+      - "em que ano"
+      - "data de"
+      - "onde fica"
+      - "localização"
+      - "notícia"
+      - "recente"
+      - "atual"
+      - "hoje"
+      - "agora"
+
+
+# ----------------------------------------------------------------------------
+# Logging
+# ----------------------------------------------------------------------------
+logging:
+  # Nível de logging (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+  level: INFO
+
+  # Formato de timestamp nos logs
+  timestamp_format: "%Y-%m-%d %H:%M:%S"
+
+  # Diretório base para logs de experimentos
+  experiments_dir: "logs/experiments"
+
+  # Diretório para logs de batch runs
+  batch_runs_dir: "logs/batch_runs"
+
+
+# ----------------------------------------------------------------------------
+# Experimentos - Fase 4
+# ----------------------------------------------------------------------------
+experiments:
+  phase4:
+    # Nome padrão do experimento
+    default_name: "phase4_multimodel"
+
+    # Configurações de hardware
+    hardware:
+      use_quantization: false  # Desabilitado para Mac M1 (MPS)
+      quantization_bits: 4
+      device: auto  # auto, cuda, mps, cpu
+
+    # Cenários de teste disponíveis
+    scenarios:
+      - standard
+      - scaffolding
+      - react
+      - stress
+      - edge_cases
+      - standard_enem
+      - guardrail_enem
+      - scaffolding_complex_enem
+      - stress_enem
+      - edge_cases_enem
+
+
+# ----------------------------------------------------------------------------
+# Prompts - Sistema Freiriano
+# ----------------------------------------------------------------------------
+prompts:
+  # Configurações do sistema de prompts
+  system:
+    persona_name: "LeIA"
+    full_name: "Learning Intelligence Assistant"
+    philosophy: "Paulo Freire"
+
+  # Configurações de condensação de perguntas
+  condense:
+    max_context_turns: 3  # Turnos de contexto ao condensar pergunta
+
+  # Configurações de scaffolding
+  scaffolding:
+    max_history_turns: 5  # Histórico incluído no scaffolding
+
+
+# ----------------------------------------------------------------------------
+# Paths - Caminhos do Projeto
+# ----------------------------------------------------------------------------
+paths:
+  # Raiz do projeto (relativo a este arquivo)
+  root: "."
+
+  # Dados
+  data:
+    raw: "data/raw"
+    interim: "data/interim"
+    processed: "data/processed"
+
+  # Modelos
+  models: "models"
+
+  # Notebooks
+  notebooks: "notebooks"
+
+  # Resultados
+  results: "results"
+
+  # Logs
+  logs: "logs"
+
+
+# ----------------------------------------------------------------------------
+# Desenvolvimento e Debug
+# ----------------------------------------------------------------------------
+dev:
+  # Modo debug (mais logs, sem cache, etc.)
+  debug_mode: false
+
+  # Seed para reprodutibilidade
+  random_seed: 42
+
+  # Verbose output
+  verbose: true
+
+
+# ============================================================================
+# NOTAS DE USO:
+#
+# 1. Para carregar este arquivo em Python:
+#    ```python
+#    import yaml
+#    with open('config.yaml') as f:
+#        config = yaml.safe_load(f)
+#    ```
+#
+# 2. Para acessar valores:
+#    ```python
+#    max_tokens = config['nlg']['gemma']['max_new_tokens']
+#    ```
+#
+# 3. Para sobrescrever valores via código:
+#    ```python
+#    load_nlg_model("google/gemma-2-2b-it", max_new_tokens=512)
+#    ```
+#
+# 4. Validação:
+#    - Valores devem ser do tipo correto (int, float, str, bool, list)
+#    - Caminhos são relativos à raiz do projeto
+#    - Nomes de modelos devem corresponder aos IDs do HuggingFace
+#
+# ============================================================================

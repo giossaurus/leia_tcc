@@ -16,7 +16,7 @@ data/raw/simulados_enem
 data/raw/simulados_enem
 /data/raw
 /data/raw
-/REVIEW
+/LOCAL_USE_ONLY/
 .claude
 /logs/batch_runs
 /logs/experiment_runner.log
