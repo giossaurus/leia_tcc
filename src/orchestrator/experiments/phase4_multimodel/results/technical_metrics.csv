@@ -1,0 +1,4 @@
+Modelo,Latência Média (ms),Latência Min (ms),Latência Max (ms),VRAM Máxima (MB),VRAM Média (MB),RAM Máxima (MB),Total de Turnos
+Qwen_Qwen2.5-7B-Instruct,124996.76,13439.72,330123.36,0.0,0.0,22430.83,29
+google_gemma-2-2b-it,21191.33,2376.18,116975.44,0.0,0.0,19288.66,21
+mistralai_Mistral-7B-Instruct-v0.2,46174.75,10247.28,135211.72,0.0,0.0,23645.94,29

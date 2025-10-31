@@ -20,3 +20,4 @@ data/raw/simulados_enem
 .claude
 /logs/batch_runs
 /logs/experiment_runner.log
+docs/ANALYSIS_NOTEBOOK_IMPROVEMENTS.md
