@@ -1,0 +1,16 @@
+Modelo,Trace,Contagem,Percentual (%)
+Qwen_Qwen2.5-7B-Instruct,EXECUTED_STANDARD (Conceitual),8,27.6
+Qwen_Qwen2.5-7B-Instruct,EXECUTED_SCAFFOLDING,8,27.6
+Qwen_Qwen2.5-7B-Instruct,EXECUTED_STANDARD (Análise de Exemplo),6,20.7
+Qwen_Qwen2.5-7B-Instruct,EXECUTED_STANDARD (Procedimental),6,20.7
+Qwen_Qwen2.5-7B-Instruct,EXECUTED_STANDARD (Comparativo),1,3.4
+google_gemma-2-2b-it,EXECUTED_STANDARD (Procedimental),6,28.6
+google_gemma-2-2b-it,EXECUTED_STANDARD (Conceitual),6,28.6
+google_gemma-2-2b-it,EXECUTED_STANDARD (Análise de Exemplo),4,19.0
+google_gemma-2-2b-it,EXECUTED_SCAFFOLDING,4,19.0
+google_gemma-2-2b-it,EXECUTED_STANDARD (Comparativo),1,4.8
+mistralai_Mistral-7B-Instruct-v0.2,EXECUTED_STANDARD (Procedimental),8,27.6
+mistralai_Mistral-7B-Instruct-v0.2,EXECUTED_STANDARD (Análise de Exemplo),7,24.1
+mistralai_Mistral-7B-Instruct-v0.2,EXECUTED_STANDARD (Conceitual),7,24.1
+mistralai_Mistral-7B-Instruct-v0.2,EXECUTED_SCAFFOLDING,6,20.7
+mistralai_Mistral-7B-Instruct-v0.2,EXECUTED_STANDARD (Comparativo),1,3.4
