@@ -1,0 +1,4 @@
+Modelo,Total de Turnos,✓ Manutenção de Persona (%),✓ Uso de Scaffolding (%),✓ ReAct Sem Loops (%),✗ Resposta Direta (%),✗ Metalinguagem (%),✗ Loop ReAct (%)
+Qwen_Qwen2.5-7B-Instruct,29,33.3,27.6,0,66.7,0.0,0.0
+google_gemma-2-2b-it,21,47.1,19.0,0,52.9,0.0,0.0
+mistralai_Mistral-7B-Instruct-v0.2,29,13.0,20.7,0,87.0,0.0,0.0
