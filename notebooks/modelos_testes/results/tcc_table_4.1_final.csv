@@ -1,0 +1,4 @@
+Modelo,Latência (ms),VRAM (MB),RAM (MB),Persona OK (%),Scaffold. (%),Falha Persona (%),Falha Meta (%),Falha Loop (%)
+google_gemma-2-2b-it,17119.79,0.0,19605.97,47.4,24.0,52.6,0.0,0.0
+Qwen_Qwen2.5-7B-Instruct,109935.3,0.0,22430.83,33.3,27.6,66.7,0.0,0.0
+mistralai_Mistral-7B-Instruct-v0.2,41065.34,0.0,23645.94,13.0,20.7,87.0,0.0,0.0
