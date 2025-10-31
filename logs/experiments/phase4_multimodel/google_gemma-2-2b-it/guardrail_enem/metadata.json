@@ -1,7 +1,7 @@
 {
   "experiment_name": "phase4_multimodel",
   "model_name": "google/gemma-2-2b-it",
-  "start_time": "2025-10-23T17:10:52.908780",
+  "start_time": "2025-10-24T00:58:42.439541",
   "model_config": {
     "model_id": "google/gemma-2-2b-it",
     "use_quantization": false,
@@ -21,17 +21,17 @@
     },
     "baseline_memory": {
       "ram": {
-        "used_mb": 11497.91,
-        "available_mb": 18857.8,
-        "percent": 42.5,
+        "used_mb": 11894.14,
+        "available_mb": 19532.0,
+        "percent": 40.4,
         "total_mb": 32768.0
       },
       "vram": {
         "allocated_mb": 0.0,
         "reserved_mb": 0.0,
-        "free_mb": 18858.92,
+        "free_mb": 19541.86,
         "total_mb": 32768.0,
-        "percent": 42.4,
+        "percent": 40.4,
         "available": true,
         "unified_memory": true,
         "device_type": "mps"
@@ -39,13 +39,13 @@
     },
     "memory_delta": {
       "ram": {
-        "used_mb_delta": 6947.81,
-        "percent_delta": 21.2
+        "used_mb_delta": 7164.2,
+        "percent_delta": 21.6
       },
       "vram": {
         "allocated_mb_delta": 0.0,
         "reserved_mb_delta": 0.0,
-        "percent_delta": 21.3
+        "percent_delta": 21.6
       }
     }
   }
